@@ -3,7 +3,16 @@
   <div class="row">
     <div class="col-md-12">
       <h3>Gorgeous Web Interfaces for Businesses<br>  All Over the Planet </h3>
-      <p class="text-center">In a world that revolves around the internet, a beautiful web presence <br>is what every company needs. We provide our customers with results through pocket-friendly packages.</p>
+   
+    
+    <p class="text-center max_width">Our family of WordPress web designers and developers, ecommerce website designers and pretty much any
+	        website design help us stand tall against some of the best website design and development companies online.
+	        Need something different like custom WordPress web designs? Look no further. Our team of WordPress website designers
+	        are enough to take over your project. Additionally, our WordPress website designers also look over the web maintenance
+	        after the project is deployed. Our web design and development team thinks hugely different when it comes to making gorgeous
+	        web interfaces. Reach us today and discuss your web design or development project. We provide our customers with results through pocket-friendly packages.</p>
+    
+    
     </div>
   </div>
 

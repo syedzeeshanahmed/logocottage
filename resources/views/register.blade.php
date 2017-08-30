@@ -40,7 +40,7 @@
             <input type="text" class="form-control"  name="name" placeholder="name here" required="required">
             <input type="email" class="form-control"  name="email" placeholder="email here" required="required">
             <input type="password" class="form-control"  name="password" placeholder="password here" required="required">
-            <input type="number" class="form-control"  name="number" placeholder="number here" required="required">
+            <input type="number" class="form-control"  name="number" placeholder="number here" required="required"> 
             <input type="text" class="form-control"  name="city" placeholder="city here" required="required">
             <input type="text" class="form-control"  name="country" placeholder="country here" required="required">
         
@@ -75,7 +75,7 @@
   </div>
   <div class="col-md-6">
    <div class=" main-privacy">
-    <a class="privacy" href="#">Privacy Policy</a> <a class="term" href="#">Terms of Service</a>
+    <a class="privacy" href="{{ route('privacy-policy') }}">Privacy Policy</a> <a class="term" href="{{ route('term') }}">Terms of Service</a>
   </div>
  </div> 
   </div>

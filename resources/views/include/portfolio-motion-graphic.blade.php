@@ -6,38 +6,63 @@
         
         <div class="contest-list__item">
           <div class="contest">
-            <a href="#portfolio48" data-toggle="modal" ><img src="{{asset('img/portfolio-services/motion/motion_portfolio_01.png')}}"></a>
+            <a href="#portfolio48" data-toggle="modal" ><img src="{{asset('img/portfolio/motion-graphics-01.gif')}}"></a>
           </div>
         </div>
 
 
         <div class="contest-list__item">
           <div class="contest">
-            <a href="#portfolio49" data-toggle="modal" ><img src="{{asset('img/portfolio-services/motion/motion_portfolio_02.png')}}"></a>
+            <a href="#portfolio49" data-toggle="modal" ><img src="{{asset('img/portfolio/motion-graphics-02.gif')}}"></a>
           </div>
         </div>
 
 
         <div class="contest-list__item">
           <div class="contest">
-            <a href="#portfolio50" data-toggle="modal" ><img src="{{asset('img/portfolio-services/motion/motion_portfolio_03.png')}}"></a>
+            <a href="#portfolio50" data-toggle="modal" ><img src="{{asset('img/portfolio/motion-graphics-03-3.gif')}}"></a>
+          </div>
+        </div>
+
+
+ 
+
+        <div class="contest-list__item">
+          <div class="contest">
+            <a href="#portfolio52" data-toggle="modal" ><img src="{{asset('img/portfolio/motion-graphics-05.gif')}}"></a>
+          </div>
+        </div>
+
+
+                
+        <div class="contest-list__item">
+          <div class="contest">
+            <a href="#portfolio48" data-toggle="modal" ><img src="{{asset('img/portfolio/motion-graphics-11.gif')}}"></a>
           </div>
         </div>
 
 
         <div class="contest-list__item">
           <div class="contest">
-            <a href="#portfolio51" data-toggle="modal" ><img src="{{asset('img/portfolio-services/motion/motion_portfolio_04.png')}}"></a>
+            <a href="#portfolio49" data-toggle="modal" ><img src="{{asset('img/portfolio/motion-graphics-12.gif')}}"></a>
           </div>
         </div>
 
 
         <div class="contest-list__item">
           <div class="contest">
-            <a href="#portfolio52" data-toggle="modal" ><img src="{{asset('img/portfolio-services/motion/motion_portfolio_05.png')}}"></a>
+            <a href="#portfolio50" data-toggle="modal" ><img src="{{asset('img/portfolio/motion-graphics-13-sq.gif')}}"></a>
           </div>
         </div>
 
+
+ 
+
+        <div class="contest-list__item">
+          <div class="contest">
+            <a href="#portfolio52" data-toggle="modal" ><img src="{{asset('img/portfolio/motion-graphics-14-sq.gif')}}"></a>
+          </div>
+        </div>
 
 
         
@@ -59,35 +84,70 @@
         
         <div class="contest-list__item">
           <div class="contest">
-            <a href="#portfolio53" data-toggle="modal" ><img src="{{asset('img/portfolio-services/motion/motion_portfolio_06.png')}}"></a>
+            <a href="#portfolio53" data-toggle="modal" ><img src="{{asset('img/portfolio/motion-graphics-06-6.gif')}}"></a>
           </div>
         </div>
 
 
         <div class="contest-list__item">
           <div class="contest">
-            <a href="#portfolio54" data-toggle="modal" ><img src="{{asset('img/portfolio-services/motion/motion_portfolio_07.png')}}"></a>
+            <a href="#portfolio54" data-toggle="modal" ><img src="{{asset('img/portfolio/motion-graphics-07-7.gif')}}"></a>
           </div>
         </div>
 
 
         <div class="contest-list__item">
           <div class="contest">
-            <a href="#portfolio55" data-toggle="modal" ><img src="{{asset('img/portfolio-services/motion/motion_portfolio_08.png')}}"></a>
+            <a href="#portfolio55" data-toggle="modal" ><img src="{{asset('img/portfolio/motion-graphics-08.gif')}}"></a>
           </div>
         </div>
 
 
         <div class="contest-list__item">
           <div class="contest">
-            <a href="#portfolio56" data-toggle="modal" ><img src="{{asset('img/portfolio-services/motion/motion_portfolio_09.png')}}"></a>
+            <a href="#portfolio56" data-toggle="modal" ><img src="{{asset('img/portfolio/motion-graphics-09.gif')}}"></a>
           </div>
         </div>
 
 
         <div class="contest-list__item">
           <div class="contest">
-            <a href="#portfolio57" data-toggle="modal" ><img src="{{asset('img/portfolio-services/motion/motion_portfolio_10.png')}}"></a>
+            <a href="#portfolio57" data-toggle="modal" ><img src="{{asset('img/portfolio/motion-graphics-10.gif')}}"></a>
+          </div>
+        </div>
+
+
+        <div class="contest-list__item">
+          <div class="contest">
+            <a href="#portfolio53" data-toggle="modal" ><img src="{{asset('img/portfolio/motion-graphics-15.gif')}}"></a>
+          </div>
+        </div>
+
+
+        <div class="contest-list__item">
+          <div class="contest">
+            <a href="#portfolio54" data-toggle="modal" ><img src="{{asset('img/portfolio/motion-graphics-16-sq.gif')}}"></a>
+          </div>
+        </div>
+
+
+        <div class="contest-list__item">
+          <div class="contest">
+            <a href="#portfolio55" data-toggle="modal" ><img src="{{asset('img/portfolio/motion-graphics-17-sq.gif')}}"></a>
+          </div>
+        </div>
+
+
+        <div class="contest-list__item">
+          <div class="contest">
+            <a href="#portfolio56" data-toggle="modal" ><img src="{{asset('img/portfolio/motion-graphics-18.gif')}}"></a>
+          </div>
+        </div>
+
+
+        <div class="contest-list__item">
+          <div class="contest">
+            <a href="#portfolio57" data-toggle="modal" ><img src="{{asset('img/portfolio/motion-graphics-19.gif')}}"></a>
           </div>
         </div>
 
@@ -96,3 +156,5 @@
     </div>
   </div>
 </section>
+
+

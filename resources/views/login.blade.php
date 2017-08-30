@@ -57,7 +57,7 @@
         @endif 
         <input type="email" id="inputEmail" class="form-control" placeholder="Email Address or ID" name="email" required="required" >
 
-        <input type="password" id="inputPassword" class="form-control"  name="password" placeholder="password here" required="required">
+        <input type="password" id="inputPassword" class="form-control"  name="password" placeholder="password here" required="required"> 
         {{ csrf_field() }}
         <div class="checkbox forget">
           
@@ -83,7 +83,7 @@
   </div>
   <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 clearfix">
    <div class=" main-privacy">
-    <a class="privacy" href="#">Privacy Policy</a> <a class="term" href="#">Terms of Service</a>
+    <a class="privacy" href="{{ route('privacy-policy') }}">Privacy Policy</a> <a class="term" href="{{ route('term') }}">Terms of Service</a>
   </div>
  </div> 
   </div>

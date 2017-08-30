@@ -147,7 +147,7 @@ h3{
 
 <span class="icon-placeholder"></span>
 
-        <span class="para">1026 Hennepin Ave. Minneapolis,<br /> MN 22408, USA</span></p>
+        <span class="para">Mid-Market, 1390 Market Street, Suite 200<br />, San Francisco, 94102, USA</span>
 
         </div>
        </div>

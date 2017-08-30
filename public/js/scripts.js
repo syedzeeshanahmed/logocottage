@@ -277,8 +277,8 @@ $(".package-slider").sensation({
     {
       breakpoint: 600,
       settings: {
-        slidesToShow: 1,
-        slidesToScroll: 1,
+        slidesToShow: 2,
+        slidesToScroll: 2,
          arrows: true
       }
     },
@@ -802,7 +802,7 @@ $(function(){
        breakpoint: 768,
        settings: {
          arrows: false,
-         slidesToShow: 2
+         slidesToShow: 3
        }
      },
      {

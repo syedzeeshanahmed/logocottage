@@ -1,20 +1,28 @@
 @extends('layout.master')
 @section('metas')
-<title>Discuss Your Project with Us | Contact Us</title>
+<title>Discuss with the best logo and web designers in the town | Contact Us</title>
 <meta description="Like what you see? Talk to us today and discuss your project with our experts. We’re here to provide everything you require.">
 @stop
 @section('body')
 <style type="text/css">
   
-  .secondary-nav-wrap{ display: none; }
+.secondary-nav-wrap{ display: none; }
     header .logo a { background-position: bottom center;   }
     .call-action span{ color: #16a085; }
     .call-action span small{ color: #626262; }
     .nav-toggle{ opacity: 0.3; }
+
+    .hero-services {
+      background: url( '{{ asset("none") }}' );
+      background-size: auto !important;
+    height:auto;
+    background-color:#fff !important;
+    }
+
     #header-sroll{ background-color: #fff;     box-shadow: 1px -10px 26px #b7b7b7; }
 
 
-
+    
 
 
 header #header-sroll ul#navigation li a {color: #888888; opacity: 1;  -webkit-transition: none;
@@ -45,18 +53,7 @@ header #header-sroll .call-action a {color: #888888;  -webkit-transition: none;
 header #header-sroll .nav-toggle span, header #header-sroll .nav-toggle span:before, header #header-sroll .nav-toggle span:after{    background: #631a79;}
 
 
-.top-action .btn-line-fill{ color: #fff; }
-
-header #header-sroll .top-action .btn-line-fill{ color: #b8285a; }
-
-#header-sroll.small .top-action .btn-line-fill{ color: #b8285a; }
-.top-action .btn-line-fill:hover{ color: #fff!important; }
-
 #header-sroll.small .nav-toggle span, #header-sroll.small .nav-toggle span:before, #header-sroll.small .nav-toggle span:after{background: #631a79;}
-
-
-
-
 </style>
 <div class="contact">
   <section class="contact-topinfo">

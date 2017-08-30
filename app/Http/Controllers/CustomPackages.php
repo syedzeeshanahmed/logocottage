@@ -82,7 +82,8 @@ class CustomPackages extends Controller
             'Motion Graphics'
         ];
 
-        $emailAddons=null;
+        $emailAddons=null; 
+        $isUser=true;
 
         $validator = Validator::make($request->all(), $this->rules_custom);
         

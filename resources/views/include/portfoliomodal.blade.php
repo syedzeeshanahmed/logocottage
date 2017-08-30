@@ -20,10 +20,10 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-brand">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 text-center"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 text-center"> 
                <img src="{{asset('img/portfolio/Raw-01-cover.png')}}"> 
                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                  <div class="content-height">
                    
                 <div class="d_t">
@@ -84,10 +84,10 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-brand">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                <img src="{{asset('img/portfolio/ms-e901-cover.png')}}"> 
                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                  <div class="content-height">
                    
                 <div class="d_t">
@@ -148,10 +148,10 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-brand">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                <img src="{{asset('img/portfolio/13-01.png')}}"> 
                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                  <div class="content-height">
                    
                 <div class="d_t">
@@ -211,10 +211,10 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-brand">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                <img src="{{asset('img/portfolio/10-01.png')}}"> 
                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                  <div class="content-height">
                    
                 <div class="d_t">
@@ -273,10 +273,10 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-brand">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                <img src="{{asset('img/portfolio/the-vet-cover.png')}}"> 
                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                  <div class="content-height">
                    
                 <div class="d_t">
@@ -336,10 +336,10 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-brand">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                <img src="{{asset('img/portfolio/17-portfolio-cover.png')}}"> 
                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                  <div class="content-height">
                    
                 <div class="d_t">
@@ -394,10 +394,10 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-brand">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                <img src="{{asset('img/portfolio/ls-portfolio-cover.png')}}"> 
                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                  <div class="content-height">
                    
                 <div class="d_t">
@@ -452,10 +452,10 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-brand">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                <img src="{{asset('img/portfolio/ak-portfolio-2-cover.png')}}"> 
                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                  <div class="content-height">
                    
                 <div class="d_t">
@@ -510,10 +510,10 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-brand">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                <img src="{{asset('img/portfolio/07-01.png')}}"> 
                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                  <div class="content-height">
                    
                 <div class="d_t">
@@ -570,10 +570,10 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-brand">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                <img src="{{asset('img/portfolio/ls-portfolio-cover.png')}}"> 
                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                  <div class="content-height">
                    
                 <div class="d_t">
@@ -628,10 +628,10 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-brand">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                <img src="{{asset('img/portfolio/07-01.png')}}"> 
                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                  <div class="content-height">
                    
                 <div class="d_t">
@@ -686,10 +686,10 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-brand">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                <img src="{{asset('img/portfolio/ol-portfolio-cover.png')}}"> 
                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                  <div class="content-height">
                    
                 <div class="d_t">
@@ -744,10 +744,10 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-brand">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                <img src="{{asset('img/portfolio/msb-portfolio-cover.png')}}"> 
                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                  <div class="content-height">
                    
                 <div class="d_t">
@@ -801,10 +801,10 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-brand">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                <img src="{{asset('img/portfolio/10-01-cover.png')}}"> 
                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                  <div class="content-height">
                    
                 <div class="d_t">
@@ -858,10 +858,10 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-brand">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                <img src="{{asset('img/portfolio/un-portfolio-cover.png')}}"> 
                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                  <div class="content-height">
                    
                 <div class="d_t">
@@ -916,10 +916,10 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-brand">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                <img src="{{asset('img/portfolio/3-portfolio-cover.png')}}"> 
                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                  <div class="content-height">
                    
                 <div class="d_t">
@@ -974,10 +974,10 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-brand">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                <img src="{{asset('img/portfolio/ak-portfolio-cover.png')}}"> 
                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                  <div class="content-height">
                    
                 <div class="d_t">
@@ -1032,10 +1032,10 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-brand">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                <img src="{{asset('img/portfolio/jh-portfolio-cover.png')}}"> 
                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                  <div class="content-height">
                    
                 <div class="d_t">
@@ -1091,10 +1091,10 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-brand">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                <img src="{{asset('img/portfolio/sports-cover.png')}}"> 
                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                  <div class="content-height">
                    
                 <div class="d_t">
@@ -1149,10 +1149,10 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-brand">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                <img src="{{asset('img/portfolio/ms-portfolio-cover.png')}}"> 
                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                  <div class="content-height">
                    
                 <div class="d_t">
@@ -1207,10 +1207,10 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-brand">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                <img src="{{asset('img/portfolio/vs-portfolio-cover.png')}}"> 
                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                  <div class="content-height">
                    
                 <div class="d_t">
@@ -1265,11 +1265,11 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 web-demo-02"></div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="content-height">
                    
                 <div class="d_t">
@@ -1331,10 +1331,10 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-brand">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                <img src="{{asset('img/portfolio/10-01.png')}}"> 
                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                  <div class="content-height">
                    
                 <div class="d_t">
@@ -1392,10 +1392,10 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-brand">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                <img src="{{asset('img/portfolio/12-portfolio-book-cover.png')}}"> 
                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                  <div class="content-height">
                    
                 <div class="d_t">
@@ -1454,7 +1454,7 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <img src="{{asset('img/12-01.png')}}"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 web-demo-01">
@@ -1464,7 +1464,7 @@
 
                       </div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                <div class="content-height">
                    
                 <div class="d_t">
@@ -1526,10 +1526,10 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-brand">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                <img src="{{asset('img/13-01.png')}}"> 
                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                  <div class="content-height">
                    
                 <div class="d_t">
@@ -1588,10 +1588,10 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-brand">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                <img src="{{asset('img/portfolio/11-portfolio-identity.png')}}"> 
                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                  <div class="content-height">
                    
                 <div class="d_t">
@@ -1649,10 +1649,10 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-brand">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                <img src="{{asset('img/portfolio/14-portfolio-identity.png')}}"> 
                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                  <div class="content-height">
                    
                 <div class="d_t">
@@ -1710,7 +1710,7 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 ios-demo01">
                         
@@ -1720,7 +1720,7 @@
 
                       </div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                <div class="content-height">
                    
                 <div class="d_t">
@@ -1777,7 +1777,7 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                <img src="{{asset('img/17.png')}}"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 ios-demo01">
@@ -1788,7 +1788,7 @@
 
                       </div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                <div class="content-height">
                    
                 <div class="d_t">
@@ -1843,7 +1843,7 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <img src="{{asset('img/19-01.png')}}"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 ios-demo01">
@@ -1854,7 +1854,7 @@
 
                       </div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                <div class="content-height">
                    
                 <div class="d_t">
@@ -1911,10 +1911,10 @@
           <div class="d_t" style="width: 80%;">
             <div class="d_c">
               <div class="row if-phone">
-                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 col-lg-offset-2"> <div class="a-iphone-placeholder">
+                <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 col-lg-offset-2"> <div class="a-iphone-placeholder">
                       <div class="a-iphone-placeholder-demo01 ios-demo01"></div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                <div class="content-height">
                    
                 <div class="d_t">
@@ -1973,11 +1973,11 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 ios-demo01"></div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                  <div class="content-height">
                    
                 <div class="d_t">
@@ -2033,11 +2033,11 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 web-placeholder-demo02 web-portfolio"><img src="{{asset('img/portfolio/Home-(SA)-(8)-Financial.png')}}"></div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="content-height">
                    
                 <div class="d_t">
@@ -2092,11 +2092,11 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 web-placeholder-demo02 web-portfolio"><img src="{{asset('img/portfolio/N_Battle-League-gaming.png')}}"></div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="content-height">
                    
                 <div class="d_t">
@@ -2152,11 +2152,11 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 web-placeholder-demo02 web-portfolio"><img src="{{asset('img/portfolio/N_EGI-Applications-Inc-Advertising.png')}}"></div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="content-height">
                    
                 <div class="d_t">
@@ -2211,11 +2211,11 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 web-placeholder-demo02 web-portfolio"><img src="{{asset('img/portfolio/N_gresilva-USA-health.png')}}"></div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="content-height">
                    
                 <div class="d_t">
@@ -2270,11 +2270,11 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 web-placeholder-demo02 web-portfolio"><img src="{{asset('img/portfolio/N_Perceptive-MG-travel.png')}}"></div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="content-height">
                    
                 <div class="d_t">
@@ -2329,11 +2329,11 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 web-placeholder-demo02 web-portfolio"><img src="{{asset('img/portfolio/N_VW-Breakers-UK-AUTOMATIVE.png')}}"></div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="content-height">
                    
                 <div class="d_t">
@@ -2388,11 +2388,11 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 web-placeholder-demo02 web-portfolio"><img src="{{asset('img/portfolio/NK_Afro-Signatures_R1-media.png')}}"></div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="content-height">
                    
                 <div class="d_t">
@@ -2447,11 +2447,11 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 web-placeholder-demo02 web-portfolio"><img src="{{asset('img/portfolio/NK_Beast-Strong-sports.png')}}"></div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="content-height">
                    
                 <div class="d_t">
@@ -2510,11 +2510,11 @@
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 web-placeholder-demo02 web-portfolio"><img src="{{asset('img/portfolio/NK_Get-Real-Stone-real-state.png')}}"></div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="content-height">
                    
                 <div class="d_t">
@@ -2570,11 +2570,11 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 web-placeholder-demo02 web-portfolio"><img src="{{asset('img/portfolio/NK_Lean-Guitar-Online-education.png')}}"></div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="content-height">
                    
                 <div class="d_t">
@@ -2629,11 +2629,11 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 web-placeholder-demo02 web-portfolio"><img src="{{asset('img/portfolio/NK_R-CISC_R6-softwear.png')}}"></div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="content-height">
                    
                 <div class="d_t">
@@ -2689,11 +2689,11 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 web-placeholder-demo02 web-portfolio"><img src="{{asset('img/portfolio/bitgen-softwear.png')}}"></div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="content-height">
                    
                 <div class="d_t">
@@ -2755,11 +2755,11 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 web-placeholder-demo02 web-portfolio"><img src="{{asset('img/portfolio/logosanctuary-advertising.png')}}"></div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="content-height">
                    
                 <div class="d_t">
@@ -2818,11 +2818,11 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 web-placeholder-demo02 web-portfolio"><img src="{{asset('img/portfolio/mnlakestransportation-automative.png')}}"></div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="content-height">
                    
                 <div class="d_t">
@@ -2881,12 +2881,12 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 web-placeholder-demo02 web-portfolio">
                       <img src="{{asset('img/portfolio/olfitness-sports.png')}}"></a></div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="content-height">
                    
                 <div class="d_t">
@@ -2944,11 +2944,11 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 web-placeholder-demo02 web-portfolio"><img src="{{asset('img/portfolio/revolutionary-education.png')}}"></div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="content-height">
                    
                 <div class="d_t">
@@ -3007,11 +3007,11 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 web-placeholder-demo02 web-portfolio"><img src="{{asset('img/portfolio/sensationnelbridal-media.png')}}"></div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="content-height">
                    
                 <div class="d_t">
@@ -3069,11 +3069,11 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 web-placeholder-demo02 web-portfolio"><img src="{{asset('img/portfolio/takecareofyourbills-financial.png')}}"></div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="content-height">
                    
                 <div class="d_t">
@@ -3152,7 +3152,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 ios-demo01">
                         
@@ -3162,7 +3162,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
 
                       </div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                <div class="content-height">
                    
                 <div class="d_t">
@@ -3177,7 +3177,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
 
                   </div>
                   
-                <div class="actions margin-top-20"> <a href="http://localhost/designpro/public/GetFreeConsultancy" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
+                <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
 
                   </div>
 
@@ -3222,7 +3222,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 ios-demo01">
                         
@@ -3232,7 +3232,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
 
                       </div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                <div class="content-height">
                    
                 <div class="d_t">
@@ -3247,7 +3247,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
 
                   </div>
                   
-                <div class="actions margin-top-20"> <a href="http://localhost/designpro/public/GetFreeConsultancy" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
+                <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
 
                   </div>
 
@@ -3291,7 +3291,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 ios-demo01">
                         
@@ -3301,7 +3301,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
 
                       </div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                <div class="content-height">
                    
                 <div class="d_t">
@@ -3316,7 +3316,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
 
                   </div>
                   
-                <div class="actions margin-top-20"> <a href="http://localhost/designpro/public/GetFreeConsultancy" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
+                <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
 
                   </div>
 
@@ -3360,7 +3360,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 ios-demo01">
                         
@@ -3370,7 +3370,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
 
                       </div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                <div class="content-height">
                    
                 <div class="d_t">
@@ -3385,7 +3385,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
 
                   </div>
                   
-                <div class="actions margin-top-20"> <a href="http://localhost/designpro/public/GetFreeConsultancy" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
+                <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
 
                   </div>
 
@@ -3429,7 +3429,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 ios-demo01">
                         
@@ -3439,7 +3439,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
 
                       </div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                <div class="content-height">
                    
                 <div class="d_t">
@@ -3454,7 +3454,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
 
                   </div>
                   
-                <div class="actions margin-top-20"> <a href="http://localhost/designpro/public/GetFreeConsultancy" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
+                <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
 
                   </div>
 
@@ -3498,7 +3498,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 ios-demo01">
                         
@@ -3508,7 +3508,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
 
                       </div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                <div class="content-height">
                    
                 <div class="d_t">
@@ -3523,7 +3523,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
 
                   </div>
                   
-                <div class="actions margin-top-20"> <a href="http://localhost/designpro/public/GetFreeConsultancy" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
+                <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
 
                   </div>
 
@@ -3567,7 +3567,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 ios-demo01">
                         
@@ -3577,7 +3577,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
 
                       </div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                <div class="content-height">
                    
                 <div class="d_t">
@@ -3592,7 +3592,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
 
                   </div>
                   
-                <div class="actions margin-top-20"> <a href="http://localhost/designpro/public/GetFreeConsultancy" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
+                <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
 
                   </div>
 
@@ -3636,7 +3636,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 ios-demo01">
                         
@@ -3646,7 +3646,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
 
                       </div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                <div class="content-height">
                    
                 <div class="d_t">
@@ -3661,7 +3661,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
 
                   </div>
                   
-                <div class="actions margin-top-20"> <a href="http://localhost/designpro/public/GetFreeConsultancy" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
+                <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
 
                   </div>
 
@@ -3705,7 +3705,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 ios-demo01">
                         
@@ -3715,7 +3715,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
 
                       </div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                <div class="content-height">
                    
                 <div class="d_t">
@@ -3730,7 +3730,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
 
                   </div>
                   
-                <div class="actions margin-top-20"> <a href="http://localhost/designpro/public/GetFreeConsultancy" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
+                <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
 
                   </div>
 
@@ -3774,7 +3774,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 ios-demo01">
                         
@@ -3785,7 +3785,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
 
                       </div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                <div class="content-height">
                    
                 <div class="d_t">
@@ -3800,7 +3800,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
 
                   </div>
                   
-                <div class="actions margin-top-20"> <a href="http://localhost/designpro/public/GetFreeConsultancy" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
+                <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
 
                   </div>
 
@@ -3844,7 +3844,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-web">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
                 <div class="web-placeholder">
                       <div class="web-placeholder-demo01 ios-demo01">
                         
@@ -3854,7 +3854,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
 
                       </div>
                     </div> </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                <div class="content-height">
                    
                 <div class="d_t">
@@ -3869,7 +3869,625 @@ The product creators reached us for a brand identity which didn’t exist. Our b
 
                   </div>
                   
-                <div class="actions margin-top-20"> <a href="http://localhost/designpro/public/GetFreeConsultancy" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
+                <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
+
+                  </div>
+
+
+                </div>
+
+                 </div>
+                
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- *************************************************************************************************** -->
+
+<!-- *************************************************************************************************** -->
+
+<div class="modal fade" id="portfolio59" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content greenbg">
+      <button type="button" class="btn btn-close" data-dismiss="modal">
+        <svg viewPort="0 0 50 50" version="1.1"
+     xmlns="http://www.w3.org/2000/svg">
+    <line x1="1" y1="20" 
+          x2="20" y2="1" 
+          stroke="white" 
+          stroke-width="2"/>
+    <line x1="1" y1="1" 
+          x2="20" y2="20" 
+          stroke="white" 
+          stroke-width="2"/>
+</svg>
+      </button>
+      <div class="modal-body">
+        <div class="container">
+          <div class="d_t" style="width: 100%;">
+            <div class="d_c">
+              <div class="row if-web">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
+                <div class="web-placeholder">
+                      <div class="web-placeholder-demo01 ios-demo01">
+                        
+                        <iframe src="https://player.vimeo.com/video/224640243" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+
+                      </div>
+                    </div> </div>
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+               <div class="content-height">
+                   
+                <div class="d_t">
+                  
+                  <div class="d_c">
+                    
+                      <h4>Motion Graphics</h4>
+                  <h3>Artist Life Studio</h3>
+                  <div class="modal-product">
+                    
+                    <p class="">Artist Life Studio reached our motion design engineers to discuss their explainer video project. We provided Artist Life Studio with the services that they needed enabling maximum satisfaction. The company additionally discussed their future projects with us as well.</p>
+
+                  </div>
+                  
+                <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
+
+                  </div>
+
+
+                </div>
+
+                 </div>
+                
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- *************************************************************************************************** -->
+<!-- *************************************************************************************************** -->
+
+<div class="modal fade" id="portfolio60" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content greenbg">
+      <button type="button" class="btn btn-close" data-dismiss="modal">
+        <svg viewPort="0 0 50 50" version="1.1"
+     xmlns="http://www.w3.org/2000/svg">
+    <line x1="1" y1="20" 
+          x2="20" y2="1" 
+          stroke="white" 
+          stroke-width="2"/>
+    <line x1="1" y1="1" 
+          x2="20" y2="20" 
+          stroke="white" 
+          stroke-width="2"/>
+</svg>
+      </button>
+      <div class="modal-body">
+        <div class="container">
+          <div class="d_t" style="width: 100%;">
+            <div class="d_c">
+              <div class="row if-web">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
+                <div class="web-placeholder">
+                      <div class="web-placeholder-demo01 ios-demo01">
+                        
+                        <iframe src="https://player.vimeo.com/video/228965051" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+
+                      </div>
+                    </div> </div>
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+               <div class="content-height">
+                   
+                <div class="d_t">
+                  
+                  <div class="d_c">
+                    
+                      <h4>Motion Graphics</h4>
+                  <h3>Kanga Coders Startup</h3>
+                  <div class="modal-product">
+                    
+                    <p class="">Kanga Coders Startup reached us a few years ago to discuss their motion graphics project. We provided the customers with the best motion graphics service that they required. The folks at Kanga Coders Startup were completely satisfied with the services.</p>
+
+                  </div>
+                  
+                <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
+
+                  </div>
+
+
+                </div>
+
+                 </div>
+                
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- *************************************************************************************************** -->
+
+<!-- *************************************************************************************************** -->
+
+<div class="modal fade" id="portfolio61" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content greenbg">
+      <button type="button" class="btn btn-close" data-dismiss="modal">
+        <svg viewPort="0 0 50 50" version="1.1"
+     xmlns="http://www.w3.org/2000/svg">
+    <line x1="1" y1="20" 
+          x2="20" y2="1" 
+          stroke="white" 
+          stroke-width="2"/>
+    <line x1="1" y1="1" 
+          x2="20" y2="20" 
+          stroke="white" 
+          stroke-width="2"/>
+</svg>
+      </button>
+      <div class="modal-body">
+        <div class="container">
+          <div class="d_t" style="width: 100%;">
+            <div class="d_c">
+              <div class="row if-web">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
+                <div class="web-placeholder">
+                      <div class="web-placeholder-demo01 ios-demo01">
+                        
+                        <iframe src="https://player.vimeo.com/video/228964748" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+
+                      </div>
+                    </div> </div>
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+               <div class="content-height">
+                   
+                <div class="d_t">
+                  
+                  <div class="d_c">
+                    
+                      <h4>Motion Graphics</h4>
+                  <h3>Execast</h3>
+                  <div class="modal-product">
+                    
+                    <p class="">Execast reached us back in 2011 to discuss their prospects in motion graphics development. They additionally discussed what they wanted from their explainer video and it is exactly what they got. The crew at Execast was extremely satisfied.</p>
+
+                  </div>
+                  
+                <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
+
+                  </div>
+
+
+                </div>
+
+                 </div>
+                
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- *************************************************************************************************** -->
+
+<!-- *************************************************************************************************** -->
+
+<div class="modal fade" id="portfolio62" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content greenbg">
+      <button type="button" class="btn btn-close" data-dismiss="modal">
+        <svg viewPort="0 0 50 50" version="1.1"
+     xmlns="http://www.w3.org/2000/svg">
+    <line x1="1" y1="20" 
+          x2="20" y2="1" 
+          stroke="white" 
+          stroke-width="2"/>
+    <line x1="1" y1="1" 
+          x2="20" y2="20" 
+          stroke="white" 
+          stroke-width="2"/>
+</svg>
+      </button>
+      <div class="modal-body">
+        <div class="container">
+          <div class="d_t" style="width: 100%;">
+            <div class="d_c">
+              <div class="row if-web">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
+                <div class="web-placeholder">
+                      <div class="web-placeholder-demo01 ios-demo01">
+                        
+                        <iframe src="https://player.vimeo.com/video/228965003" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+
+                      </div>
+                    </div> </div>
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+               <div class="content-height">
+                   
+                <div class="d_t">
+                  
+                  <div class="d_c">
+                    
+                      <h4>Motion Graphics</h4>
+                  <h3>I Must Have It</h3>
+                  <div class="modal-product">
+                    
+                    <p class="">I Must Have It is an App Startup targeting new and unique entrepreneurs with application development ideas. The company was seeking motion design solutions and that’s exactly what the company got with an excellently designed explainer video by Design Proficient.</p>
+
+                  </div>
+                  
+                <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
+
+                  </div>
+
+
+                </div>
+
+                 </div>
+                
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- *************************************************************************************************** -->
+
+<!-- *************************************************************************************************** -->
+
+<div class="modal fade" id="portfolio63" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content greenbg">
+      <button type="button" class="btn btn-close" data-dismiss="modal">
+        <svg viewPort="0 0 50 50" version="1.1"
+     xmlns="http://www.w3.org/2000/svg">
+    <line x1="1" y1="20" 
+          x2="20" y2="1" 
+          stroke="white" 
+          stroke-width="2"/>
+    <line x1="1" y1="1" 
+          x2="20" y2="20" 
+          stroke="white" 
+          stroke-width="2"/>
+</svg>
+      </button>
+      <div class="modal-body">
+        <div class="container">
+          <div class="d_t" style="width: 100%;">
+            <div class="d_c">
+              <div class="row if-web">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
+                <div class="web-placeholder">
+                      <div class="web-placeholder-demo01 ios-demo01">
+                        
+                        <iframe src="https://player.vimeo.com/video/228964949" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+
+                      </div>
+                    </div> </div>
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+               <div class="content-height">
+                   
+                <div class="d_t">
+                  
+                  <div class="d_c">
+                    
+                      <h4>Motion Graphics</h4>
+                  <h3>X Time</h3>
+                  <div class="modal-product">
+                    
+                    <p class="">X Time reached us a few years ago to discuss their motion graphics project. We provided the customers with the best motion graphics service that they required. The folks at X Time was completely satisfied with the services.</p>
+
+                  </div>
+                  
+                <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
+
+                  </div>
+
+
+                </div>
+
+                 </div>
+                
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- *************************************************************************************************** -->
+<!-- *************************************************************************************************** -->
+
+<div class="modal fade" id="portfolio64" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content greenbg">
+      <button type="button" class="btn btn-close" data-dismiss="modal">
+        <svg viewPort="0 0 50 50" version="1.1"
+     xmlns="http://www.w3.org/2000/svg">
+    <line x1="1" y1="20" 
+          x2="20" y2="1" 
+          stroke="white" 
+          stroke-width="2"/>
+    <line x1="1" y1="1" 
+          x2="20" y2="20" 
+          stroke="white" 
+          stroke-width="2"/>
+</svg>
+      </button>
+      <div class="modal-body">
+        <div class="container">
+          <div class="d_t" style="width: 100%;">
+            <div class="d_c">
+              <div class="row if-web">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
+                <div class="web-placeholder">
+                      <div class="web-placeholder-demo01 ios-demo01">
+                        
+                        <iframe src="https://player.vimeo.com/video/228965106" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+
+                      </div>
+                    </div> </div>
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+               <div class="content-height">
+                   
+                <div class="d_t">
+                  
+                  <div class="d_c">
+                    
+                      <h4>Motion Graphics</h4>
+                  <h3>Welcome Pickups</h3>
+                  <div class="modal-product">
+                    
+                    <p class="">Welcome Pickups reached our motion design engineers to discuss their explainer video project. We provided Welcome Pickups with the services that they needed enabling maximum satisfaction. The company additionally discussed their future projects with us as well.</p>
+
+                  </div>
+                  
+                <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
+
+                  </div>
+
+
+                </div>
+
+                 </div>
+                
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- *************************************************************************************************** -->
+<!-- *************************************************************************************************** -->
+
+<div class="modal fade" id="portfolio65" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content greenbg">
+      <button type="button" class="btn btn-close" data-dismiss="modal">
+        <svg viewPort="0 0 50 50" version="1.1"
+     xmlns="http://www.w3.org/2000/svg">
+    <line x1="1" y1="20" 
+          x2="20" y2="1" 
+          stroke="white" 
+          stroke-width="2"/>
+    <line x1="1" y1="1" 
+          x2="20" y2="20" 
+          stroke="white" 
+          stroke-width="2"/>
+</svg>
+      </button>
+      <div class="modal-body">
+        <div class="container">
+          <div class="d_t" style="width: 100%;">
+            <div class="d_c">
+              <div class="row if-web">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
+                <div class="web-placeholder">
+                      <div class="web-placeholder-demo01 ios-demo01">
+                        
+                        <iframe src="https://player.vimeo.com/video/228965081" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+
+                      </div>
+                    </div> </div>
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+               <div class="content-height">
+                   
+                <div class="d_t">
+                  
+                  <div class="d_c">
+                    
+                      <h4>Motion Graphics</h4>
+                  <h3>Buy Hold Sell</h3>
+                  <div class="modal-product">
+                    
+                    <p class="">Buy Hold Sell reached us back in 2014 to discuss their prospects in motion graphics development. They additionally discussed what they wanted from their explainer video and it is exactly what they got. The crew at Buy Hold Sell was extremely satisfied</p>
+
+                  </div>
+                  
+                <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
+
+                  </div>
+
+
+                </div>
+
+                 </div>
+                
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- *************************************************************************************************** -->
+
+<!-- *************************************************************************************************** -->
+
+<div class="modal fade" id="portfolio66" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content greenbg">
+      <button type="button" class="btn btn-close" data-dismiss="modal">
+        <svg viewPort="0 0 50 50" version="1.1"
+     xmlns="http://www.w3.org/2000/svg">
+    <line x1="1" y1="20" 
+          x2="20" y2="1" 
+          stroke="white" 
+          stroke-width="2"/>
+    <line x1="1" y1="1" 
+          x2="20" y2="20" 
+          stroke="white" 
+          stroke-width="2"/>
+</svg>
+      </button>
+      <div class="modal-body">
+        <div class="container">
+          <div class="d_t" style="width: 100%;">
+            <div class="d_c">
+              <div class="row if-web">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
+                <div class="web-placeholder">
+                      <div class="web-placeholder-demo01 ios-demo01">
+                        
+                        <iframe src="https://player.vimeo.com/video/229085226" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+
+                      </div>
+                    </div> </div>
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+               <div class="content-height">
+                   
+                <div class="d_t">
+                  
+                  <div class="d_c">
+                    
+                      <h4>Motion Graphics</h4>
+                  <h3>iKontrol</h3>
+                  <div class="modal-product">
+                    
+                    <p class="">iKontrol is one of our favorite clients who reached us back in 2010 to discuss their prospects in motion graphics development. They additionally discussed what they wanted from their explainer video and it is exactly what they got. The satisfaction level was top notch for them.</p>
+
+                  </div>
+                  
+                <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
+
+                  </div>
+
+
+                </div>
+
+                 </div>
+                
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- *************************************************************************************************** -->
+
+<!-- *************************************************************************************************** -->
+
+<div class="modal fade" id="portfolio67" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content greenbg">
+      <button type="button" class="btn btn-close" data-dismiss="modal">
+        <svg viewPort="0 0 50 50" version="1.1"
+     xmlns="http://www.w3.org/2000/svg">
+    <line x1="1" y1="20" 
+          x2="20" y2="1" 
+          stroke="white" 
+          stroke-width="2"/>
+    <line x1="1" y1="1" 
+          x2="20" y2="20" 
+          stroke="white" 
+          stroke-width="2"/>
+</svg>
+      </button>
+      <div class="modal-body">
+        <div class="container">
+          <div class="d_t" style="width: 100%;">
+            <div class="d_c">
+              <div class="row if-web">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12"> 
+                <div class="web-placeholder">
+                      <div class="web-placeholder-demo01 ios-demo01">
+                        
+                        <iframe src="https://player.vimeo.com/video/229085983" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+
+                      </div>
+                    </div> </div>
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+               <div class="content-height">
+                   
+                <div class="d_t">
+                  
+                  <div class="d_c">
+                    
+                      <h4>Motion Graphics</h4>
+                  <h3>Web Top</h3>
+                  <div class="modal-product">
+                    
+                    <p class="">Web Top reached our motion design engineers to discuss their explainer video project. We provided Web Top with the services that they needed enabling maximum satisfaction. The company additionally discussed their future projects with us as well.</p>
+
+                  </div>
+                  
+                <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
 
                   </div>
 
@@ -3911,14 +4529,14 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-wearable">
-                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 col-lg-offset-2"> 
+                <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 col-lg-offset-2"> 
                   
                   <div class="a-phone-placeholder">
                       <div class="a-phone-placeholder-demo01 android-demo01"></div>
                     </div>
 
                  </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="content-height">
 
 
@@ -3930,7 +4548,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
                     <h3>Real Estate App (Bricks)</h3>
                     <p>Bricks is a real estate app for Android based devices allowing its users to find their ideal homes at the ideal price. The app additionally allows you to interact with landlords and home owners to bid and communicate regarding your potential future estate.</p>
 
-                     <div class="actions margin-top-20"> <a href="http://localhost/designpro/public/GetFreeConsultancy" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
+                     <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
 
                   </div>
                   
@@ -3978,7 +4596,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-wearable">
-                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 col-lg-offset-2"> 
+                <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 col-lg-offset-2"> 
                   
                    <div class="a-watch-placeholder">
                       <div class="a-watch-placeholder-wrapper">
@@ -3987,7 +4605,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
                     </div>
 
                  </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="content-height">
                    
                 <div class="d_t">
@@ -4005,7 +4623,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
 
                   </div>
                   
-               <div class="actions margin-top-20"> <a href="http://localhost/designpro/public/GetFreeConsultancy" class="btn-fill">GET FREE CONSULTANCY</a>    
+               <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    
                      
                      
                      </div>
@@ -4052,7 +4670,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-wearable">
-                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 col-lg-offset-2"> 
+                <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 col-lg-offset-2"> 
                   
                   <div class="a-iphone-placeholder">
                       <div class="a-iphone-placeholder-demo01 ios-demo21"></div>
@@ -4060,7 +4678,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
 
 
                  </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="content-height">
 
 
@@ -4072,7 +4690,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
                     <h3>Flight Booking App (Fly High)</h3>
                     <p>Fly High is a Flight booking application made for iOS devices assisting users in buying air tickets faster and better. From booking your favorite applications to keeping track of flight details, Fly high helps you fly easily, safely and in an overall better manner.</p>
 
-                     <div class="actions margin-top-20"> <a href="http://localhost/designpro/public/GetFreeConsultancy" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
+                     <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
 
                   </div>
                   
@@ -4119,14 +4737,14 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-wearable">
-                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 col-lg-offset-2"> 
+                <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 col-lg-offset-2"> 
                   
                   <div class="a-phone-placeholder">
                       <div class="a-phone-placeholder-demo01 android-demo09"></div>
                     </div>
 
                  </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="content-height">
 
 
@@ -4138,7 +4756,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
                     <h3>HealthCare app (DocPlus)</h3>
                     <p>Doc+ is an Android application that allows you to keep track of your health in real-time as well as stay connected with you doctor. From keeping track of your prescription and dosage to staying connected to your doctor for the newest appointments.</p>
 
-                     <div class="actions margin-top-20"> <a href="http://localhost/designpro/public/GetFreeConsultancy" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
+                     <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
 
                   </div>
                   
@@ -4193,13 +4811,13 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-wearable">
-                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 col-lg-offset-2"> 
+                <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 col-lg-offset-2"> 
                  <div class="a-phone-placeholder">
                       <div class="a-phone-placeholder-demo01 ios-demo22"></div>
                     </div>
 
                  </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="content-height">
 
 
@@ -4211,7 +4829,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
                     <h3>YUMM.</h3>
                     <p>Yumm is an android based application that keeps you connected with the latest trends and recipes from the world of delicious food. Browse through the latest recipes with complete details and even cooking videos that you need.</p>
 
-                     <div class="actions margin-top-20"> <a href="http://localhost/designpro/public/GetFreeConsultancy" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
+                     <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
 
                   </div>
                   
@@ -4262,7 +4880,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-wearable">
-                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 col-lg-offset-2"> 
+                <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 col-lg-offset-2"> 
                  <div class="a-watch-placeholder">
                       <div class="a-watch-placeholder-wrapper">
                         <div class="a-watch-placeholder-demo01 ios-demo10"></div>
@@ -4270,7 +4888,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
                     </div>
 
                  </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="content-height">
 
 
@@ -4282,7 +4900,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
                     <h3>Find Location App (Simon)</h3>
                     <p>Simon is a smart GPS enabled iOS application that extends to iOS wearables as well. For travelers with wanderlust, Simon is the ultimate personal assistant that talks to users and dictates navigation along the way. Want to find your location? Just talk to Simon!</p>
 
-                     <div class="actions margin-top-20"> <a href="http://localhost/designpro/public/GetFreeConsultancy" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
+                     <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
 
                   </div>
                   
@@ -4336,13 +4954,13 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-wearable">
-                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 col-lg-offset-2"> 
+                <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 col-lg-offset-2"> 
                  <div class="a-iphone-placeholder">
                       <div class="a-iphone-placeholder-demo01 ios-demo07"></div>
                     </div>
 
                  </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="content-height">
 
 
@@ -4354,7 +4972,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
                     <h3>Music Player App (REC.)</h3>
                     <p>REC. is an iOS based entertainment application that allows its users to not only record any audio track of their choice, but is also a built-in music player that allows you to play your favorite songs from your favorite artists.</p>
 
-                     <div class="actions margin-top-20"> <a href="http://localhost/designpro/public/GetFreeConsultancy" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
+                     <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
 
                   </div>
                   
@@ -4405,13 +5023,13 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-wearable">
-                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 col-lg-offset-2"> 
+                <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 col-lg-offset-2"> 
                  <div class="a-iphone-placeholder">
                       <div class="a-iphone-placeholder-demo01 ios-demo01"></div>
                     </div>
 
                  </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="content-height">
 
 
@@ -4423,7 +5041,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
                     <h3>Shopping App (iCART)</h3>
                     <p>iCart is an iOS based marketplace app that gives you the ability to shop from your favorite stores in just a few taps. With payment integration already a part of the application, iCart is your one stop shop for everything fashion.</p>
 
-                     <div class="actions margin-top-20"> <a href="http://localhost/designpro/public/GetFreeConsultancy" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
+                     <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
 
                   </div>
                   
@@ -4475,13 +5093,13 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-wearable">
-                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 col-lg-offset-2"> 
+                <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 col-lg-offset-2"> 
                  <div class="a-iphone-placeholder">
                       <div class="a-iphone-placeholder-demo01 ios-demo14"></div>
                     </div>
 
                  </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="content-height">
 
 
@@ -4493,7 +5111,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
                     <h3>Payment Transaction App (InstaPay)</h3>
                     <p>Instapay is a finance app for iOS based devices that allows you manage and pay smartly with just a few taps. With two pin and finger print verification, Instapay is a safe, secure and easy way to handle your money.</p>
 
-                     <div class="actions margin-top-20"> <a href="http://localhost/designpro/public/GetFreeConsultancy" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
+                     <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
 
                   </div>
                   
@@ -4544,13 +5162,13 @@ The product creators reached us for a brand identity which didn’t exist. Our b
           <div class="d_t" style="width: 100%;">
             <div class="d_c">
               <div class="row if-wearable">
-                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 col-lg-offset-2"> 
+                <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 col-lg-offset-2"> 
                  <div class="a-iphone-placeholder">
                       <div class="a-iphone-placeholder-demo01 ios-demo17"></div>
                     </div>
 
                  </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="content-height">
 
 
@@ -4562,7 +5180,7 @@ The product creators reached us for a brand identity which didn’t exist. Our b
                     <h3>Movie Rating App (StubHut)</h3>
                     <p>StubHut is an entertainment based iOS application for movie buffs and TV fanatics that likes to stay updated. From movie ratings to show timings, to even staying on the loop for the favorite entertainment shows around you; Stubhut is the app to use!</p>
 
-                     <div class="actions margin-top-20"> <a href="http://localhost/designpro/public/GetFreeConsultancy" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
+                     <div class="actions margin-top-20"> <a href="{{ route('GetFreeConsultancy') }}" class="btn-fill">GET FREE CONSULTANCY</a>    </div>
 
                   </div>
                   

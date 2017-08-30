@@ -1,20 +1,28 @@
 @extends('layout.master')
 @section('metas')
-<title>Brand Development and Design Portfolio | Showcase</title>
+<title>Logo Design And Web Design Portfolio | Design Proficient</title>
 <meta description="We’ve worked with clients all over the world satisfying them, providing them with exactly what they need. Have a look at our staggering showcase.">
 @stop
 @section('body')
 <style type="text/css">
-
+  
 .secondary-nav-wrap{ display: none; }
     header .logo a { background-position: bottom center;   }
     .call-action span{ color: #16a085; }
     .call-action span small{ color: #626262; }
     .nav-toggle{ opacity: 0.3; }
+
+    .hero-services {
+      background: url( '{{ asset("none") }}' );
+      background-size: auto !important;
+    height:auto;
+    background-color:#fff !important;
+    }
+
     #header-sroll{ background-color: #fff;     box-shadow: 1px -10px 26px #b7b7b7; }
 
 
-    header #header-sroll .logo a { background-position: center bottom !important;}
+    
 
 
 header #header-sroll ul#navigation li a {color: #888888; opacity: 1;  -webkit-transition: none;
@@ -42,19 +50,10 @@ header #header-sroll .call-action a {color: #888888;  -webkit-transition: none;
   transition: none;}
 
 
-
 header #header-sroll .nav-toggle span, header #header-sroll .nav-toggle span:before, header #header-sroll .nav-toggle span:after{    background: #631a79;}
 
 
-.top-action .btn-line-fill{ color: #fff; }
-
-header #header-sroll .top-action .btn-line-fill{ color: #b8285a; }
-
-#header-sroll.small .top-action .btn-line-fill{ color: #b8285a; }
-.top-action .btn-line-fill:hover{ color: #fff!important; }
-
 #header-sroll.small .nav-toggle span, #header-sroll.small .nav-toggle span:before, #header-sroll.small .nav-toggle span:after{background: #631a79;}
-
 </style>
 <div class="section-padding portfolio_fold portfolio_page">
   <div class="container">
@@ -180,6 +179,19 @@ header #header-sroll .top-action .btn-line-fill{ color: #b8285a; }
             </div>
             </a> </div>
             
+            <div class="cbp-item software-hi-tech motiongraphic"> <a href="#portfolio64" data-toggle="modal" class="cbp-caption"
+               data-title="Remind~Me Widget<br>by Tiberiu Neamu">
+            <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-16.gif')}}"> </div>
+            <div class="cbp-caption-activeWrap mbgorange">
+              <div class="cbp-l-caption-alignCenter">
+                <div class="cbp-l-caption-body">
+                  <div class="cbp-l-caption-title">Motion Graphics<br>
+                    Welcome Pickups</div>
+                </div>
+              </div>
+            </div>
+            </a> </div>
+            
           <!--<div class="cbp-item healthcare-life-science identity"> <a href="#portfolio02" data-toggle="modal" class="cbp-caption"
                data-title="World Clock Widget<br>by Paul Flavius Nechita">
             <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/17.png')}}"> </div>
@@ -217,6 +229,22 @@ header #header-sroll .top-action .btn-line-fill{ color: #b8285a; }
               </div>
             </div>
             </a> </div>
+            
+            
+            <div class="cbp-item software-hi-tech motiongraphic"> <a href="#portfolio56" data-toggle="modal" class="cbp-caption"
+               data-title="Remind~Me Widget<br>by Tiberiu Neamu">
+            <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-09.gif')}}"> </div>
+            <div class="cbp-caption-activeWrap mbgblack">
+              <div class="cbp-l-caption-alignCenter">
+                <div class="cbp-l-caption-body">
+                  <div class="cbp-l-caption-title">Motion Graphics<br>
+                    Car Directly</div>
+                </div>
+              </div>
+            </div>
+            </a> </div>
+            
+            
           <div class="cbp-item travel-hospitality abstract consultancy medical entertainment technology identity"> <a href="#portfolio05" data-toggle="modal"  class="cbp-caption "
                data-title="iDevices<br>by Tiberiu Neamu">
             <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/the-vet-01.png')}}"> </div>
@@ -229,6 +257,23 @@ header #header-sroll .top-action .btn-line-fill{ color: #b8285a; }
               </div>
             </div>
             </a> </div>
+            
+            
+            <div class="cbp-item software-hi-tech motiongraphic"> <a href="#portfolio59" data-toggle="modal" class="cbp-caption"
+               data-title="Remind~Me Widget<br>by Tiberiu Neamu">
+            <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-11.gif')}}"> </div>
+            <div class="cbp-caption-activeWrap mbgyellow">
+              <div class="cbp-l-caption-alignCenter">
+                <div class="cbp-l-caption-body">
+                  <div class="cbp-l-caption-title">Motion Graphics<br>
+                    Artist Life Studio </div>
+                </div>
+              </div>
+            </div>
+            </a> </div>
+            
+            
+            
             <div class="cbp-item travel-hospitality"> <a href="#portfolio39" data-toggle="modal" class="cbp-caption "
                data-title="Digital Menu<br>by Cosmin Capitanu">
             <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/NK_Lean-Guitar-Online-education-t.png')}}"> </div>
@@ -245,7 +290,7 @@ header #header-sroll .top-action .btn-line-fill{ color: #b8285a; }
             
             
             
-            
+             
             
           
             
@@ -263,6 +308,32 @@ header #header-sroll .top-action .btn-line-fill{ color: #b8285a; }
             </a> </div>
             
             
+            <div class="cbp-item software-hi-tech mobile"> <a href="#app_portfolio05" data-toggle="modal" class="cbp-caption"
+               data-title="Remind~Me Widget<br>by Tiberiu Neamu">
+            <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio-9-iphone.jpg')}}"> </div>
+            <div class="cbp-caption-activeWrap mbgpink">
+              <div class="cbp-l-caption-alignCenter">
+                <div class="cbp-l-caption-body">
+                  <div class="cbp-l-caption-title"><small>Mobile</small><br>
+                    YUMM</div>
+                </div>
+              </div>
+            </div>
+            </a> </div>
+            
+            
+            <div class="cbp-item software-hi-tech motiongraphic"> <a href="#portfolio60" data-toggle="modal" class="cbp-caption"
+               data-title="Remind~Me Widget<br>by Tiberiu Neamu">
+            <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-12.gif')}}"> </div>
+            <div class="cbp-caption-activeWrap mbgorange">
+              <div class="cbp-l-caption-alignCenter">
+                <div class="cbp-l-caption-body">
+                  <div class="cbp-l-caption-title">Motion Graphics<br>
+                    Kanga Coders Startup</div>
+                </div>
+              </div>
+            </div>
+            </a> </div>
             
           <div class="cbp-item real-estate-property accounting fundst medical ecommerce management justice identity"> <a href="#portfolio08" data-toggle="modal" class="cbp-caption "
                data-title="Digital Menu<br>by Cosmin Capitanu">
@@ -315,7 +386,18 @@ header #header-sroll .top-action .btn-line-fill{ color: #b8285a; }
             </a> </div>
             
             
-            
+            <div class="cbp-item software-hi-tech motiongraphic"> <a href="#portfolio67" data-toggle="modal" class="cbp-caption"
+               data-title="Remind~Me Widget<br>by Tiberiu Neamu">
+            <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-19.gif')}}"> </div>
+            <div class="cbp-caption-activeWrap mbgorange">
+              <div class="cbp-l-caption-alignCenter">
+                <div class="cbp-l-caption-body">
+                  <div class="cbp-l-caption-title">Motion Graphics<br>
+                    Web Top</div>
+                </div>
+              </div>
+            </div>
+            </a> </div>
             
             
             
@@ -344,6 +426,21 @@ header #header-sroll .top-action .btn-line-fill{ color: #b8285a; }
               </div>
             </div>
             </a> </div>
+
+
+            <div class="cbp-item software-hi-tech motiongraphic"> <a href="#portfolio61" data-toggle="modal" class="cbp-caption"
+               data-title="Remind~Me Widget<br>by Tiberiu Neamu">
+            <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-13.gif')}}"> </div>
+            <div class="cbp-caption-activeWrap mbgorange">
+              <div class="cbp-l-caption-alignCenter">
+                <div class="cbp-l-caption-body">
+                  <div class="cbp-l-caption-title">Motion Graphics<br>
+                    Execast</div>
+                </div>
+              </div>
+            </div>
+            </a> </div>
+            
             
             <div class="cbp-item automotive-transport artphotography communication education restaurant identity"> <a href="#portfolio03" data-toggle="modal" class="cbp-caption "
                data-title="Seemple* Music for iPad<br>by Tiberiu Neamu">
@@ -381,6 +478,20 @@ header #header-sroll .top-action .btn-line-fill{ color: #b8285a; }
               </div>
             </div>
             </a> </div>
+            
+            <div class="cbp-item software-hi-tech motiongraphic"> <a href="#portfolio66" data-toggle="modal" class="cbp-caption"
+               data-title="Remind~Me Widget<br>by Tiberiu Neamu">
+            <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-18.gif')}}"> </div>
+            <div class="cbp-caption-activeWrap mbgorange">
+              <div class="cbp-l-caption-alignCenter">
+                <div class="cbp-l-caption-body">
+                  <div class="cbp-l-caption-title">Motion Graphics<br>
+                    iKontrol</div>
+                </div>
+              </div>
+            </div>
+            </a> </div>
+            
             <div class="cbp-item media-entertainment graphic automotive construction electronic restaurant identity"> <a href="#portfolio14" data-toggle="modal" class="cbp-caption "
                data-title="Digital Menu<br>by Cosmin Capitanu">
             <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/ms-portfolio.png')}}"> </div>
@@ -432,6 +543,18 @@ header #header-sroll .top-action .btn-line-fill{ color: #b8285a; }
             </div>
             </a> </div>
             
+            <div class="cbp-item software-hi-tech motiongraphic"> <a href="#portfolio63" data-toggle="modal" class="cbp-caption"
+               data-title="Remind~Me Widget<br>by Tiberiu Neamu">
+            <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-15.gif')}}"> </div>
+            <div class="cbp-caption-activeWrap mbgorange">
+              <div class="cbp-l-caption-alignCenter">
+                <div class="cbp-l-caption-body">
+                  <div class="cbp-l-caption-title">Motion Graphics<br>
+                    X Time</div>
+                </div>
+              </div>
+            </div>
+            </a> </div>
             
             <div class="cbp-item web-design"> <a href="#portfolio47" data-toggle="modal" class="cbp-caption "
                data-title="Digital Menu<br>by Cosmin Capitanu">
@@ -497,6 +620,21 @@ header #header-sroll .top-action .btn-line-fill{ color: #b8285a; }
               </div>
             </div>
             </a> </div>
+            
+             <div class="cbp-item software-hi-tech motiongraphic"> <a href="#portfolio57" data-toggle="modal" class="cbp-caption"
+               data-title="Remind~Me Widget<br>by Tiberiu Neamu">
+            <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-10.gif')}}"> </div>
+            <div class="cbp-caption-activeWrap mbgblue">
+              <div class="cbp-l-caption-alignCenter">
+                <div class="cbp-l-caption-body">
+                  <div class="cbp-l-caption-title">Motion Graphic<br>
+                    Blinds</div>
+                </div>
+              </div>
+            </div>
+            </a> </div>
+            
+            
             <div class="cbp-item travel-hospitality"> <a href="#portfolio35" data-toggle="modal" class="cbp-caption "
                data-title="Digital Menu<br>by Cosmin Capitanu">
             <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/N_VW-Breakers-UK-AUTOMATIVE-t.png')}}"> </div>
@@ -509,6 +647,9 @@ header #header-sroll .top-action .btn-line-fill{ color: #b8285a; }
               </div>
             </div>
             </a> </div>
+            
+            
+            
             <div class="cbp-item web-design"> <a href="#portfolio40" data-toggle="modal" class="cbp-caption "
                data-title="Digital Menu<br>by Cosmin Capitanu">
             <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/NK_R-CISC_R6-softwear-t.png')}}"> </div>
@@ -521,6 +662,20 @@ header #header-sroll .top-action .btn-line-fill{ color: #b8285a; }
               </div>
             </div>
             </a> </div>
+            
+            <div class="cbp-item software-hi-tech motiongraphic"> <a href="#portfolio65" data-toggle="modal" class="cbp-caption"
+               data-title="Remind~Me Widget<br>by Tiberiu Neamu">
+            <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-17.gif')}}"> </div>
+            <div class="cbp-caption-activeWrap mbgorange">
+              <div class="cbp-l-caption-alignCenter">
+                <div class="cbp-l-caption-body">
+                  <div class="cbp-l-caption-title">Motion Graphics<br>
+                   Buy Hold Sell</div>
+                </div>
+              </div>
+            </div>
+            </a> </div>
+            
             <div class="cbp-item web-design"> <a href="#portfolio36" data-toggle="modal" class="cbp-caption "
                data-title="Digital Menu<br>by Cosmin Capitanu">
             <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/NK_Afro-Signatures_R1-media-t.png')}}"> </div>
@@ -578,6 +733,20 @@ header #header-sroll .top-action .btn-line-fill{ color: #b8285a; }
             </div>
            </a>
           </div> 
+          
+          <div class="cbp-item software-hi-tech motiongraphic"> <a href="#portfolio50" data-toggle="modal" class="cbp-caption"
+               data-title="Remind~Me Widget<br>by Tiberiu Neamu">
+            <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-03.gif')}}"> </div>
+            <div class="cbp-caption-activeWrap mbgpink">
+              <div class="cbp-l-caption-alignCenter">
+                <div class="cbp-l-caption-body">
+                  <div class="cbp-l-caption-title">Motion Graphics<br>
+                    GeniusSearch</div>
+                </div>
+              </div>
+            </div>
+            </a> </div>
+          
           <div class="cbp-item software-hi-tech mobile"> <a href="#app_portfolio10" data-toggle="modal" class="cbp-caption"
                data-title="Remind~Me Widget<br>by Tiberiu Neamu">
             <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio-4-iphone.jpg')}}"> </div>
@@ -756,6 +925,8 @@ header #header-sroll .top-action .btn-line-fill{ color: #b8285a; }
               </div>
             </div>
             </a> </div>
+            
+            
             <div class="cbp-item software-hi-tech mobile"> <a href="#app_portfolio01" data-toggle="modal" class="cbp-caption"
                data-title="Remind~Me Widget<br>by Tiberiu Neamu">
             <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio-5-iphone.jpg')}}"> </div>
@@ -768,18 +939,10 @@ header #header-sroll .top-action .btn-line-fill{ color: #b8285a; }
               </div>
             </div>
             </a> </div>
-            <div class="cbp-item software-hi-tech motiongraphic"> <a href="#portfolio50" data-toggle="modal" class="cbp-caption"
-               data-title="Remind~Me Widget<br>by Tiberiu Neamu">
-            <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-03.gif')}}"> </div>
-            <div class="cbp-caption-activeWrap mbgpink">
-              <div class="cbp-l-caption-alignCenter">
-                <div class="cbp-l-caption-body">
-                  <div class="cbp-l-caption-title">Motion Graphics<br>
-                    GeniusSearch</div>
-                </div>
-              </div>
-            </div>
-            </a> </div>
+            
+            
+            
+            
 
             <div class="cbp-item software-hi-tech motiongraphic"> <a href="#portfolio51" data-toggle="modal" class="cbp-caption"
                data-title="Remind~Me Widget<br>by Tiberiu Neamu">
@@ -881,31 +1044,42 @@ header #header-sroll .top-action .btn-line-fill{ color: #b8285a; }
               </div>
             </div>
             </a> </div>
-            <div class="cbp-item software-hi-tech mobile"> <a href="#app_portfolio05" data-toggle="modal" class="cbp-caption"
-               data-title="Remind~Me Widget<br>by Tiberiu Neamu">
-            <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio-9-iphone.jpg')}}"> </div>
-            <div class="cbp-caption-activeWrap mbgpink">
-              <div class="cbp-l-caption-alignCenter">
-                <div class="cbp-l-caption-body">
-                  <div class="cbp-l-caption-title"><small>Mobile</small><br>
-                    YUMM</div>
-                </div>
-              </div>
-            </div>
-            </a> </div>
-            <div class="cbp-item software-hi-tech motiongraphic"> <a href="#portfolio57" data-toggle="modal" class="cbp-caption"
-               data-title="Remind~Me Widget<br>by Tiberiu Neamu">
-            <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-10.gif')}}"> </div>
-            <div class="cbp-caption-activeWrap mbgblue">
-              <div class="cbp-l-caption-alignCenter">
-                <div class="cbp-l-caption-body">
-                  <div class="cbp-l-caption-title">Motion Graphic<br>
-                    Blinds</div>
-                </div>
-              </div>
-            </div>
-            </a> </div>
+            
+            
+            
+            
+            
+            
+           
+            
+            
+            
+            
+            
+            
 
+            <div class="cbp-item software-hi-tech motiongraphic"> <a href="#portfolio62" data-toggle="modal" class="cbp-caption"
+               data-title="Remind~Me Widget<br>by Tiberiu Neamu">
+            <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-14.gif')}}"> </div>
+            <div class="cbp-caption-activeWrap mbgorange">
+              <div class="cbp-l-caption-alignCenter">
+                <div class="cbp-l-caption-body">
+                  <div class="cbp-l-caption-title">Motion Graphics<br>
+                    I Must Have It</div>
+                </div>
+              </div>
+            </div>
+            </a> </div>
+            
+            
+            
+            
+            
+           
+            
+            
+            
+            
 
 
         </div>

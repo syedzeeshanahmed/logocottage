@@ -45,11 +45,6 @@ header #header-sroll .call-action a {color: #888888;  -webkit-transition: none;
   -o-transition: none;
   transition: none;}
 header #header-sroll .nav-toggle span, header #header-sroll .nav-toggle span:before, header #header-sroll .nav-toggle span:after{    background: #631a79;}
-.top-action .btn-line-fill{ color: #fff; }
-header #header-sroll .top-action .btn-line-fill{ color: #b8285a; }
-
-#header-sroll.small .top-action .btn-line-fill{ color: #b8285a; }
-.top-action .btn-line-fill:hover{ color: #fff!important; }
 
 #header-sroll.small .nav-toggle span, #header-sroll.small .nav-toggle span:before, #header-sroll.small .nav-toggle span:after{background: #631a79;}
 .thankyou{ height: 650px; }

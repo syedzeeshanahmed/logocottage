@@ -1,21 +1,31 @@
-<style>.faq-sections h4{display: block;text-align:left;margin-bottom: 10px;display:block!important;}.active{ color:#fff !important;pacity: 1 !important; }#header-sroll:hover .active{ color:#b8285a !important;  }#header-sroll.small .active{ color:#b8285a !important;}</style>
+<style>.faq-sections h4{display: block;text-align:left;margin-bottom: 10px;display:block!important;}.active{ color:#fff !important;pacity: 1 !important; }#header-sroll:hover .active{ color:#244d9a !important;  }#header-sroll.small .active{ color:#244d9a !important;}</style>
 @extends('layout.master')  @section('metas') 
-<title>Creative Design and Development Agency | Home</title>
+<title>Custom Logo Design Service by Professional Logo Designers | Home</title>
 <meta description="At Design Proficient, we’re a creative design agency with a special taste for unique design that sets things apart. Reach us today and discuss your project!">
 @stop @section('body') 
-<section class="hero hero-home">
-   <span class="hero-overlay"></span> 
-   <div class="homepage-hero-module wow">
+
+
+
+<section class="hero hero-home wow">
+
+<div class="wrap_video">
+  <span class="hero-overlay">
+      
+      <div class="pattern"></div>
+
+   </span> 
+  <div class="homepage-hero-module wow">
       <div class="video-container">
          <div class="filter"></div>
          <video autoplay loop class="fillWidth">
             <source src="{{asset('videos/Mock-up.mp4')}}" type="video/mp4"/>
             Your browser does not support the video tag. I suggest you upgrade your browser. 
          </video>
-         <div class="poster hidden"> <img src="{{asset('videos/Mock-up.jpg')}}" alt=""> </div>
+         <div class="poster hidden"> <img src="{{asset('videos/Mock-up.jpg')}}" alt=""> </div> 
       </div>
    </div>
-   <div class="container">
+
+ <div class="container">
       <div class="d_t">
          <div class="d_c">
             <h4 class=" wow fadeInDown" data-wow-delay="0.2s">We Build Brands</h4>
@@ -26,8 +36,17 @@
       </div>
       <span class="scroll-btn"> <a href="#GlobalClients"> <span class="mouse"> <span> </span> </span> </a> </span> 
    </div>
+
+</div>
+ 
+ 
+  
 </section>
-<section id="faq" class="section-padding clients-answer wow fadeInDown" data-wow-delay="0.2s">
+
+<div class="anti_video">
+   
+
+   <section id="faq" class="section-padding clients-answer wow fadeInDown" data-wow-delay="0.2s">
    <div class="container">
       <div class="clearfix">
          <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 fadeInDown">
@@ -82,9 +101,10 @@
       </div>
    </div>
 </section>
+
 <section class="section-padding clients-section wow" id="GlobalClients">
    <div class="container">
-      <div class="comp-symbol text-center wow fadeInDown" data-wow-delay="0.1s"><img src="{{asset('img/logo-symbol.png')}}"> </div>
+     
       <h3 class="text-center wow fadeInDown" data-wow-delay="0.2s">Compelling Design for Global Corporations</h3>
       <p class="text-center wow fadeInDown" data-wow-delay="0.4s">Brands are a subject of construction and re-construction and that’s what we do best. <br>Our design maestros’ are constantly working on unique perceptions to create compelling stories.</p>
    </div>
@@ -103,23 +123,28 @@
       </div>
    </div>
 </section>
+
+
 <div class="packages_fold wow">
 <section class="section-padding supreme">
    <div class="container">
       <div class="row">
-         <div class="col-lg-8 col-md-12 col-sm-12">
-            <h2 class=" wow fadeInDown" data-wow-delay="0.2s">Serving Economical<br>& Design Efficient</h2>
-            <p class=" wow fadeInDown" data-wow-delay="0.4s">We like to serve the industry with persuasive and conceptual designs that rock<br>the market. Creating an impact is what we do best and what we like<br>to provide to every client with our pocket-friendly packages. </p>
-            <div class="actions wow fadeInDown clearfix" data-wow-delay="0.6s"><a href="{{route('packages')}}" class="btn-fill pull-left"><i class="fa fa-play" aria-hidden="true"></i> FIND MORE PACKAGES</a> <a onclick="$zopim.livechat.window.toggle()" style="cursor: pointer;" class="btn-line-fill ali-fill pull-left">Let's Get Started </a></div>
+         <div class="col-md-12">
+            <h2 class=" wow fadeInDown text-center" data-wow-delay="0.2s">Serving Economical<br>& Design Efficient</h2>
+            <p class=" wow fadeInDown text-center" data-wow-delay="0.4s">We like to serve the industry with persuasive and conceptual designs that rock<br>the market. Creating an impact is what we do best and what we like<br>to provide to every client with our pocket-friendly packages. </p>
+            <div class="actions wow fadeInDown clearfix text-center" data-wow-delay="0.6s"><a href="{{route('packages')}}" class="btn-fill"><i class="fa fa-play" aria-hidden="true"></i> FIND MORE PACKAGES</a> <a onclick="$zopim.livechat.window.toggle()" style="cursor: pointer;" class="btn-line-fill ali-fill ">Let's Get Started </a></div>
          </div>
-         <div class="col-lg-4 col-md-12 no-xs wow fadeInDown" data-wow-delay="0.2s">
-            <div class="badge-guranteed"><img class="packages" src="{{asset('img/d.png')}}"></div>
-         </div>
+         
       </div>
 </section>
-@include('include.packages-home') </div>
-<div class="section-padding branding-package branding-cust multiply wow">
-   <div class="container">
+@include('include.packages-home')
+
+
+</div>
+
+
+<div class="section-padding branding-package branding-cust multiply">
+   <div class="container wow">
       <div class="row">
          <div class="col-lg-8 col-md-6 col-sm-6 col-xs-12 sec-combo">
             <h3 class="wow fadeInDown" data-wow-delay="0.2s">The Perfect Start <br>to Complete Branding <br>Solutions</h3>
@@ -160,13 +185,29 @@
       </div>
    </div>
 </div>
-@include('include.qualities') 
-<div class="section-padding portfolio_fold wow">
-   <div class="container">
+
+
+@include('include.qualities')
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="section-padding portfolio_fold">
+   <div class="container wow">
       <h3 class="wow fadeInDown" data-wow-delay="0.2s">Serving Over 4000 Clients Worldwide</h3>
       <p class="text-center wow fadeInDown" data-wow-delay="0.4s">Design excellence can’t really be achieved without working side <br>by side with extraordinary clients from around the world.</p>
    </div>
-   <div class="clearfix portfolio">
+   <div class="clearfix portfolio wow">
       <div class="row">
          <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 ">
             <div class="filter-wrapper ">
@@ -275,6 +316,18 @@
                      </div>
                   </a>
                </div>
+               <div class="cbp-item software-hi-tech motiongraphic construction">
+                  <a href="#portfolio48" data-toggle="modal" class="cbp-caption" data-title=" ">
+                     <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-01.gif')}}"> </div>
+                     <div class="cbp-caption-activeWrap mbgblack">
+                        <div class="cbp-l-caption-alignCenter">
+                           <div class="cbp-l-caption-body">
+                              <div class="cbp-l-caption-title"><small>Motion Graphics</small><br>CloudMoose</div>
+                           </div>
+                        </div>
+                     </div>
+                  </a>
+               </div>
                <div class="cbp-item medical abstract consultancy fundst communication garments restaurant accounting communication education electronic">
                   <a href="#portfolio05" data-toggle="modal" class="cbp-caption " data-title=" ">
                      <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/the-vet-01.png')}}"> </div>
@@ -311,6 +364,20 @@
                      </div>
                   </a>
                </div>
+               
+                <div class="cbp-item artphotography">
+                  <a href="#portfolio49" data-toggle="modal" class="cbp-caption" data-title=" ">
+                     <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-02.gif')}}"> </div>
+                     <div class="cbp-caption-activeWrap mbgblue">
+                        <div class="cbp-l-caption-alignCenter">
+                           <div class="cbp-l-caption-body">
+                              <div class="cbp-l-caption-title"><small>Motion Graphics</small><br>TenEighty Group </div>
+                           </div>
+                        </div>
+                     </div>
+                  </a>
+               </div>
+               
                <div class="cbp-item web-designe construction">
                   <a href="#portfolio36" data-toggle="modal" class="cbp-caption" data-title=" ">
                      <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/NK_Afro-Signatures_R1-media-t.png')}}"> </div>
@@ -342,6 +409,18 @@
                         <div class="cbp-l-caption-alignCenter">
                            <div class="cbp-l-caption-body">
                               <div class="cbp-l-caption-title"><small>Automotive and Transport</small><br>LBoogie Trucking</div>
+                           </div>
+                        </div>
+                     </div>
+                  </a>
+               </div>
+               <div class="cbp-item software-hi-tech motiongraphic artphotography">
+                  <a href="#portfolio50" data-toggle="modal" class="cbp-caption" data-title=" ">
+                     <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-03.gif')}}"> </div>
+                     <div class="cbp-caption-activeWrap mbgyellow">
+                        <div class="cbp-l-caption-alignCenter">
+                           <div class="cbp-l-caption-body">
+                              <div class="cbp-l-caption-title"><small>Motion Graphics</small><br>GeniusSearch</div>
                            </div>
                         </div>
                      </div>
@@ -383,6 +462,18 @@
                      </div>
                   </a>
                </div>
+               <div class="cbp-item software-hi-tech motiongraphic advertising">
+                  <a href="#portfolio51" data-toggle="modal" class="cbp-caption" data-title=" ">
+                     <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-04.gif')}}"> </div>
+                     <div class="cbp-caption-activeWrap mbgorange">
+                        <div class="cbp-l-caption-alignCenter">
+                           <div class="cbp-l-caption-body">
+                              <div class="cbp-l-caption-title"><small>Motion Graphics</small><br>RippleBanks</div>
+                           </div>
+                        </div>
+                     </div>
+                  </a>
+               </div>
                <div class="cbp-item media-entertainment communication accounting garments entertainment management technology communication">
                   <a href="#portfolio14" data-toggle="modal" class="cbp-caption " data-title=" ">
                      <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/ms-portfolio.png')}}"> </div>
@@ -419,6 +510,20 @@
                      </div>
                   </a>
                </div>
+               
+               <div class="cbp-item software-hi-tech motiongraphic">
+                  <a href="#portfolio53" data-toggle="modal" class="cbp-caption" data-title=" ">
+                     <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-06.gif')}}"> </div>
+                     <div class="cbp-caption-activeWrap mbgpink">
+                        <div class="cbp-l-caption-alignCenter">
+                           <div class="cbp-l-caption-body">
+                              <div class="cbp-l-caption-title"><small>Motion Graphics</small><br>Try Before Hire</div>
+                           </div>
+                        </div>
+                     </div>
+                  </a>
+               </div>
+               
                <div class="cbp-item advertising identity medical agriculture artphotography studio construction">
                   <a href="#portfolio16" data-toggle="modal" class="cbp-caption" data-title=" ">
                      <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/portfolio_07.png')}}"> </div>
@@ -455,6 +560,18 @@
                      </div>
                   </a>
                </div>
+               <div class="cbp-item software-hi-tech motiongraphic construction advertising">
+                  <a href="#portfolio54" data-toggle="modal" class="cbp-caption" data-title=" ">
+                     <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-07.gif')}}"> </div>
+                     <div class="cbp-caption-activeWrap mbgblack">
+                        <div class="cbp-l-caption-alignCenter">
+                           <div class="cbp-l-caption-body">
+                              <div class="cbp-l-caption-title"><small>Motion Graphics</small><br>The Enterprise Solution Platform</div>
+                           </div>
+                        </div>
+                     </div>
+                  </a>
+               </div>
                <div class="cbp-item real-estate-property technology advertising identity abstract artphotography garments agriculture fundst studio justice">
                   <a href="#portfolio24" data-toggle="modal" class="cbp-caption" data-title=" ">
                      <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/portfolio_10.png')}}"> </div>
@@ -486,6 +603,18 @@
                         <div class="cbp-l-caption-alignCenter">
                            <div class="cbp-l-caption-body">
                               <div class="cbp-l-caption-title"><small>WEB UI/UX</small><br>Revolutionary</div>
+                           </div>
+                        </div>
+                     </div>
+                  </a>
+               </div>
+               <div class="cbp-item software-hi-tech motiongraphic artphotography">
+                  <a href="#portfolio55" data-toggle="modal" class="cbp-caption" data-title=" ">
+                     <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-08.gif')}}"> </div>
+                     <div class="cbp-caption-activeWrap mbgblue">
+                        <div class="cbp-l-caption-alignCenter">
+                           <div class="cbp-l-caption-body">
+                              <div class="cbp-l-caption-title"><small>Motion Graphics</small><br>Samuel Evans</div>
                            </div>
                         </div>
                      </div>
@@ -546,6 +675,18 @@
                         <div class="cbp-l-caption-alignCenter">
                            <div class="cbp-l-caption-body">
                               <div class="cbp-l-caption-title"><small>WEB UI/UX</small><br>EGI Installer</div>
+                           </div>
+                        </div>
+                     </div>
+                  </a>
+               </div>
+               <div class="cbp-item software-hi-tech motiongraphic">
+                  <a href="#portfolio56" data-toggle="modal" class="cbp-caption" data-title=" ">
+                     <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-09.gif')}}"> </div>
+                     <div class="cbp-caption-activeWrap mbgyellow">
+                        <div class="cbp-l-caption-alignCenter">
+                           <div class="cbp-l-caption-body">
+                              <div class="cbp-l-caption-title"><small>Motion Graphics</small><br>CarDirectly</div>
                            </div>
                         </div>
                      </div>
@@ -635,90 +776,19 @@
                      </div>
                   </a>
                </div>
-               <div class="cbp-item software-hi-tech motiongraphic construction">
-                  <a href="#portfolio48" data-toggle="modal" class="cbp-caption" data-title=" ">
-                     <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-01.png')}}"> </div>
-                     <div class="cbp-caption-activeWrap mbgblack">
-                        <div class="cbp-l-caption-alignCenter">
-                           <div class="cbp-l-caption-body">
-                              <div class="cbp-l-caption-title"><small>Motion Graphics</small><br>CloudMoose</div>
-                           </div>
-                        </div>
-                     </div>
-                  </a>
-               </div>
-               <div class="cbp-item artphotography">
-                  <a href="#portfolio49" data-toggle="modal" class="cbp-caption" data-title=" ">
-                     <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-02.png')}}"> </div>
-                     <div class="cbp-caption-activeWrap mbgblue">
-                        <div class="cbp-l-caption-alignCenter">
-                           <div class="cbp-l-caption-body">
-                              <div class="cbp-l-caption-title"><small>Motion Graphics</small><br>TenEighty Group </div>
-                           </div>
-                        </div>
-                     </div>
-                  </a>
-               </div>
-               <div class="cbp-item software-hi-tech motiongraphic artphotography">
-                  <a href="#portfolio50" data-toggle="modal" class="cbp-caption" data-title=" ">
-                     <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-03.png')}}"> </div>
-                     <div class="cbp-caption-activeWrap mbgyellow">
-                        <div class="cbp-l-caption-alignCenter">
-                           <div class="cbp-l-caption-body">
-                              <div class="cbp-l-caption-title"><small>Motion Graphics</small><br>GeniusSearch</div>
-                           </div>
-                        </div>
-                     </div>
-                  </a>
-               </div>
-               <div class="cbp-item software-hi-tech motiongraphic advertising">
-                  <a href="#portfolio51" data-toggle="modal" class="cbp-caption" data-title=" ">
-                     <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-04.png')}}"> </div>
-                     <div class="cbp-caption-activeWrap mbgorange">
-                        <div class="cbp-l-caption-alignCenter">
-                           <div class="cbp-l-caption-body">
-                              <div class="cbp-l-caption-title"><small>Motion Graphics</small><br>RippleBanks</div>
-                           </div>
-                        </div>
-                     </div>
-                  </a>
-               </div>
-               <div class="cbp-item software-hi-tech motiongraphic">
-                  <a href="#portfolio53" data-toggle="modal" class="cbp-caption" data-title=" ">
-                     <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-06.png')}}"> </div>
-                     <div class="cbp-caption-activeWrap mbgpink">
-                        <div class="cbp-l-caption-alignCenter">
-                           <div class="cbp-l-caption-body">
-                              <div class="cbp-l-caption-title"><small>Motion Graphics</small><br>Try Before Hire</div>
-                           </div>
-                        </div>
-                     </div>
-                  </a>
-               </div>
-               <div class="cbp-item software-hi-tech motiongraphic construction advertising">
-                  <a href="#portfolio54" data-toggle="modal" class="cbp-caption" data-title=" ">
-                     <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-07.png')}}"> </div>
-                     <div class="cbp-caption-activeWrap mbgblack">
-                        <div class="cbp-l-caption-alignCenter">
-                           <div class="cbp-l-caption-body">
-                              <div class="cbp-l-caption-title"><small>Motion Graphics</small><br>The Enterprise Solution Platform</div>
-                           </div>
-                        </div>
-                     </div>
-                  </a>
-               </div>
-               <div class="cbp-item software-hi-tech motiongraphic artphotography">
-                  <a href="#portfolio55" data-toggle="modal" class="cbp-caption" data-title=" ">
-                     <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-08.png')}}"> </div>
-                     <div class="cbp-caption-activeWrap mbgblue">
-                        <div class="cbp-l-caption-alignCenter">
-                           <div class="cbp-l-caption-body">
-                              <div class="cbp-l-caption-title"><small>Motion Graphics</small><br>Samuel Evans</div>
-                           </div>
-                        </div>
-                     </div>
-                  </a>
-               </div>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
                <div class="cbp-item software-hi-tech mobile">
                   <a href="#app_portfolio05" data-toggle="modal" class="cbp-caption" data-title=" ">
                      <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio-9-iphone.jpg')}}"> </div>
@@ -731,21 +801,10 @@
                      </div>
                   </a>
                </div>
-               <div class="cbp-item software-hi-tech motiongraphic">
-                  <a href="#portfolio56" data-toggle="modal" class="cbp-caption" data-title=" ">
-                     <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-09.png')}}"> </div>
-                     <div class="cbp-caption-activeWrap mbgyellow">
-                        <div class="cbp-l-caption-alignCenter">
-                           <div class="cbp-l-caption-body">
-                              <div class="cbp-l-caption-title"><small>Motion Graphics</small><br>CarDirectly</div>
-                           </div>
-                        </div>
-                     </div>
-                  </a>
-               </div>
+               
                <div class="cbp-item software-hi-tech motiongraphic">
                   <a href="#portfolio57" data-toggle="modal" class="cbp-caption" data-title=" ">
-                     <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-10.png')}}"> </div>
+                     <div class="cbp-caption-defaultWrap"> <img src="{{asset('img/portfolio/motion-graphics-10.gif')}}"> </div>
                      <div class="cbp-caption-activeWrap mbgorange">
                         <div class="cbp-l-caption-alignCenter">
                            <div class="cbp-l-caption-body">
@@ -864,20 +923,24 @@
                   </a>
                </div>
 
-<!--                <div id="js-loadMore-mosaic-flat" class="cbp-l-loadMore-button">
-			        <a href="ajax-lightbox-gallery/loadMore.html" class="cbp-l-loadMore-link" rel="nofollow">
-			            <span class="cbp-l-loadMore-defaultText">LOAD MORE</span>
-			            <span class="cbp-l-loadMore-loadingText">LOADING...</span>
-			            <span class="cbp-l-loadMore-noMoreLoading">NO MORE WORKS</span>
-			        </a>
-			    </div>
- -->
-
             </div>
          </div>
       </div>
    </div>
 </div>
 @include('include.subscribe_fold') @include('include.count') 
+
+
 <div class="add_border"> @include('include.progress') </div>
-@include('include.process') @include('include.testimonials') @include('include.awards') @include('include.quote') @stop @section('footer') @parent @stop
+
+
+<div class="process_wrap">@include('include.process')</div>
+
+
+ <div class="testimonial_wrap">@include('include.testimonials')</div>
+
+  @include('include.awards') 
+
+  @include('include.quote') 
+
+  @stop @section('footer') @parent @stop

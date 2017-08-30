@@ -1,5 +1,5 @@
-<section class="section-padding awards wow">
-	<div class="container">
+<section class="section-padding awards">
+	<div class="container wow">
 		<div class="row">
 			<div class="col-md-12">
 			    <h3  class="wow fadeInDown" data-wow-delay="0.4s">Our Valued Clients <br>Are Our Greatest Asset</h3>

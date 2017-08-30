@@ -1,0 +1,48 @@
+.btn-fill{ background-color: #f53f22; }
+
+.btn-fill:hover, .btn-fill:focus { background-color: #ce2b11; }
+
+.hero.hero-home .btn-line:hover {  color: #ce2b11; }
+
+.draw:hover::after {  border-bottom-color: #f53f22; border-left-color: #f53f22; }
+.draw:hover::before {  border-top-color: #f53f22; border-right-color: #f53f22; }
+
+.draw:hover {  color: #ce2b11; }
+
+a {  color: #f53f22; }
+
+a:focus, a:hover { color: #ce2b11; }
+
+.h4, h4 { color:#f53f22; }
+
+section.pricing h4, section.testimonials h4 {  color: #f53f22; }
+
+ul.tabs li.current { background: #f53f22; }
+
+
+ul.tabs li:hover { background: #f53f22; }
+
+
+div.single h6 { color: #f53f22; }
+
+div.single span.price { color: #f53f22; }
+
+div.single p span {  
+	 color: #f53f22; }
+
+.sensation-dots li.sensation-active button:before {  
+	color: #f53f22; }
+
+.overlay-green {   background-color: #f53f22; }
+
+section.count span {  color: #f53f22; }
+
+.skill-bar {   background: #f53f22; }
+
+section.call-actions h3 span {   color: #f53f22; }
+
+section.call-actions .fa {   color: #f53f22; }
+
+section.pricing h4, section.testimonials h4 { color: #f53f22; }
+
+.pricing-box .btn-fill { color: #f53f22; }

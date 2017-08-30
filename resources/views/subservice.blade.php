@@ -1,17 +1,54 @@
-<style>
-div.subservice-packages {
-	border-top: none;
-	border-bottom: none;
-}
-.breakdown .d_t {
-	height: 0;
-}
-.secondary-nav-wrap {
-	display: none;
-}
-.subservice-packages.section-padding {
-	padding-bottom: 0px;
-}
+<style type="text/css">
+  
+.secondary-nav-wrap{ display: none; }
+    header .logo a { background-position: bottom center;   }
+    .call-action span{ color: #16a085; }
+    .call-action span small{ color: #626262; }
+    .nav-toggle{ opacity: 0.3; }
+
+    .hero-services {
+      background: url( '{{ asset("none") }}' );
+      background-size: auto !important;
+    height:auto;
+    background-color:#fff !important;
+    }
+
+    #header-sroll{ background-color: #fff;     box-shadow: 1px -10px 26px #b7b7b7; }
+
+
+    
+
+
+header #header-sroll ul#navigation li a {color: #888888; opacity: 1;  -webkit-transition: none;
+  -moz-transition: none;
+  -ms-transition: none;
+  -o-transition: none;
+  transition: none;}
+
+header #header-sroll .call-action span {color: #2c2c2c;   -webkit-transition: none;
+  -moz-transition: none;
+  -ms-transition: none;
+  -o-transition: none;
+  transition: none;}
+
+header #header-sroll .call-action span small {color: #888888;   -webkit-transition: none;
+  -moz-transition: none;
+  -ms-transition: none;
+  -o-transition: none;
+  transition: none;}
+
+header #header-sroll .call-action a {color: #888888;  -webkit-transition: none;
+  -moz-transition: none;
+  -ms-transition: none;
+  -o-transition: none;
+  transition: none;}
+
+
+header #header-sroll .nav-toggle span, header #header-sroll .nav-toggle span:before, header #header-sroll .nav-toggle span:after{    background: #631a79;}
+
+
+
+#header-sroll.small .nav-toggle span, #header-sroll.small .nav-toggle span:before, #header-sroll.small .nav-toggle span:after{background: #631a79;}
 </style>
 
 @extends('layout.master')
@@ -71,7 +108,9 @@ div.subservice-packages {
       <div class="row">
         <div class="col-md-7 col-sm-7 col-lg-7 col-xs-12">
           <h3 class="text-left breakdown-before-left">{{$headings[0]}}</h3>
-          <p class="text-left">{{$headings[1]}}</p>
+          @for( $i=1; $i< sizeof( $headings ); $i++ )
+            <p class="text-left">{{$headings[$i]}}</p>
+          @endfor
           <ul>
             <?php $index=-1; ?>
             @foreach( $list as $item )
@@ -81,7 +120,7 @@ div.subservice-packages {
           </ul>
         </div>
         <div class="col-md-5 col-sm-5 col-lg-5 col-xs-12 height-for-quote">
-          <div class="d_t"> @include('include.service-quote', ['interest'=> $headings[0]  ]) </div>
+          @include('include.service-quote', ['interest'=> $headings[0]  ])
         </div>
       </div>
     </section>

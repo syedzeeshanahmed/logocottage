@@ -1,7 +1,7 @@
-<section class="section-padding progress-area wow">
+<section class="section-padding progress-area ">
 
 
-  <div class="container">
+  <div class="container wow">
    <div class="col-md-6">
       <section class="flags">
        

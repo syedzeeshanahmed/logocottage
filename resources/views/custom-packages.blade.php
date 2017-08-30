@@ -1,7 +1,7 @@
 @extends('layout.master')
 
 @section('metas')
-<title>Make your own design or development package | Design Proficient</title>
+<title>Create your own logo and web design packages | Design Proficient</title>
 <meta description="Why look for design s when you can make your own package? Make a custom package for your needs today!">
 @stop
 
@@ -14,20 +14,18 @@
     .call-action span{ color: #16a085; }
     .call-action span small{ color: #626262; }
     .nav-toggle{ opacity: 0.3; }
+
+    .hero-services {
+      background: url( '{{ asset("none") }}' );
+      background-size: auto !important;
+    height:auto;
+    background-color:#fff !important;
+    }
+
     #header-sroll{ background-color: #fff;     box-shadow: 1px -10px 26px #b7b7b7; }
 
 
     
-
-    
-p#cost_calc_breakdown_price {
-    font-size: 18px;
-}
-.box-custom.follow-scroll.box-custom-package-2 {
-    padding: 15px 30px;
-    background: #fff;
-}
-
 
 
 header #header-sroll ul#navigation li a {color: #888888; opacity: 1;  -webkit-transition: none;
@@ -58,26 +56,7 @@ header #header-sroll .call-action a {color: #888888;  -webkit-transition: none;
 header #header-sroll .nav-toggle span, header #header-sroll .nav-toggle span:before, header #header-sroll .nav-toggle span:after{    background: #631a79;}
 
 
-.top-action .btn-line-fill{ color: #fff; }
-
-header #header-sroll .top-action .btn-line-fill{ color: #b8285a; }
-
-#header-sroll.small .top-action .btn-line-fill{ color: #b8285a; }
-.top-action .btn-line-fill:hover{ color: #fff!important; }
-
 #header-sroll.small .nav-toggle span, #header-sroll.small .nav-toggle span:before, #header-sroll.small .nav-toggle span:after{background: #631a79;}
-.box-custom.follow-scroll h4 {
-    color: #000;
-}
-p#custom-totalCost {
-    font-size: 36px;
-    color: #b8285a;
-    font-weight: bold;
-    margin-bottom: 20px;
-    padding-top: 15px;
-}
-
-.d_t{     width: 100%;  }
 </style>
 
 

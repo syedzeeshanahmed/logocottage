@@ -209,7 +209,7 @@
           <div class="contest">
             <div class="single">
               <h3>Elite COMBO</h3>
-              <span class="old-price">$7,388<small>.00</small> ONLY <i class="cut"></i></span> <span class="price">$3,694<small>.00</small> USD</span>
+              <span class="old-price">$7,388<small>.00</small> ONLY <i class="cut"></i></span> <span class="price">$4,999<small>.00</small> USD</span>
               <p>Suitable for potential super-startups and brand revamps for companies.</p>
               <ul>
                 <li><i class="fa fa-check-circle-o"></i>Complete Custom Design & Development</li>

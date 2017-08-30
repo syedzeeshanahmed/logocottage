@@ -467,10 +467,10 @@ addActiveClass();
         }
 
         var keys = Object.keys(data);
+        
         var token = $(this).closest('.step-form').find("input[name=_token]").val();
-
         $.ajax({
-            url: 'https://localhost/designpro/public/quote/short',
+            url: 'https://www.designproficient.com/quote/short',
             type: 'POST',
             data:  { 'name' :  data['name'], 'email' :  data['email'], 'number' :  data['number'] , '_token': token , 'additional' : data[3]  , 'additional': data[keys[3]], 'page': $('input[name=page]').val() },
             success: function(response) {

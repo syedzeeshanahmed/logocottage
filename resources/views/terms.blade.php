@@ -52,12 +52,6 @@ header #header-sroll .call-action a {color: #888888;  -webkit-transition: none;
 header #header-sroll .nav-toggle span, header #header-sroll .nav-toggle span:before, header #header-sroll .nav-toggle span:after{    background: #631a79;}
 
 
-.top-action .btn-line-fill{ color: #fff; }
-
-header #header-sroll .top-action .btn-line-fill{ color: #b8285a; }
-
-#header-sroll.small .top-action .btn-line-fill{ color: #b8285a; }
-.top-action .btn-line-fill:hover{ color: #fff!important; }
 
 #header-sroll.small .nav-toggle span, #header-sroll.small .nav-toggle span:before, #header-sroll.small .nav-toggle span:after{background: #631a79;}
 
@@ -120,8 +114,8 @@ section.breakdown-dot strong{color:#b8285a;}
          <li>If request for refund is made within 48 hours, you would be eligible for 66% refund (less 10% service & processing fee).</li>
          <li> If request for refund is made between 48- 120 hours of the initial design delivery, you would be eligible 33% refund (less 10% service & processing fee).</li>
          <li>  No refund request will be entertained after 120 hours of your initial design delivery, however since we believe in 100% customer satisfaction you`re encouraged to contact us in case of any concern. </li>
-         <li>  No refund request will be entertained if you have not taken any action on your order for 60 days after placing your order. However, if you want to reactivate your design order, you will be charged a certain fee depending on your project. </li>
-         <li>  All refund requests should be communicated to the support department. Design Proficient, based on the violation of your user agreement reserves the right to approve/disapprove your request on an individual case to case basis. </li>
+         <li>  No refund request will be entertained if you have not taken any action on your order for 30 days after placing your order. However, if you want to reactivate your design order, you will be charged a certain fee depending on your project. </li>
+         
          <li>  No refund requests will be entertained after the final files have been delivered. </li>
          <li>  For Website packages no refund will be entertained once the website is deployed and live. 
 </li>

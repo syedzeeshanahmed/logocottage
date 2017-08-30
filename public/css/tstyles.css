@@ -27,7 +27,7 @@
     height: 100px;
     width: 100px;
     font-size: 70px;
-    color: #b8285a;
+    color: #145db1;
 }
 
 .icon-analysis-back-end-process::before{ content: "\e900"; }
@@ -79,7 +79,7 @@
     vertical-align: top;
 }
 
-.active{ color:#b8285a !important; }
+.active{ color:#145db1 !important; }
 .disable_element{ color:#888888 !important; opacity: 0.4; pointer-events: none; }
 
 .only-xs{
@@ -180,7 +180,7 @@ section.pricing .single,
 
 span.old-price {
     display: inherit;
-    font-family: 'Circular Std';
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: bold;
     position: relative;
@@ -218,13 +218,14 @@ div.single h3{
     margin:15px auto;
 
 }
+.cbp-l-filters-buttonCenter div{ font-weight: 900; }
 
 div.single p{
-    font-family: 'Circular Std Book';
+    font-family: 'Roboto', sans-serif;
     font-size: 14px;
     line-height: 16px;
     color: #7b7b7b ;
-    font-weight: 600;
+    font-weight: 500;
     margin-bottom: 10px;
     line-height: 1.2;
 }
@@ -233,16 +234,16 @@ div.single p:first-of-type {
     padding-bottom: 20px;
     margin: 0;
     color: #7b7b7b;
-    font-weight: 400;
+    font-weight: 500;
     padding: 0px 0px 0px 0px;
     text-align: left;
 }
 
 div.single span.price{
-    font-family: 'Circular Std';
+    font-family: 'Roboto', sans-serif;
     font-size: 42px;
     font-weight: bold;
-    color: #d12e49;
+    color: #145db1;
     margin: 0;
     line-height: 36px;
 }
@@ -277,6 +278,8 @@ div.single ul li{
     opacity: 1;
     color: #7b7b7b;
     padding-left: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
 }
 
 div.single input[type=submit].btn,
@@ -291,7 +294,7 @@ section.testimonials input[type=submit].btn{
 }
 
 div.single p span {
-    color: #b8285a;
+    color: #145db1;
     font-weight: normal;
 }
 
@@ -342,8 +345,14 @@ section.pricing .single.best-seller{
     min-height: 465px;
 }
 
+.testimonial_wrap{background-color: #f9f9f9;
+    position: relative;
+    z-index: 2;}
+
 section.testimonials{
     background-color: #f9f9f9;
+    position: relative;
+    z-index: 2;
 }
 
 
@@ -368,7 +377,7 @@ section.testimonials h2{
 
 
 section.services h3{
-    font-family: 'Circular Std';
+    font-family: 'Roboto', sans-serif;
     font-weight: 900;
     font-size: 24px;
     line-height: 28px;
@@ -379,14 +388,14 @@ section.services h3{
 
 
 section.services span{
-    font-family: 'Circular Std Book';
+    font-family: 'Roboto', sans-serif;
     font-size: 64px;
     line-height: 50px;
     color: #e0e0e0;
 }
 
 section.services a{
-    font-family: 'Circular Std';
+    font-family: 'Roboto', sans-serif;
     font-weight: bold;
     font-size: 12px;
 }
@@ -396,7 +405,7 @@ section.services a{
 }
 
 div.talk-anchor a{
-    font-family: 'Circular Std';
+    font-family: 'Roboto', sans-serif;
     font-size: 18px;
     font-weight: bold;
     text-transform: uppercase;
@@ -404,8 +413,10 @@ div.talk-anchor a{
 }
 section.count{
     
-    /*background-color:#efefef;*/
+    background-color:#fff;
     background-position: right;
+    position: relative;
+    z-index: 2;
 }
 
 .book-area{
@@ -415,16 +426,16 @@ section.count{
 /*section.count{ background: url('../img/project-highlights.png') no-repeat; background-size: cover; }*/
 
 section.count span{
-    font-family: "Circular Std";
+    font-family: 'Roboto', sans-serif;
     font-weight: 900;
-    font-size: 72px;
-    color: #b8285a;
+    font-size: 62px;
+    color: #145db1;
     line-height: 72px;
 }
 section.count h6{
-  font-family: "Circular Std";
+  font-family: 'Roboto', sans-serif;
   font-weight: bold;    
-  font-size: 18px;
+  font-size: 16px;
   line-height: 28px;
   text-transform: uppercase;
   color: #2e2e2e;
@@ -463,7 +474,7 @@ section.maps div {
 
 .single-address a{
     color: #2e2e2e;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 16px;
     padding-bottom: 10px;
     padding-left: 20px;
@@ -531,7 +542,7 @@ section.about .dc{
 
 section.breakdown h5{
     text-transform: uppercase;
-    font-family: 'Circular Std';
+    font-family: 'Roboto', sans-serif;
     font-weight: 900;
     color: #4c4c4c;
 }
@@ -545,7 +556,7 @@ section.breakdown ul li {
 }
 section.breakdown ul li .fa {
     margin-right: 5px;
-    color: #b8285a;
+    color: #145db1;
     font-size: 15px;
 }
 
@@ -592,15 +603,13 @@ section.process h4 {
 }
 
 section.process p {
-    font-size: 18px;
-    line-height: normal;
     padding: 0px 10px;
 }
 
 section.call-actions .fa{
-    font-size: 36px;
+    font-size: 34px;
     float: left;
-    color: #b8285a;
+    color: #145db1;
     margin-left: 15px;
     margin-top: 23px;
 }
@@ -641,7 +650,7 @@ section.call-actions h3{
     font-size:  24px;
     margin-top: 23px;
         padding-left: 65px;
-        font-family:'Circular Std Book';
+        font-family: 'Roboto', sans-serif;
         font-weight: normal;
             text-transform: none;
 }
@@ -652,7 +661,7 @@ section.call-actions .phone-div h3{ padding-left: 55px; }
 .phone-div{ padding-left: 48px; }
 
 section.call-actions h3 span{display: block;
-    font-size: 14px; color: #b8285a; font-family: 'Circular Std Book'; font-weight: 200;}
+    font-size: 14px; color: #145db1; font-family: 'Roboto', sans-serif; font-weight: 200;}
 
 section.call-actions h4{
     padding-top: 26px;
@@ -710,7 +719,7 @@ section.awards .awards-img img{
     .skill-bar {
         width: 100%;
         height: 8px;
-        background: #b62b5b;
+        background: #145db1;
         display: block;
         position: relative;
         top: -2px;
@@ -725,12 +734,12 @@ section.awards .awards-img img{
 
     .skill h4 {
     font-size: 16px;
-    font-weight: 200;
-    font-family: 'Circular Std';
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
 }
     .skill-bar span{
-        color: #b62b5b;
+        color: #145db1;
         position: absolute;
         border-top: 5px solid #f4392f;
         top: -30px;
@@ -825,16 +834,16 @@ ul.tabs{
     margin: 20px 0px 40px 0px;
 }
 ul.tabs li{
- font-family: 'Circular Std';
-    font-weight: 200;
+ font-family: 'Roboto', sans-serif;
+    font-weight: 900;
     background: none;
     text-transform: uppercase;
-    color: #b8285a;
-    border-radius:30px;
+    color: #145db1;
+    border-radius:10px;
     background:none;
     display: inline-block;
-    font-size: 11px;
-    min-width: 118px;
+    font-size: 14px;
+    /*min-width: 118px;*/
     margin-right:15px;
     padding: 10px 15px;
     cursor: pointer;
@@ -844,31 +853,42 @@ ul.tabs li{
     -ms-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
-    border:1px solid rgb(184,40,90);
+    /*border:1px solid rgb(35,74,153);*/
 }
 
 li.tab-link:nth-child(8) {
     margin-right: 0;
 }
 ul.tabs li:hover{    
-    background: rgb(184,40,90);
-    background: -moz-linear-gradient(left, rgb(184,40,90) 0%, rgb(163,41,116) 50%, rgb(144,41,139) 100%);
-    background: -webkit-linear-gradient(left, rgb(184,40,90) 0%,rgb(163,41,116) 50%,rgb(144,41,139) 100%);
-    background: linear-gradient(to right, rgb(184,40,90) 0%,rgb(163,41,116) 50%,rgb(144,41,139) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b8285a', endColorstr='#90298b',GradientType=1 );
-    background-color: #b8285a;
-    color: #fff;}
+    color: #fff;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#145db1+0,00c6ff+100 */
+background: rgb(20,93,177); /* Old browsers */
+/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzE0NWRiMSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMGM2ZmYiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-linear-gradient(left, rgba(20,93,177,1) 0%, rgba(0,198,255,1) 100%); /* FF3.6-15 */
+background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(20,93,177,1)), color-stop(100%,rgba(0,198,255,1))); /* Chrome4-9,Safari4-5 */
+background: -webkit-linear-gradient(left, rgba(20,93,177,1) 0%,rgba(0,198,255,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: -o-linear-gradient(left, rgba(20,93,177,1) 0%,rgba(0,198,255,1) 100%); /* Opera 11.10-11.50 */
+background: -ms-linear-gradient(left, rgba(20,93,177,1) 0%,rgba(0,198,255,1) 100%); /* IE10 preview */
+background: linear-gradient(to right, rgba(20,93,177,1) 0%,rgba(0,198,255,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#145db1', endColorstr='#00c6ff',GradientType=1 ); /* IE6-8 */
+    }
 
 ul.tabs li.current{
-    background: rgb(184,40,90);
-    background: -moz-linear-gradient(left, rgb(184,40,90) 0%, rgb(163,41,116) 50%, rgb(144,41,139) 100%);
-    background: -webkit-linear-gradient(left, rgb(184,40,90) 0%,rgb(163,41,116) 50%,rgb(144,41,139) 100%);
-    background: linear-gradient(to right, rgb(184,40,90) 0%,rgb(163,41,116) 50%,rgb(144,41,139) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b8285a', endColorstr='#90298b',GradientType=1 );
-    background-color: #b8285a;
     color: #fff;
     text-decoration: none;
-    border-radius: 30px;
+    border-radius: 10px;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#145db1+0,00c6ff+100 */
+background: rgb(20,93,177); /* Old browsers */
+/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzE0NWRiMSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMGM2ZmYiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-linear-gradient(left, rgba(20,93,177,1) 0%, rgba(0,198,255,1) 100%); /* FF3.6-15 */
+background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(20,93,177,1)), color-stop(100%,rgba(0,198,255,1))); /* Chrome4-9,Safari4-5 */
+background: -webkit-linear-gradient(left, rgba(20,93,177,1) 0%,rgba(0,198,255,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: -o-linear-gradient(left, rgba(20,93,177,1) 0%,rgba(0,198,255,1) 100%); /* Opera 11.10-11.50 */
+background: -ms-linear-gradient(left, rgba(20,93,177,1) 0%,rgba(0,198,255,1) 100%); /* IE10 preview */
+background: linear-gradient(to right, rgba(20,93,177,1) 0%,rgba(0,198,255,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#145db1', endColorstr='#00c6ff',GradientType=1 ); /* IE6-8 */
 }
 
 .tab-content{
@@ -879,7 +899,7 @@ ul.tabs li.current{
     display: inherit;
 }
 .user_profile nav li a:hover {
-    background: #b8285a;
+    background: #145db1;
     color: #fff;
 }
 
@@ -921,7 +941,7 @@ section.thankyou .actions{
     height: 50px;
     font-size: 12px;
     text-transform: uppercase;
-    font-family: 'Circular Std';
+    font-family: 'Roboto', sans-serif;
     display: inline-block;
     padding: 16px 15px;
     outline: none;
@@ -940,7 +960,7 @@ section.thankyou .actions{
     color: #a9a9a9;
 }
 .user_profile .profile-sidenav nav ul a:hover, .tab-box:hover, #recentOrders_wrapper a:hover {
-    background-color: #b8285a;
+    background-color: #145db1;
     color: #fff;
     color: #fff;
 }
@@ -953,16 +973,16 @@ section.thankyou .actions{
     margin: 10px 0 0 0;
     line-height: 25px;
     color: #7b7b7b;
-    font-weight: 600;
+    font-weight: 500;
 }
 .tab-box-2:hover h2 {
-    color:#b8285a;
+    color:#145db1;
 }
 .tab-box-2:hover img {
-    color:#b8285a;
+    color:#145db1;
 }
 .tab-box-2:hover .fa {
-    color:#b8285a;
+    color:#145db1;
 }
 .tab-box-2 p {
     font-size: 12px;
@@ -1000,7 +1020,7 @@ section.thankyou .actions{
     color:#9b9b9b;
 }
 .right-mid-nav li a:hover{
-    color:#b8285a;
+    color:#145db1;
     text-decoration:none;
 }
 .main-hd h1 {
@@ -1032,11 +1052,11 @@ ul.right-mid-nav {
 }
 .right-mid-nav li a{
     font-size:14px;
-    font-family: 'Circular Std Book';
+    font-family: 'Roboto', sans-serif;
 }
 #listing th {
     font-size: 14px;
-    font-family: 'Circular Std Book';
+    font-family: 'Roboto', sans-serif;
     background: #f9f9f9;
 }
 /*.mdl-data-table tbody tr:hover {
@@ -1047,7 +1067,7 @@ ul.right-mid-nav {
 }
 #listing td {
     font-size:14px;
-    font-family: 'Circular Std Book';
+    font-family: 'Roboto', sans-serif;
 }
 .dataTables_length select.form-control.input-sm {
     width: 170px;
@@ -1057,7 +1077,7 @@ ul.right-mid-nav {
 }
 div#listing_length label {
     font-size: 14px;
-    font-family: 'Circular Std Book';
+    font-family: 'Roboto', sans-serif;
     text-transform: capitalize;
 }
 div#listing_wrapper {
@@ -1066,7 +1086,7 @@ div#listing_wrapper {
 .arrow_box-active {
     position: relative;
     background: #fff;
-    border: 1px solid #b8285a;
+    border: 1px solid #145db1;
     cursor: auto;
 }
 tfoot input {
@@ -1085,7 +1105,7 @@ a.min-menu {
     font-size: 30px;
 }
 a.min-menu:hover{
-    color: #b8285a;    
+    color: #145db1;    
 }
 .search {
     display: inline-block;
@@ -1110,7 +1130,7 @@ a.min-menu:hover{
 }
 .arrow_box-active:before {
     border-color: rgba(194, 225, 245, 0);
-    border-top-color: #b8285a;
+    border-top-color: #145db1;
     border-width: 20px;
     margin-left: -59px;
 }
@@ -1154,7 +1174,7 @@ a.min-menu:hover{
     height: 42px;
 }
 .right-mid-nav .active a{
-    color:#b8285a;
+    color:#145db1;
 }
 .dash-footer ul{
     margin-top: 30px;
@@ -1173,18 +1193,18 @@ a.min-menu:hover{
     margin-right: 7px;
 }
 .dash-footer li a:hover{
-  color: #b8285a;
+  color: #145db1;
   text-decoration:none;
 }
 
 p.copy-dash {
-    color: #b8285a;
+    color: #145db1;
 }
 p.copy-dash a{
-    color: #b8285a;
+    color: #145db1;
 }
 p.copy-dash a:hover{
-    color: #b8285a;
+    color: #145db1;
     text-decoration:none;
 }
 .app {
@@ -1314,7 +1334,7 @@ button.btn.btn-default.dropdown-toggle:focus {
 
 
 .profile_sphere{
-      background-color: #b8285a;
+      background-color: #145db1;
       display: block;
       height: 40px;
       padding: 18px 14px;
@@ -1380,14 +1400,14 @@ button.btn.btn-default.dropdown-toggle:focus {
 }
 
 .title-email{
-    color: #b8285a;
+    color: #145db1;
     margin-left: 3px;
     font-size:12px;
     text-transform: lowercase;
 }
 
 .title-email:hover{
-    color:#b8285a;
+    color:#145db1;
     text-decoration:none;
 }
 .admin-drop select:focus{
@@ -1405,14 +1425,14 @@ button.btn.btn-default.dropdown-toggle:focus {
     padding: 2px 20px;
     margin-bottom: 0px;
     font-weight: normal;
-    font-family: 'Circular Std Book';
+    font-family: 'Roboto', sans-serif;
     border-radius: 0 30px 30px 0;
 }
 
 .profile-sidenav nav ul a:hover,
 .tab-box:hover,
 #recentOrders_wrapper a:hover{
-    background-color: #b8285a;
+    background-color: #145db1;
     color: #fff;
     text-decoration: none; 
     cursor: pointer;
@@ -1498,7 +1518,7 @@ button.btn.btn-default.dropdown-toggle:focus {
     color:#cdcdcd;
 }
 .bell button.btn.btn-default.dropdown-toggle:hover {
-    color: #b8285a;
+    color: #145db1;
     background: none;
 }
 .bell li a {
@@ -1522,7 +1542,7 @@ button.btn.btn-default.dropdown-toggle:focus {
 }
 .admin-drop .bell button.btn.btn-default.dropdown-toggle {
     border: none;
-    color: #b8285a;
+    color: #145db1;
     padding: 5px 3px;
     width: 155px;
     padding-bottom: 0px;
@@ -1530,7 +1550,7 @@ button.btn.btn-default.dropdown-toggle:focus {
     font-size:16px;
 }
 .admin-drop .bell button.btn.btn-default.dropdown-toggle:hover {
-    color: #b8285a;
+    color: #145db1;
     background: none;
 }
 .admin-drop span.caret {
@@ -1551,7 +1571,7 @@ button.btn.btn-default.dropdown-toggle:focus {
     box-shadow: none;
 }
 .admin-drop .bell .dropdown-menu>.active>a, .bell .dropdown-menu>.active>a:focus, .bell .dropdown-menu>.active>a:hover {
-    background-color: #b8285a;
+    background-color: #145db1;
 }
 
 .desh-log button.btn.btn-default.dropdown-toggle {
@@ -1583,7 +1603,7 @@ button.btn.btn-default.dropdown-toggle:focus {
     box-shadow:none;
 }
 .desh-log .dropdown-menu>.active>a, .desh-log .dropdown-menu>.active>a:focus, .desh-log .dropdown-menu>.active>a:hover {
-    background-color: #b8285a;
+    background-color: #145db1;
 }
 .desh-log li a {
     font-size: 12px;
@@ -1594,9 +1614,9 @@ button.btn.btn-default.dropdown-toggle:focus {
     border-color: #8c8c8c;
 }
 .bell .dropdown-menu>li>a:hover {
-    font-weight: 400;
+    font-weight: 500;
     color: #fff;
-    background-color: #b8285a;
+    background-color: #145db1;
 }
 #recentOrders_wrapper a{
     background: none;
@@ -1604,19 +1624,19 @@ button.btn.btn-default.dropdown-toggle:focus {
     height: 45px;
     box-sizing: border-box;
     padding: 13px 15px;
-    font-family: 'Circular Std';
+    font-family: 'Roboto', sans-serif;
     color: #ba6199;
     font-size: 12px;
     position: relative;
     vertical-align: top;
     display: inline-block;
     text-decoration: none;
-    font-weight: 600;
+    font-weight: 500;
     min-width: 80px;
     margin: 0px 10px;
     text-align: center;
     text-transform: uppercase;
-    border: 1px solid #b8285a;
+    border: 1px solid #145db1;
     border-radius: 50px;
 }
 #example_wrapper th {
@@ -1649,7 +1669,7 @@ div#pieChart {
     margin-bottom: 40px;
 }*/
 .mdl-button--raised.mdl-button--colored {
-    background: #b8285a !important;
+    background: #145db1 !important;
     color: #fff;
 }
 #example_wrapper table.dataTable.display tbody tr.even > .sorting_1, table.dataTable.order-column.stripe tbody tr.even > .sorting_1 {
@@ -1664,7 +1684,7 @@ table.dataTable.display tbody tr.odd > .sorting_1, table.dataTable.order-column.
 }
 #example_wrapper th {
     background: #f0f0f0;
-    color: #b8285a;
+    color: #145db1;
     border: none;
 }
 .dataTables_wrapper .ui-toolbar {
@@ -1823,7 +1843,7 @@ input[type="checkbox"] {
 .forget a {
     font-size: 12px;
     float: right;
-    color:rgb(184,40,90);
+    color:rgb(35,74,153);
 }
 .forget a:hover {
     color:#fff;
@@ -1838,7 +1858,7 @@ p.reg-inner {
     margin: 5px 0 0 !important;
 }
 .login button {
-    background:rgb(184,40,90);
+    background:rgb(35,74,153);
     color:#fff;
     -webkit-transition: all 300ms ease-in-out;
     -moz-transition: all 300ms ease-in-out;
@@ -1847,7 +1867,7 @@ p.reg-inner {
     transition: all 300ms ease-in-out;
 }
 .login button {
-    background: rgb(184,40,90);
+    background: rgb(35,74,153);
     color: #fff;
     padding: 15px 18px;
     border-radius: 25px;
@@ -1861,14 +1881,14 @@ p.reg-inner {
 }
 .login button:hover, .login button:focus {
     background-color: #fff;
-    color: rgb(184,40,90);
+    color: rgb(35,74,153);
 }
 .register p {
     margin-top: 10px;
     font-size: 12px;
 }
 .register p a{
-    color: rgb(184,40,90);
+    color: rgb(35,74,153);
 }
 .login{
     width: 100%;
@@ -1899,7 +1919,7 @@ footer.login {
     text-align: left;
 }
 .privacy, .term {
-    color: rgb(184,40,90);
+    color: rgb(35,74,153);
     float: left;
     font-size: 12px;
     margin-right: 10px;
@@ -1918,7 +1938,7 @@ footer.login {
 .small-nav{display:none;}
 button.small-nav {
     background: none;
-    color: #b8285a;
+    color: #145db1;
     border: none;
     font-size: 32px;
     margin-bottom: 13px;
@@ -1982,7 +2002,7 @@ footer .panel-heading h3 {display: none;}
 .site-panel nav {display: none;}
 .small-nav{display:block;}
 .user_profile nav {display: none;}
-.profile-fields a.btn-fill.cancel-btn {background: #b8285a ;margin-bottom: 10px;}
+.profile-fields a.btn-fill.cancel-btn {background: #145db1 ;margin-bottom: 10px;}
 .top-nav nav {height: 80px;}
 .dataTables_length select.form-control.input-sm { margin-bottom: 5px;width:100%;}
 .mdl-cell--6-col div#listing_filter {text-align: left;}
@@ -2140,6 +2160,7 @@ border-radius: 0px;
     margin-bottom: 0px;
     margin-top: 15px;
     color: #000!important;
+    line-height: 18px;
 }
 
 .contest-list.contest-list--scrollable .contest-list__item .contest div.single p span {
@@ -2188,7 +2209,7 @@ input{ outline: none; }
 .contest-list.contest-list--scrollable .contest-list__item .contest .actions a span small{     display: block;
     font-size: 12px;
     line-height: normal;
-    color: #b8285a;
+    color: #145db1;
 
      }
 
@@ -2213,12 +2234,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f8f8', end
  }
 
 .clients-answer .bell {width: 100%;}
-.clients-answer .bell button.btn.btn-default.dropdown-toggle {color: #fff !important;width: 100%;background: #d12e49 !important;}
+.clients-answer .bell button.btn.btn-default.dropdown-toggle {color: #fff !important;width: 100%;background: #145db1 !important;}
 .clients-answer ul.dropdown-menu {width: 100%;}
 .dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover {
     text-decoration: none;
     color: #fff;
-    background-color: #d12e49;
+    background-color: #145db1;
 }
 
 
@@ -2247,7 +2268,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f8f8', end
     display: block;
     width: 100%;
     text-align: right;
-    font-size: 36px;
+    font-size: 34px;
     font-weight: bold;
     padding-top: 20px;
     line-height: 100%;
@@ -2382,7 +2403,7 @@ section.actions-port .chat .info small{
 
 section.actions-port .no .info small:hover,
 section.actions-port .chat .info small:hover{
-    color: #b8285a;
+    color: #145db1;
 }
 
 section.actions-port .no{
@@ -2419,12 +2440,7 @@ section.actions-port .chat .info a:hover{
 /* packages section */
 
 .single ul li i.fa.fa-check-circle-o{
-    color: rgb(184,40,90);
-    color: -moz-linear-gradient(left, rgb(184,40,90) 0%, rgb(163,41,116) 50%, rgb(144,41,139) 100%);
-    color: -webkit-linear-gradient(left, rgb(184,40,90) 0%,rgb(163,41,116) 50%,rgb(144,41,139) 100%);
-    color: linear-gradient(to right, rgb(184,40,90) 0%,rgb(163,41,116) 50%,rgb(144,41,139) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b8285a', endColorstr='#90298b',GradientType=1 );
-    color: #b8285a;
+    color: #145db1;
         margin-left: -20px;
     margin-right: 7px;
 }
@@ -2498,7 +2514,7 @@ section.actions-port .chat .info a:hover{
 section.actions-port .no span.icon,
 section.actions-port .chat span.icon{
     display: block;
-    color: #b8285a;
+    color: #145db1;
     float: left;
     font-size: 32px;
     vertical-align: middle;
@@ -2538,7 +2554,7 @@ section.actions-port .chat span.icon{
 
 section.actions-port .chat span.icon{
     display: block;
-    color: #b8285a;
+    color: #145db1;
     float: left;
 }
 
@@ -2625,7 +2641,7 @@ section.in-touch .actions a{
 
 section.in-touch .actions i,
 .single-address a i{
-    color: #b8285a;
+    color: #145db1;
     padding-right: 10px;    
 }
 
@@ -2690,7 +2706,7 @@ section.addresses .is_table{
 }
 
 .portfolio_page .cbp-filter-item.cbp-filter-item-active{
-    color: #b8285a;
+    color: #145db1;
 }
 
 #cover{
@@ -2748,19 +2764,19 @@ table.dataTable thead th div.DataTables_sort_wrapper span{  display: none;  }
 
 .mdl-button--raised.mdl-button--colored:active, .mdl-button--raised.mdl-button--colored:hover,
 .mdl-button--raised.mdl-button--colored{
-/*    background: rgb(184,40,90) !important;
-    background: -moz-linear-gradient(left, rgb(184,40,90) 0%, rgb(163,41,116) 50%, rgb(144,41,139) 100%)  !important;
-    background: -webkit-linear-gradient(left, rgb(184,40,90) 0%,rgb(163,41,116) 50%,rgb(144,41,139) 100%)  !important;
-    background: linear-gradient(to right, rgb(184,40,90) 0%,rgb(163,41,116) 50%,rgb(144,41,139) 100%)  !important;
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b8285a', endColorstr='#90298b',GradientType=1 );*/
-    background-color: #b8285a  !important;
+/*    background: rgb(35,74,153) !important;
+    background: -moz-linear-gradient(left, rgb(35,74,153) 0%, rgb(163,41,116) 50%, rgb(144,41,139) 100%)  !important;
+    background: -webkit-linear-gradient(left, rgb(35,74,153) 0%,rgb(163,41,116) 50%,rgb(144,41,139) 100%)  !important;
+    background: linear-gradient(to right, rgb(35,74,153) 0%,rgb(163,41,116) 50%,rgb(144,41,139) 100%)  !important;
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#145db1', endColorstr='#90298b',GradientType=1 );*/
+    background-color: #145db1  !important;
 }
 
 .mdl-data-table__cell--non-numeric .fa{
-    color:#b8285a ;
+    color:#145db1 ;
 }
 i.fa.fa-download {
-    color:#b8285a ;
+    color:#145db1 ;
 }
 
 /* ********************************************************** */
@@ -2790,18 +2806,18 @@ i.fa.fa-download {
     border-radius: 3px;
 }
 div#listing_info {
-    color: #b8285a;
+    color: #145db1;
     margin-top: 10px;
 }
 button#listing_previous:hover, button#listing_next:hover{
-    color: #b8285a;
+    color: #145db1;
 }
 .pagination button.mdl-button.mdl-button--raised.mdl-button--colored {
     margin: 0 15px;
 }
 #veiw-toggle:hover, #veiw-toggle:focus{
     color:#fff;
-    background:#b8285a;
+    background:#145db1;
 }
 .dataTables_paginate .pagination {
     margin: 10px 0 0;
@@ -2815,7 +2831,7 @@ button#listing_previous:hover, button#listing_next:hover{
 }
 .right-panel h4.title {
     margin: 14px 0 14px;
-    font-family: 'Circular Std';
+    font-family: 'Roboto', sans-serif;
     line-height: 1;
     font-size: 24px;
 }
@@ -2951,24 +2967,32 @@ button#listing_previous:hover, button#listing_next:hover{
     padding-right: 15px;
 }
 .custom-package input.cost_calc_row-2.cost_calc_calculate.single.cost_calc_active {
-    background: rgb(184,40,90);
-    background: -moz-linear-gradient(left, rgb(184,40,90) 0%, rgb(163,41,116) 50%, rgb(144,41,139) 100%);
-    background: -webkit-linear-gradient(left, rgb(184,40,90) 0%,rgb(163,41,116) 50%,rgb(144,41,139) 100%);
-    background: linear-gradient(to right, rgb(184,40,90) 0%,rgb(163,41,116) 50%,rgb(144,41,139) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b8285a', endColorstr='#90298b',GradientType=1 );
-    background-color: #a32974;
-    color: rgb(255, 255, 255)!important;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#145db1+0,00c6ff+100 */
+background: rgb(20,93,177); /* Old browsers */
+/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzE0NWRiMSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMGM2ZmYiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-linear-gradient(left, rgba(20,93,177,1) 0%, rgba(0,198,255,1) 100%); /* FF3.6-15 */
+background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(20,93,177,1)), color-stop(100%,rgba(0,198,255,1))); /* Chrome4-9,Safari4-5 */
+background: -webkit-linear-gradient(left, rgba(20,93,177,1) 0%,rgba(0,198,255,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: -o-linear-gradient(left, rgba(20,93,177,1) 0%,rgba(0,198,255,1) 100%); /* Opera 11.10-11.50 */
+background: -ms-linear-gradient(left, rgba(20,93,177,1) 0%,rgba(0,198,255,1) 100%); /* IE10 preview */
+background: linear-gradient(to right, rgba(20,93,177,1) 0%,rgba(0,198,255,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#145db1', endColorstr='#00c6ff',GradientType=1 ); /* IE6-8 */
 }
 .custom-package input.cost_calc_button {
-    background: rgb(184,40,90);
-    background: -moz-linear-gradient(left, rgb(184,40,90) 0%, rgb(163,41,116) 50%, rgb(144,41,139) 100%);
-    background: -webkit-linear-gradient(left, rgb(184,40,90) 0%,rgb(163,41,116) 50%,rgb(144,41,139) 100%);
-    background: linear-gradient(to right, rgb(184,40,90) 0%,rgb(163,41,116) 50%,rgb(144,41,139) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b8285a', endColorstr='#90298b',GradientType=1 );
-    background-color: #a32974;
-    margin-bottom: 15px;
     border-radius: 50px;
     color: rgb(255, 255, 255)!important;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#145db1+0,00c6ff+100 */
+background: rgb(20,93,177); /* Old browsers */
+/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzE0NWRiMSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMGM2ZmYiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-linear-gradient(left, rgba(20,93,177,1) 0%, rgba(0,198,255,1) 100%); /* FF3.6-15 */
+background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(20,93,177,1)), color-stop(100%,rgba(0,198,255,1))); /* Chrome4-9,Safari4-5 */
+background: -webkit-linear-gradient(left, rgba(20,93,177,1) 0%,rgba(0,198,255,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: -o-linear-gradient(left, rgba(20,93,177,1) 0%,rgba(0,198,255,1) 100%); /* Opera 11.10-11.50 */
+background: -ms-linear-gradient(left, rgba(20,93,177,1) 0%,rgba(0,198,255,1) 100%); /* IE10 preview */
+background: linear-gradient(to right, rgba(20,93,177,1) 0%,rgba(0,198,255,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#145db1', endColorstr='#00c6ff',GradientType=1 ); /* IE6-8 */
 }
 .custom-package #cost_calc_total_cost{
     color:#333;
@@ -3057,13 +3081,13 @@ p { margin-bottom: 30px; }*/
 
 .custom-package .item-price-cart {
     text-align: right;
-    color: #b8285a;
+    color: #145db1;
     width: 20%;   
 }
 
 
 #cost_calc_breakdown_price {
-    color: #b8285a;
+    color: #145db1;
     font-size: 12px;
     border:none;
     width:35%;
@@ -3091,7 +3115,7 @@ button.btn.btn-default.dropdown-toggle:focus {
     background: #fff;
 }
 #quoteForm .form-control{
-    border-radius:30px;
+    border-radius:10px;
 }
 #quoteForm textarea.form-control {
     border-radius: 15px;
@@ -3143,13 +3167,17 @@ button.btn.btn-default.dropdown-toggle:focus {
 }
 
 .parent input[type=checkbox]:checked + small {
-    background: rgb(184,40,90);
-    background: -moz-linear-gradient(left, rgb(184,40,90) 0%, rgb(163,41,116) 50%, rgb(144,41,139) 100%);
-    background: -webkit-linear-gradient(left, rgb(184,40,90) 0%,rgb(163,41,116) 50%,rgb(144,41,139) 100%);
-    background: linear-gradient(to right, rgb(184,40,90) 0%,rgb(163,41,116) 50%,rgb(144,41,139) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b8285a', endColorstr='#90298b',GradientType=1 );
-    background-color: #a32974;
-    color: #fff;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#145db1+0,00c6ff+100 */
+background: rgb(20,93,177); /* Old browsers */
+/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzE0NWRiMSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMGM2ZmYiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-linear-gradient(left, rgba(20,93,177,1) 0%, rgba(0,198,255,1) 100%); /* FF3.6-15 */
+background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(20,93,177,1)), color-stop(100%,rgba(0,198,255,1))); /* Chrome4-9,Safari4-5 */
+background: -webkit-linear-gradient(left, rgba(20,93,177,1) 0%,rgba(0,198,255,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: -o-linear-gradient(left, rgba(20,93,177,1) 0%,rgba(0,198,255,1) 100%); /* Opera 11.10-11.50 */
+background: -ms-linear-gradient(left, rgba(20,93,177,1) 0%,rgba(0,198,255,1) 100%); /* IE10 preview */
+background: linear-gradient(to right, rgba(20,93,177,1) 0%,rgba(0,198,255,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#145db1', endColorstr='#00c6ff',GradientType=1 ); /* IE6-8 */
 }
 /* checkbox end */
 
@@ -3158,7 +3186,7 @@ button.btn.btn-default.dropdown-toggle:focus {
     height: 0px;
 }
 /*ul#navigation li.active a {
-    color: #b8285a;
+    color: #145db1;
 }*/
 
 .actions.slide-btn{display:inline-block;}
@@ -3176,7 +3204,7 @@ button.btn.btn-default.dropdown-toggle:focus {
 .cbp-l-caption-title small{
     text-transform: uppercase;
     font-size: 12px;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 /******************************/
@@ -3391,7 +3419,6 @@ div.services .cs-select ul {
     height: 275px;
 }
 
-
 .services .slimScrollBar{ visibility: hidden; }
 .cs-active.services .slimScrollBar{ visibility: visible; }
 
@@ -3454,6 +3481,8 @@ a.reg_top{ position: relative; margin-left: 10px; }
     background: #252525;
     text-transform: uppercase;
 }
+
+.max_width{ max-width:750px; margin:0px auto;}
 
 /*ends*/
 

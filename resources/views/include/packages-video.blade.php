@@ -19,7 +19,7 @@
           <div class="contest">
             <div class="single ">
               <h3>Startup Video <br />packages</h3>
-              <span class="old-price">$1,598<small>.00</small> ONLY <i class="cut"></i></span> <span class="price">$799<small>.00</small> USD</span>
+              <span class="old-price">$1,598<small>.00</small> ONLY <i class="cut"></i></span> <span class="price">$499<small>.00</small> USD</span>
               <p>Suitable for potential super-startups and brand revamps for companies.</p>
               <ul>
                 <li><i class="fa fa-check-circle-o"></i>30 Second Video</li>
@@ -32,7 +32,7 @@
               </ul>
               <p class="text-center">Add on: <span class="pink sea">$50</span> for 24 Hours Rush Delivery</p>
               <div class="clearfix order-action text-center">
-                <input class="btn-line-fill" onclick="window.location.href='{{ route('order.video' , [ 'Startup Video Package', 799 ] ) }}'" type="submit" value="ORDER NOW" tabindex="0">
+                <input class="btn-line-fill" onclick="window.location.href='{{ route('order.video' , [ 'Startup Video Package', 499 ] ) }}'" type="submit" value="ORDER NOW" tabindex="0">
 
               </div>
               <span class="inclusive-black"><a href="{{ route('package.vs') }}">VIEW DETAILS</a> </span>
@@ -47,7 +47,7 @@
           <div class="contest">
             <div class="single">
               <h3>Classic Video <br />packages</h3>
-              <span class="old-price">$2,198<small>.00</small> ONLY <i class="cut"></i></span> <span class="price">$1,099<small>.00</small> USD</span>
+              <span class="old-price">$2,198<small>.00</small> ONLY <i class="cut"></i></span> <span class="price">$999<small>.00</small> USD</span>
               <p>Suitable for potential super-startups and brand revamps for companies.</p>
               <ul>
                 <li><i class="fa fa-check-circle-o"></i>60 Second Video</li>
@@ -60,7 +60,7 @@
               </ul>
               <p class="text-center">Add on: <span class="pink sea">$50</span> for 24 Hours Rush Delivery</p>
               <div class="clearfix order-action">
-                <input class="btn-line-fill" onclick="window.location.href='{{ route('order.video' , [ 'Classic Video Package', 1099 ] ) }}'" type="submit" value="ORDER NOW" tabindex="0">
+                <input class="btn-line-fill" onclick="window.location.href='{{ route('order.video' , [ 'Classic Video Package', 999 ] ) }}'" type="submit" value="ORDER NOW" tabindex="0">
               </div>
               <span class="inclusive-black"><a href="{{ route('package.vc') }}">VIEW DETAILS</a> </span>
               <div class="actions row">
@@ -75,7 +75,7 @@
           <div class="contest">
             <div class="single">
               <h3>Premium Video <br />packages</h3>
-              <span class="old-price">$2,998<small>.00</small> ONLY <i class="cut"></i></span> <span class="price">$1499<small>.00</small> USD</span>
+              <span class="old-price">$2,998<small>.00</small> ONLY <i class="cut"></i></span> <span class="price">$1,499<small>.00</small> USD</span>
               <p>Suitable for potential super-startups and brand revamps for companies.</p>
               <ul>
                 <li><i class="fa fa-check-circle-o"></i>90 Second Video</li>
@@ -102,7 +102,7 @@
           <div class="contest">
             <div class="single">
               <h3>Unlimited Video<br />packages</h3>
-              <span class="old-price">$4,598<small>.00</small> ONLY <i class="cut"></i></span> <span class="price">$22,99<small>.00</small> USD</span>
+              <span class="old-price">$4,598<small>.00</small> ONLY <i class="cut"></i></span> <span class="price">$2,299<small>.00</small> USD</span>
               <p>Suitable for potential super-startups and brand revamps for companies.</p>
               <ul>
                 <li><i class="fa fa-check-circle-o"></i>120 Second Video</li>
@@ -111,7 +111,7 @@
                 <li><i class="fa fa-check-circle-o"></i>Storyboard</li>
                 <li><i class="fa fa-check-circle-o"></i>Animation</li>
                 <li><i class="fa fa-check-circle-o"></i>Voice - Over & Sound Effects</li>
-                <li><i class="fa fa-check-circle-o"></i>8 Weeks Delivery</li>
+                
               </ul>
               <p class="text-center">Add on: <span class="pink sea">$50</span> for 24 Hours Rush Delivery</p>
               <div class="clearfix order-action">

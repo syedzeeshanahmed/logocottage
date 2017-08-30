@@ -11,8 +11,8 @@ use App\Quote as QuoteModel;
 use Validator;
 
 class Quote extends Controller
-{ 
-  protected $rules_quote = [
+{	
+	protected $rules_quote = [
             'name'=>'required',
             'email'=>'required',
             'description'=>'required',
@@ -30,8 +30,8 @@ class Quote extends Controller
         'page' => 'required',
     ];
     
-  public function save(Request $request){
-    $validator = Validator::make($request->all(), $this->rules_quote);
+	public function save(Request $request){
+		$validator = Validator::make($request->all(), $this->rules_quote);
         $isUser = true;
         if ($validator->fails()) {
             return redirect( $request->page )
@@ -96,7 +96,7 @@ class Quote extends Controller
         return redirect( route('thankyou') );
 
 
-  }
+	}
 
 
 public function saveShortQuote(Request $request){
@@ -179,7 +179,7 @@ public function saveShortQuote(Request $request){
 
 
     public function isUser($email){
-      
+    	
         $user = User::where('email', $email)
                          ->first();
 
@@ -218,5 +218,5 @@ public function saveShortQuote(Request $request){
             $message->to( env('MAIL_USERNAME_QUERY')  );
 
         });
-    } 
+    }	
 }

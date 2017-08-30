@@ -1006,7 +1006,7 @@ public function videoStartup(){
             'Startup Video Package',
             'Suitable for potential super-startups and brand revamps for companies.',
             '1,598.00',
-            '799.00'
+            '499.00'
         ];
 
         $list = [
@@ -1047,7 +1047,7 @@ public function videoClassic(){
             'Classic Video Package',
             'Suitable for potential super-startups and brand revamps for companies.',
             '2,198.00',
-            '1,099.00'
+            '999.00'
         ];
 
         $list = [
@@ -1129,7 +1129,7 @@ public function videoUnlimited(){
             'Unlimited Video Package',
             'Suitable for potential super-startups and brand revamps for companies.',
             '4,598.00',
-            '22,99.00'
+            '2,299.00'
         ];
 
         $list = [
@@ -1138,8 +1138,8 @@ public function videoUnlimited(){
             'Sample Theme',
             'Storyboard',
             'Animation',
-            'Voice - Over & Sound Effects',
-            '8 Weeks Delivery'
+            'Voice - Over & Sound Effects'
+            
  
         ];
 
@@ -1768,12 +1768,12 @@ public function eliteCombo(){
             'Elite Combo',
             'Suitable for potential super-startups and brand revamps for companies.',
             '7,388.00',
-            '3,694.00'
+            '4,999.00'
         ];
 
         $list = [
             'Complete Custom Design & Development',
-            'ny One: Dating Portal, Job Portal, Professional Network, Social Network, Media Portal (Photos/Video)',
+            'Any One: Dating Portal, Job Portal, Professional Network, Social Network, Media Portal (Photos/Video)',
             'Client/User Dashboard Area',
             'Custom Coding',
             'Custom PHP Development',

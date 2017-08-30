@@ -61,9 +61,11 @@ class Users extends Controller
                     });        
             } 
             
+
         $user['status'] = 'eBook Sent';
             
         $this->notify_stakeholders($user, null);        
+    
         
         return redirect( route('thankyou') );
     }
@@ -312,7 +314,7 @@ class Users extends Controller
         Mail::send('mails_layout.notification', ['row'=> $quote , 'user'=> $user, 'title' => $title, 'content' => $content], function ($message) use ($quote )
         {   
 
-            $subject = 'Design Proficient | User Subscription';
+            $subject = 'Design Proficient |  User Subscription';
             $message->subject($subject);
 
             $message->from( env('MAIL_USERNAME_QUERY') , 'Design Proficient');
@@ -320,7 +322,6 @@ class Users extends Controller
 
         });
     }
-
 
 
 

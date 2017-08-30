@@ -24,7 +24,7 @@
                                 <li><i class="fa fa-check-circle-o"></i>100% Money Back Guarantee *</li>
                                 <li><i class="fa fa-check-circle-o"></i>15% Discount on your next order</li>
                             </ul>
-                            <p class="text-center">Add on: <span class="pink sea">$50</span> for 24 Hours Rush Delivery</p>
+                            <p class="text-center">Add on: <span class="pink sea">$50</span> for 24 Hours Rush Delivery</p> 
                             <div class="clearfix order-action">
                                 <input class="btn-line-fill" onclick="window.location.href='{{route('order.logo' , [ 'Professional Logo Package', 124] )}}'" type="submit" value="ORDER NOW" tabindex="0">
                             </div><span class="inclusive-black"><a href="{{route('package.pl')}}">VIEW DETAILS</a> </span>

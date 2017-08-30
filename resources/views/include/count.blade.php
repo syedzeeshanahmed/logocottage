@@ -1,5 +1,5 @@
-<section class="section-padding count wow">
-	<div class="container">
+<section class="section-padding count">
+	<div class="container wow">
 		<div class="row">
 			<div class="col-md-12">
 				

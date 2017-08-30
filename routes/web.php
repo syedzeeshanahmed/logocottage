@@ -52,6 +52,7 @@ Route::get('/terms', ['as'=> 'term' , 'uses'=> function () {
 }]);
 
 Route::get('/logo-design', ['as'=> 'service.logodesign' , 'uses'=> 'Subservices@logo']);
+Route::get('/marketing', ['as'=> 'marketing.logodesign' , 'uses'=> 'Subservices@logoMarketing']);
 
 Route::get('/Get-a-Free-Quote', ['as'=> 'ShareYourIdea' , 'uses'=> function () {
     return view('shareyouridea');
@@ -371,7 +372,7 @@ Route::get('/user/handovers', ['as'=>'dash.handovers', 'uses'=>'User\Handovers@i
 Route::get('/user/files', ['as'=>'dash.files', 'uses'=>'User\Files@index']);
 Route::get('/user/file/download/{file}', ['as'=>'dash.file.download', 'uses'=>'User\Files@download']);
 Route::get('/user/orders', ['as'=>'dash.orders', 'uses'=>'User\Orders@index']);
-
+ 
 
 
 Route::get('/user/custom', [ 'as'=> 'dash.custom' ,  'uses'=> function () {
@@ -396,6 +397,17 @@ Route::post('/user/membership/apply', [ 'as'=> 'user.membership.apply' , 'uses'=
 //     return view('login');    
 //   }
 // });
+
+
+
+/*******  Landing pages style rules  ********/
+
+Route::group( [ 'namespace' => 'Landing' ] , function () {
+    Route::get('/identity-design', ['as'=> 'marketing.logodesign' , 'uses'=> 'Marketing@logoMarketing']);
+    Route::get('/package/Basic-identity-Package', [ 'as'=> 'package.mbalp' , 'uses'=> 'MarketingPackages@basicLogoPackage' ]);
+    Route::get('/package/Startup-identity-Package', [ 'as'=> 'package.mslp' , 'uses'=> 'MarketingPackages@startupLogoPackage' ]);
+    Route::get('/package/Professional-identity-Package', [ 'as'=> 'package.mpl' , 'uses'=> 'MarketingPackages@professionalLogo' ]);
+});
 
 
 

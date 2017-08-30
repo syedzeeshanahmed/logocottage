@@ -9,7 +9,7 @@ class Subservices extends Controller
     public function identity(){
 
     	$bannerHeadings = [
-	        'Recognized and Renowned Brand Development Services and Solutions',
+	        'Recognized Brand Development Services and Solutions',
 	        'Assisting brands and media companies with state of the art brand development solutions that help you stand out'
 	    ];	
     	
@@ -26,7 +26,7 @@ class Subservices extends Controller
 	        'Letterhead Design'
 	    ];
 
-	     $metas = [ "Best in class Brand Development Solutions | Design Proficient" , "We're helping your transform your corporation into interactive brands with our creative brand development solutions.", '/img/Brand-Identity-Development.png' ]; // index 2 containes banner link
+	     $metas = [ "Get your brand created by the best brand development company" , "We’re a professional brand development agency working excellently to define superb brand development strategies for companies of shapes and sizes.", '/img/Brand-Identity-Development.png' ]; // index 2 containes banner link
 
 	     $packages = 'packages-logo';
 
@@ -56,24 +56,37 @@ class Subservices extends Controller
     public function web(){
         $threeLine=1;
     	$bannerHeadings = [
-	        'Next Generation Web Design<br>and Development Solutions',
-	        'Helping brands and multinationals all over the world<br>in creating innovative and world class web design<br>and development solutions'
+	        'Next Generation Website Design and Development Solutions',
+	        'Helping brands and multinationals all over the world in creating innovative and world class website design services'
 	    ];	
     	
 	    $headings = [
-	        'Web Design and Development Solutions' ,'Web aesthetics are perhaps one of the most important things to focus when creating a brand that aims to conquer the market. With more than half the population on earth wise enough to be online, it is important to make sure your business is too. Our web design and development team thinks hugely different when it comes to making gorgeous web interfaces. Reach us today and discuss your web design or development project.'
+	        'Web Design and Development',
+	        'Web aesthetics are perhaps one of the most important things that we focus on at our website design company
+	        when creating a brand that aims to conquer the market. With more than half the population on earth wise enough to be online,
+	        it is important to make sure your business is too.',
+	        'At Design Proficient, we consider website design as an essential part of the overall online existence.
+	        We’re a website design company that focuses on creating gorgeous web user interfaces. We focus on creating
+	        website design services that are affordable and attractive. We’re a group of web designers and developers that
+	        value top quality design solutions. From Ecommerce website design to corporate web design, there’s nothing our
+	        professional website designers can’t handle. As a matter of fact, we constantly train our team of
+	        professional website designers for such corporate solutions. Need Ecommerce designers and developers
+	        that work dedicatedly on the same project? No problem. Our ecommerce designers and developers are
+	        just what you’re looking for.'
+	        
 	    ];
 	    $list = [
 	        'Web Interface Design',
+	        'User Interface Prototyping',
+	        'Back-End Development',
 	        'Cross Platform Web Development',
 	        'CMS Development',
-	        'User Interface Prototyping',
 	        'B2B Portal Development',
 	        'Portal Development'
 	    ];
 
 	    
-	    $metas = [ "Top Notch Web Design Solutions for corporations| Web Design and Development" , "Outclass all competition with supreme web design and development solutions by our experts. Make every click and scroll on your website count with design proficient. " , '/img/Web-Design-and-Development.png' ];
+	    $metas = [ "Web Design – Custom Web Design Services by Creative Web Designers" , "Our team of professional web designers and web developers provide you with the best creative web development and design services in town. Discuss your project with us today" , '/img/Web-Design-and-Development.png' ];
 
 	    $process = [
 	     	'Your web’s interface is perhaps the most essential and most important part of your website. Our web design engineers pay immense importance in creating a conceptual web interface.',
@@ -124,7 +137,7 @@ class Subservices extends Controller
 	    ];
 
 	    
-	    $metas = [ "iOS and Android App Design and Development Solutions" , "Our app design and development solutions for iOS, Android, Windows and Web are nothing but the best in the industry." , '/img/App-Design-and-Development.png' ];
+	    $metas = [ "Get your app design & developed by the best mobile app development Company" , "We’re one of the top app development agencies in the country providing you with ample design and development solutions for your next big app! Reach us today." , '/img/App-Design-and-Development.png' ];
 
 	    $process = [
 	     	'Your unique idea is the most important aspect of your application. It defines how different your application is going to be which is why it is the initial step to our process.',
@@ -155,7 +168,7 @@ class Subservices extends Controller
     public function backend(){
 
     	$bannerHeadings = [
-	        'State Of The Art Data Management and Back End Development Solutions',
+	        'State Of The Art Back End Development Solutions',
 	        'Our team of data management engineers and back-end developers provide you with globally acclaimed solutions.'
 	    ];	
     	     $headings = [
@@ -192,7 +205,7 @@ class Subservices extends Controller
 
 
 
-	    $metas = [ "Exceptional Back End Development Solutions | Back End Development" , "Take data management solutions to the next level with expert back-end development solutions by Design Proficient. Discuss your project with our team today." , '/img/Back-End-Development.png' ];
+	    $metas = [ "Get Back-End Development Services From The Best Back-End Development Company" , "Our back-end development experts and professionals love to make a well-managed back-end solution for your company without you breaking a sweat." , '/img/Back-End-Development.png' ];
 	    
 	 	$packages = 'packages-web';
 	   return view('subservice', compact('list', 'headings', 'metas', 'packages', 'process', 'processIcon', 'portfolio', 'bannerHeadings', 'processHeadings'));
@@ -241,7 +254,7 @@ class Subservices extends Controller
 		
   		$threeLine=1;
 
-	     $metas = [ "Expert Marketing Solutions Over the Web | Digital Marketing" , "From Social Media Marketing to Pay-Per-Click marketing campaign management, our team of digital marketing professionals help you connect with your audience online.", '/img/Digital-Marketing.png'  ];
+	     $metas = [ "Get Digital Marketing Services From The Best Digital Marketing Agency" , "If you’re not on the first page of Google, you don’t matter! Our team of professional Digital Marketing experts make sure your digital existence is on top.", '/img/Digital-Marketing.png'  ];
 
 	     		$packages = 'packages-social-media';
 	   return view('subservice', compact('list', 'headings', 'metas' , 'packages', 'process', 'processIcon', 'portfolio', 'bannerHeadings', 'threeLine', 'processHeadings'));
@@ -251,12 +264,22 @@ class Subservices extends Controller
 	   public function logo(){
 
 	   	$bannerHeadings = [
-	        'Assisting Multinationals With Exceptional Logo Design Solutions',
-	        'Helping you make an excellent and out-of-the-box impression with superb logo design and development solutions '
+	        'Assisting Multinationals With Exceptional Logo Design Services',
+	        'Helping you make an excellent and out-of-the-box impression with custom logo design and website design solutions'
 	    ];	
     	    $headings = [
 	        'Logo Design Solutions',
-	        'Making a great impression on the first glance is a sign of excellent customer communication. This is why we make sure you make the perfect first impact with top notch logo design solutions by Design Proficient. Our design architects make your logo an identity that makes a mark on the customer’s mind. Reach us today and talk to our logo design architects regarding your project.'
+	        'Making a great impression on the first glance is a sign of excellent customer communication. Looking for logo designers to design logo online? Well,
+	        look no further. We’re a logo design company that focuses on the perfect first impression. We’re global, we design logo online and stay connected to
+	        clients all over the globe. If you’re seeking a custom logo design, the team at Design Proficient is just what you need. Our team of professional
+	        logo designers make your logo and website an identity that makes a mark on the customer’s mind.',
+	        
+	        'Our team of logo designers and design architects have been working in the field for over a decade. Your logo is a core asset of your identity.
+	        This is one of the many reasons why our professional logo designers focus on creating custom logo designs that not only make an immediately amazing
+	        first impression, but additionally leave an everlasting stamp on the minds of your targeted audience. We’re a logo design agency that focuses on results
+	        that matter which is one of the many reasons why from logo brief collection to final logo design submission, we aim to provide you exceptional logo design services.',
+
+	        
 	        ];    
 	    $list = [
 
@@ -290,7 +313,7 @@ class Subservices extends Controller
 
 
 
-	     $metas = [ "Logo and Identity Design Services | Brand Identity" , "Transforming and giving birth to newer brands and corporations with brand identity solutions like no other. Come and inquire for a unique logo design today!", '/img/Logo-Designing.png'  ];
+	     $metas = [ "Jaw-dropping logo designs by the best logo designers" , "Need a professional logo design? We can make it for you! Our team of creative logo designers provide you with the best logo designs on the web. Reach us now!", '/img/Logo-Designing.png'  ];
 
 	     $packages = 'packages-logo';
 	     $portfolio = 'portfolio-logo';
@@ -343,7 +366,7 @@ class Subservices extends Controller
 	     ];
 
 
-	     $metas = [ "Unique Marketing Collateral Design Services | Marketing Collateral" , "From brochure design to infographic design, make sure your business stands out with beautifully designed marketing collateral. Inquire today and discuss your ideas with us.", '/img/Marketing-Collateral.png'  ];
+	     $metas = [ "Get marketing collaterals designed by the best marketing collateral agency" , "Our creative thinkers create excellent stationary design services to gorgeous marketing collateral design services; we are here to serve you with nothing but the best.", '/img/Marketing-Collateral.png'  ];
 
 		$packages = 'corporate-branding';
 	    return view('subservice', compact('list', 'headings', 'metas' , 'packages', 'process', 'processIcon','bannerHeadings', 'processHeadings'));
@@ -355,17 +378,17 @@ class Subservices extends Controller
     public function motion(){
 
     	$bannerHeadings = [
-	        'World Renowned Motion Graphics and Animation Service',
-	        'We impress your audience with moving pictures and videos to help you stand a class apart from your competitors'
+	        'World Renowned Motion Graphics and Animation Services',
+	        'We impress your audience with 3D Animation Videos and Video Animation Services to help you stand a class apart from your competitors'
 	    ];	
     	
 	        $headings = [
-	        'Motion Graphics','Have you ever caught yourself paying more attention on a video documentary over a text thesis? Well, obviously you have. The attention span of a normal human being is less than a goldfish. This is where growing brands need new mediums to convert customers and motion graphics is just the answer. Our animators and graphic design professionals are easily one of the best in the world providing you with a guaranteed increase in conversion rates for your projects.'
+	        'Motion Graphics','Have you ever caught yourself paying more attention on a video documentary over a text thesis? Well, obviously you have. The attention span of a normal human being is less than a goldfish. This is where growing brands need new mediums to convert customers and motion graphics is just the answer. Our animators and graphic design professionals are easily one of the best in the world providing you with a guaranteed increase in conversion rates for your projects with Business Animation Videos.'
 	        ];    
 	    $list = [
 	        '2D/3D Animation',
 	        'Explainer Video Development',
-	        'Interactive Infographic Development',
+	        'Whiteboard Animation Video',
 	        'Brand Storytelling Solutions',
 	        'Branded Audio Video Production'
 	    ];
@@ -391,7 +414,7 @@ class Subservices extends Controller
 
 	     $herovideo = 'motion-video-banner';
 
-	     $metas = [ "Motion Graphics Design Solutions | Motion Graphics" , "Take your business to the very top with the help of excellent motion graphics design services. Talk to our animators today!", '/img/Motion-Graphics.png'  ];
+	     $metas = [ "Get Motion Graphics Designed By The Best Motion Graphics Agency" , "Our professional animators and creative motion graphics artist create the best explainer videos and animation videos for your business. Contact us today and discuss your project.", '/img/Motion-Graphics.png'  ];
 	    
 		$packages = 'packages-video';
 	    return view('subservice', compact('list', 'headings', 'metas' , 'packages', 'process', 'processIcon', 'portfolio', 'bannerHeadings', 'processHeadings', 'herovideo'));
@@ -437,7 +460,7 @@ class Subservices extends Controller
 	     $portfolio = 'portfolio-random';
 
 
-	     $metas = [ "Website Design and Web Management Services | Website Management" , "Facing problems managing your corporate website? Our web management team makes sure everything you need from your website is being managed properly.", '/img/Website-Management.png'  ];
+	     $metas = [ "Get Website Management Services By The Best Web Management Company" , "Managing you web existence can be hard. Lucky for you, our web experts provide you with the best web management services globally. Talk to us today!", '/img/Website-Management.png'  ];
 	    		$packages = 'packages-web';
 
 	    return view('subservice', compact('list', 'headings', 'metas' , 'packages', 'process', 'processIcon', 'portfolio', 'bannerHeadings', 'processHeadings'));
@@ -484,7 +507,7 @@ class Subservices extends Controller
 
 	     $portfolio = 'portfolio-random';
 
-	     $metas = [ "Register Your Personal or Company Domain | Domain Registration" , "Make an instant impact on your customer with custom domain names. Register your personal or business domain with us today!", '/img/Domain-Registration.png'  ];
+	     $metas = [ "Get Cheap Domain Registration Services By The Best Domain Registration Company" , "A great website is nothing without a catchy domain. We help you get the best domains at the web domain prices. Register your website’s domain name today!", '/img/Domain-Registration.png'  ];
 
 		$packages = 'packages-domain';
 
@@ -497,7 +520,7 @@ class Subservices extends Controller
     public function copywriting(){
 
     	$bannerHeadings = [
-	        'Creative and Unique Copywriting Solutions For Organizations Worldwide',
+	        'Creative Copywriting Solutions For Organizations Worldwide',
 	        'We help you create exceptional and attractive copies for all platforms and mediums'
 	    ];	
     	    $headings = [
@@ -533,7 +556,7 @@ class Subservices extends Controller
 
 	     $portfolio = 'portfolio-random';
 
-	     $metas = [ "Professional Copywriting Solutions – Order Now | Creative Copywriting" , "Make an immediate impact on your customers with excellent copywriting solutions that boost conversion rates to the very top.", '/img/copywriting.png'  ];
+	     $metas = [ "Get Creative Copywriting Done By The Best Copywriting Agency" , "At Design Proficient, our team of professional creative copywriters provide you with top class content writing services. Talk to our content specialists today.", '/img/copywriting.png'  ];
 
 		$packages = 'packages-content';
 	    return view('subservice', compact('list', 'headings', 'metas' , 'packages', 'process', 'processIcon', 'portfolio', 'bannerHeadings', 'processHeadings'));
@@ -580,7 +603,7 @@ class Subservices extends Controller
 	     $portfolio = 'portfolio-random';
 
 
-	     $metas = [ "Digital 2D/3D illustration & modeling services | 2D & 3D Illustration" , "Our experts model your product with the help of 2D & 3D Illustrations creating results that matter. Talk to us regarding your product today.", '/img/illustration.png'  ];
+	     $metas = [ "Get 2D & 3D Illustrations from the best graphic designers" , "Our team of professional graphic designers create beautiful 2D and 3D graphic illustrations for your business. Talk to our creative analysts today to discuss your project.", '/img/illustration.png'  ];
 
 		$packages = 'packages-illustration';
 
@@ -588,6 +611,62 @@ class Subservices extends Controller
 	    return view('subservice', compact('list', 'headings', 'metas' , 'packages', 'process', 'processIcon', 'portfolio', 'bannerHeadings', 'processHeadings'));
     }
 
+
+	
+	   public function logoMarketing(){
+
+	   	$bannerHeadings = [
+	        'Assisting Multinationals With Exceptional Logo Design Solutions, Starting With $34',
+	        'Helping you make an excellent and out-of-the-box impression with superb logo design and development solutions '
+	    ];	
+    	    $headings = [
+	        'Logo Design Solutions',
+	        'Making a great impression on the first glance is a sign of excellent customer communication. This is why we make sure you make the perfect first impact with top notch logo design solutions by Design Proficient. Our design architects make your logo an identity that makes a mark on the customer’s mind. Reach us today and talk to our logo design architects regarding your project.'
+	        ];    
+	    $list = [
+
+			'Mascot Logo Design',
+			'3D Logo Design',
+			'Illustrative Logo Design',
+			'Flat Logo Design',
+			'Minimal Logo Design',
+			'Emblem Logo Design'
+
+	    ];
+        
+         $threeLine=1;
+
+	     $processIcon = [
+	     	'icon-conceptualizing-logo-process',
+	     	'icon-design-logo-process',
+	     	'icon-delivery-logo-process',
+	     ];
+
+	     $process = [
+	     	'Conceptualization is the strongest pillar to a beautifully constructed logo which is why our creative thinkers make sure the concepts are always unique and out-of-the-box.',
+	     	'Regardless of your project’s size, we make sure the best team of creative designers work on your project for a brand identity that is incomparable in terms of design.',
+	     	'Our team of designers provides you with several unique concepts and at the end provides you with apt results that impress your targeted audience at the very first glance.'
+	     ];
+
+	     $processHeadings = [
+	     	'Conceptualization',
+	     	'Design',
+	     	'Delivery'
+	     ];
+
+
+
+	     $metas = [ "Logo and Identity Design Services | Brand Identity" , "Transforming and giving birth to newer brands and corporations with brand identity solutions like no other. Come and inquire for a unique logo design today!", '/img/Logo-Designing.png'  ];
+
+	     $packages = 'packages-logo';
+	     $portfolio = 'portfolio-logo';
+
+	   return view('marketing', compact('list', 'headings', 'metas', 'packages', 'process', 'processIcon', 'portfolio', 'bannerHeadings', 'processHeadings', 'threeLine'));
+
+
+
+
+    }
 
     
 }
