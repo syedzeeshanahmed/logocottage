@@ -134,8 +134,8 @@
         <div class="col-xs-12 col-sm-12 col-md-12 clearfix">
        
         <p class="clearfix">
-           <span class="icon-mail"></span>
-
+           <span class="icon-mail"><i class="fa fotr icon-email"></i></span>
+             
             <span>
          
           <small class="phone-number"><a href="mailto:idea@designproficient.com" target="_top">idea@designproficient.com </a></small>
@@ -158,7 +158,7 @@
         
         <p class="clearfix">
 
-<span class="icon-placeholder"></span>
+<span class="icon-placeholder"><i class="fa fotr icon-contect-a"></i></span>
 
         <span class="para">Mid-Market, 1390 Market Street, <br>Suite 200, San Francisco, 94102, USA</span></p>
 
@@ -174,7 +174,7 @@
        
        <p class="clearfix"> 
 
-       <span class="icon-phone-call"></span> 
+       <span class="icon-phone-call"><i class="fa fotr icon-phone"></i></span> 
 
        <span>
          

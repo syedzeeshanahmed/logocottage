@@ -45,9 +45,9 @@ class Subservices extends Controller
 	     ];
 
 	     $processIcon = [
-	     	'icon-discovery-brand-process',
-	     	'icon-targeting-brand-process',
-	     	'icon-measurement-brand-process',
+	     	'icon-barnd-development-discovery',
+	     	'icon-barnd-development-targeting',
+	     	'icon-barnd-development-measurement',
 	     ];
 
 	    return view('subservice', compact('list', 'headings', 'metas', 'packages', 'process', 'processIcon','portfolio', 'bannerHeadings', 'processHeadings'));
@@ -101,9 +101,9 @@ class Subservices extends Controller
 	     ];
 
 	     $processIcon = [
-	     	'icon-design-web-process',
-	     	'icon-development-web-process',
-	     	'icon-quality-web-process',
+	     	'icon-web-design-design',
+	     	'icon-web-design-development',
+	     	'icon-web-design-quality-assurance',
 	     ];
 
 	    $packages = 'packages-web';
@@ -152,9 +152,9 @@ class Subservices extends Controller
 	     ];
 
 	     $processIcon = [
-	     	'icon-idea-app-process',
-	     	'icon-dev-app-process',
-	     	'icon-delivery-app-process',
+	     	'icon-appdesign-idea',
+	     	'icon-appdesign-develop',
+	     	'icon-appdesign-deliver',
 	     ];
 
 	     $portfolio = 'portfolio-app';
@@ -190,9 +190,9 @@ class Subservices extends Controller
 	     ];
 
 	     $processIcon = [
-	     	'icon-analysis-back-end-process',
-	     	'icon-develop-back-end-process',
-	     	'icon-testing-back-end-process',
+	     	'icon-backend-analysis',
+	     	'icon-backend-develop',
+	     	'icon-backend-testing',
 	     ];
 
 	     $processHeadings = [
@@ -239,9 +239,9 @@ class Subservices extends Controller
 	     ];
 
 	     $processIcon = [
-	     	'icon-plan-digital-process',
-	     	'icon-measure-digital-process',
-	     	'icon-discover-digital-process',
+	     	'icon-digital-marketing-plan',
+	     	'icon-digital-marketing-measur',
+	     	'icon-digital-marketing-discover',
 	     ];
 
 	     $processHeadings = [
@@ -294,9 +294,9 @@ class Subservices extends Controller
 
 
 	     $processIcon = [
-	     	'icon-conceptualizing-logo-process',
-	     	'icon-design-logo-process',
-	     	'icon-delivery-logo-process',
+	     	'icon-logo-packages-conceptualization',
+	     	'icon-logo-packages-design',
+	     	'icon-logo-packages-delivery',
 	     ];
 
 	     $process = [
@@ -354,9 +354,9 @@ class Subservices extends Controller
 	     ];
 
 	     $processIcon = [
-	     	'icon-brief-collateral-process',
-	     	'icon-concept-collateral-process',
-	     	'icon-result-collateral-process',
+	     	'icon-marketing-collateral-brief',
+	     	'icon-marketing-collateral-concept',
+	     	'icon-marketing-collateral-results',
 	     ];
 
 	     $processHeadings = [
@@ -399,9 +399,10 @@ class Subservices extends Controller
 	     ];
 
 	     $processIcon = [
-	     	'icon-script-motion-process',
-	     	'icon-story-motion-process',
+	     	'icon-creative-copywriting-copy',
+	     	'icon-motion-graphics-story',
 	     	'icon-motion-motion-process',
+	     	
 	     ];
 
 	     $processHeadings = [
@@ -446,9 +447,9 @@ class Subservices extends Controller
 	     ];
 
 	     $processIcon = [
-	     	'icon-plan-web-manegement-process',
-	     	'icon-schedule-web-manegement-process',
-	     	'icon-reports-web-manegement-process',
+	     	'icon-website-plan',
+	     	'icon-website-schedule',
+	     	'icon-website-reports',
 	     ];
 
 	     $processHeadings = [
@@ -492,9 +493,9 @@ class Subservices extends Controller
 	     ];
 
 	     $processIcon = [
-	     	'brief-domain-process',
-	     	'book-domain-process',
-	     	'transfer-domain-process',
+	     	'icon-domain-brief',
+	     	'icon-domain-book',
+	     	'icon-domain-transfer',
 	     ];
 
 	     $processHeadings = [
@@ -543,9 +544,9 @@ class Subservices extends Controller
 	     ];
 
 	     $processIcon = [
-	     	'icon-research-copywriting-process',
-	     	'icon-copy-copywriting-process',
-	     	'icon-delivery-copywriting-process',
+	     	'icon-creative-copywriting-research',
+	     	'icon-creative-copywriting-copy',
+	     	'icon-creative-copywriting-delivery',
 	     ];
 
 	     $processHeadings = [
@@ -589,9 +590,9 @@ class Subservices extends Controller
 	     ];
 
 	     $processIcon = [
-	     	'icon-sketch-illustration-process',
-	     	'icon-illustrate-illustration-process',
-	     	'icon-delivery-illustration-process',
+	     	'icon-sketch-2d-3d',
+	     	'icon-illustrat-2d-3d',
+	     	'icon-delivery-2d-3d',
 	     ];
 
 	     $processHeadings = [

@@ -179,7 +179,7 @@
                <div class="clearfix order-action"> <input class="btn-fill-white" onclick="window.location.href='{{route('order.branding', [ 'Start Up Combo', 994])}}'" type="submit" value="ORDER NOW" tabindex="0"> </div>
                <p class="text-center">Add on: <span class="sea">$50</span> for 24 Hours Rush Delivery</p>
                <span class="inclusive-black"><a href="{{route('package.suc')}}">VIEW DETAILS</a> </span> 
-               <div class="actions clearfix"> <a class="action-no gre clearfix"> <span class="icon-support"></span> <span><small>Share your idea?</small>1.866.978.6636 <small class="border-right"></small></span> </a> <a onclick="$zopim.livechat.window.toggle()" class="action-chat ali clearfix pull-right" tabindex="0"> <span class="icon-chat"></span> <span><small>Want to discuss?</small> Live Chat Now</span></a> </div>
+               <div class="actions clearfix"> <a class="action-no gre clearfix"> <span class="icon-support"><i class="n-pakage-call icon-shear-your-idea"></i></span> <span><small>Share your idea?</small>1.866.978.6636 <small class="border-right"></small></span> </a> <a onclick="$zopim.livechat.window.toggle()" class="action-chat ali clearfix pull-right" tabindex="0"> <span class="icon-chat"><i class="n-pakage-call icon-live-chat-now"></i></span> <span><small>Want to discuss?</small> Live Chat Now</span></a> </div>
             </div>
          </div>
       </div>
@@ -241,13 +241,13 @@
             <section class="actions-port">
                <div class="no">
                   <div class="cta-block">
-                     <span class="icon-support"></span> 
+                     <span class="icon-support"><i class="n-idea icon-shear-your-idea"></i></span> 
                      <div class="info"> <small>Share your idea? </small> <span>1 866 976 8874</span> </div>
                   </div>
                </div>
                <div class="chat">
                   <div class="cta-block">
-                     <span class="icon-chat"></span> 
+                     <span class="icon-chat"><i class="n-l-call icon-live-chat-now"></i></span> 
                      <div class="info"> <small>Want to discuss? </small> <a href="#" >Live Chat Now</a> </div>
                   </div>
                </div>
