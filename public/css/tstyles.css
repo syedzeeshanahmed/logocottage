@@ -27,7 +27,7 @@
     height: 100px;
     width: 100px;
     font-size: 70px;
-    color: #145db1;
+    color: #145db1; 
 }
 
 .icon-analysis-back-end-process::before{ content: "\e900"; }
