@@ -9843,7 +9843,7 @@ input#quoteSubmit {
     z-index: 20;
 }
 .client-drop .cs-skin-elastic.cs-active .cs-options {
-    width: 320px;
+    width: 324px;
     margin-top: -21px;
 }
 .client-drop .cs-skin-elastic .cs-options span {
@@ -9878,8 +9878,7 @@ input#quoteSubmit {
     border-right: 1px solid #ccc;
     border-left: 1px solid #ccc;
     border-top: none;
-    border-radius: 0px 0px 14px 14px;
-    height: 275px;	        
+    border-radius: 0px 0px 14px 14px;	        
 }
 .client-drop .cs-skin-elastic .cs-options .cs-selected span {
     color: #145db1;

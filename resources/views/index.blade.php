@@ -30,7 +30,7 @@
          <div class="d_c">
             <h4 class=" wow fadeInDown" data-wow-delay="0.2s">We Build Brands</h4>
             <h3 class=" wow fadeInDown" data-wow-delay="0.4s">Crafting Brands with Design Discipline</h3>
-            <p class=" wow fadeInDown" data-wow-delay="0.6s">We’re a design company based in the USA that loves to create useful and<br>design-friendly experience over the web and mobile platform. </p>
+            <p class=" wow fadeInDown" data-wow-delay="0.6s">We’re a design company based in the UK that loves to create useful and design-friendly experience over the web and mobile platforms.</p>
             <div class="actions wow fadeInDown" data-wow-delay="0.8s"> <a onclick="$zopim.livechat.window.toggle()" style="cursor: pointer;" class="btn-fill"> Let's Get Started </a></div>
          </div>
       </div>
@@ -54,13 +54,7 @@
                <h4 class="text-left"><span class="pur">Frequently Asked Questions</span></h4>
                <select class="cs-select cs-skin-elastic clients-answer-inner">
                   <option value="" disabled selected>What do you need help with?</option>
-                  <option value="clients-1" data-class="faq-opt">What is Design Proficient?</option>
-                  <option value="clients-2" data-class="faq-opt">What services do you provide?</option>
-                  <option value="clients-3" data-class="faq-opt">Are there any limitations geographically for clients?</option>
-                  <option value="clients-4" data-class="faq-opt">Can I discuss my ideas or will the agency handle all that?</option>
-                  <option value="clients-5" data-class="faq-opt">Will there be a communication gap?</option>
-                  <option value="clients-6" data-class="faq-opt">How soon can your agency get started on my project?</option>
-                  <option value="clients-7" data-class="faq-opt">Are there any packages that I can avail?</option>
+                  <option value="clients-1" data-class="faq-opt">What is Logo Cottage?</option>
                </select>
             </div>
          </div>
@@ -68,33 +62,11 @@
             <div class="clients-sec">
                <div class="faq-sections wow fadeInDown">
                   <div class="clients-1">
-                     <h4>What is Design Proficient?</h4>
-                     Design Proficient is a creative digital agency providing you excellent services ranging from design to development and even digital marketing. We help businesses from around the world of all shapes and sizes in achieving success in every industry worldwide.
+                     <h4>What is Logo Cottage?</h4>
+                     Logo Cottage is a creative digital agency providing you excellent services ranging from design to development and even digital marketing. We help businesses from around the world of all shapes and sizes in achieving success in every industry worldwide.
                   </div>
-                  <div class="clients-2">
-                     <h4>What services do you provide?</h4>
-                     At Design Proficient, we provide you with nothing but the best range of services from web design and development to stationary design and even social media marketing solutions along with hundreds of other services. We’re a 360-degree digital marketing agency that provides all solutions to its clients all over the world in 14 different countries. 
-                  </div>
-                  <div class="clients-3">
-                     <h4>Are there any limitations geographically for clients?</h4>
-                     No, there isn’t. Our experts work with clients and customers all over the world. We’ve worked with clients all over the planet and have successfully transformed them into better corporations in general. Our team’s mission is for a perfectly digital planet and for that we like to work with international corporations all the time.
-                  </div>
-                  <div class="clients-4">
-                     <h4>Can I discuss my ideas or will the agency handle all that?</h4>
-                     We encourage our clients into putting forward unique and out of the box ideas helping them stand out against their competitors. We’re a group of thinkers that like to pitch in to creativity ourselves as well but would love to work on your idea if you have one.
-                  </div>
-                  <div class="clients-5">
-                     <h4>Will there be a communication gap?</h4>
-                     Our experts here at Design Proficient are strong in communication with the client. This is one of the many reasons why we offer 24/7 client coordination on every project we take over. Additionally, we are fluent in the most spoken global language on the planet, i.e. English to communicate freely with clients all over the planet.
-                  </div>
-                  <div class="clients-6">
-                     <h4>How soon can your agency get started on my project?</h4>
-                     We love to do things quickly and with just the right balance. We can start working on your project right away. All you’ll have to do is call us and discuss your project or book a call and let us call you back. After we’ve discussed the brief and your requirements, it’s time to hand over the project to our team and we’ll provide you with a project timeline. It is that easy!
-                  </div>
-                  <div class="clients-7">
-                     <h4>Are there any packages that I can avail?</h4>
-                     Of course! You can find our packages and combo packages on their respective pages. If you can’t find anything suitable for yourself, we can always prepare a custom quote for your project.
-                  </div>
+              
+                
                </div>
             </div>
          </div>
@@ -106,7 +78,9 @@
    <div class="container">
      
       <h3 class="text-center wow fadeInDown" data-wow-delay="0.2s">Compelling Design for Global Corporations</h3>
-      <p class="text-center wow fadeInDown" data-wow-delay="0.4s">Brands are a subject of construction and re-construction and that’s what we do best. <br>Our design maestros’ are constantly working on unique perceptions to create compelling stories.</p>
+      <p class="text-center wow fadeInDown" data-wow-delay="0.4s">Brands are a subject of construction and re-construction and that’s what we do best.<br>
+Our design maestros’ are constantly working on unique perceptions to create compelling stories.
+</p>
    </div>
    <div class="container-wrap">
       <div class="clients wow fadeInDown" data-wow-delay="0.8s">
@@ -131,7 +105,7 @@
       <div class="row">
          <div class="col-md-12">
             <h2 class=" wow fadeInDown text-center" data-wow-delay="0.2s">Serving Economical<br>& Design Efficient</h2>
-            <p class=" wow fadeInDown text-center" data-wow-delay="0.4s">We like to serve the industry with persuasive and conceptual designs that rock<br>the market. Creating an impact is what we do best and what we like<br>to provide to every client with our pocket-friendly packages. </p>
+            <p class=" wow fadeInDown text-center" data-wow-delay="0.4s">We like to serve the industry with persuasive and conceptual designs that rock the market. <br>Creating an impact is what we do best and what we like to provide to every client with our pocket-friendly packages.</p>
             <div class="actions wow fadeInDown clearfix text-center" data-wow-delay="0.6s"><a href="{{route('packages')}}" class="btn-fill"><i class="fa fa-play" aria-hidden="true"></i> FIND MORE PACKAGES</a> <a onclick="$zopim.livechat.window.toggle()" style="cursor: pointer;" class="btn-line-fill ali-fill ">Let's Get Started </a></div>
          </div>
          
