@@ -4,7 +4,10 @@
   <div class="row">
     <div class="col-md-12">
       <h3>Corporate Branding Packages <br>At The Perfect Price</h3>
-      <p class="text-center">At Design Proficient, we’re creative thinkers who believe in the drastic change that corporate <br>branding provides to the company. This is why we provide  <br>budget friendly corporate branding packages.</p>
+      <p class="text-center">At Logo Cottage, we’re creative thinkers who believe in the drastic change that corporate 
+branding <br>provides to the company. This is why we provide 
+budget friendly corporate branding packages.
+</p>
     </div>
   </div>
 </div>

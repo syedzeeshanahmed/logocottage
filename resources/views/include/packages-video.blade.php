@@ -3,7 +3,9 @@
   <div class="row">
     <div class="col-md-12">
       <h3>Video Packages Tailored To <br>Your Company’s Needs</h3>
-      <p class="text-center">With our video packages, we focus mostly on creating ROI focused results that are tailored to the needs of your company.<br> Our projects are budget friendly and feature rich for your corporation to own.</p>
+      <p class="text-center">With our video packages, we focus mostly on creating ROI focused results that are tailored to the needs of your company. <br>
+      Our projects are budget friendly and feature rich for your corporation to own.
+</p>
     </div>
   </div>
 </div>

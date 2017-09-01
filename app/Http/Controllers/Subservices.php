@@ -34,7 +34,7 @@ class Subservices extends Controller
 
 	     $process = [
 	     	'Discovering what your company really stands for is essential for our brand development analysts. This will be the base of your brand and this is where our analysts focus the most on.',
-	     	'If your brand isn’t targeting the right audience, it is pretty much of no use. This is mainly why put pressure on targeting to help your boost your ROI to the very top.',
+	     	'If your brand isn’t targeting the right audience, it is pretty much of no use. This is mainly why we put pressure on targeting to help your ROI to the very top.',
 	     	'Our brand development professionals put their entire focus on measuring what’s new and what isn’t and provide you with results that you need in the end for proper brand analysis.'
 	     ];
 
@@ -65,14 +65,7 @@ class Subservices extends Controller
 	        'Web aesthetics are perhaps one of the most important things that we focus on at our website design company
 	        when creating a brand that aims to conquer the market. With more than half the population on earth wise enough to be online,
 	        it is important to make sure your business is too.',
-	        'At Design Proficient, we consider website design as an essential part of the overall online existence.
-	        We’re a website design company that focuses on creating gorgeous web user interfaces. We focus on creating
-	        website design services that are affordable and attractive. We’re a group of web designers and developers that
-	        value top quality design solutions. From Ecommerce website design to corporate web design, there’s nothing our
-	        professional website designers can’t handle. As a matter of fact, we constantly train our team of
-	        professional website designers for such corporate solutions. Need Ecommerce designers and developers
-	        that work dedicatedly on the same project? No problem. Our ecommerce designers and developers are
-	        just what you’re looking for.'
+	        'At Logo Cottage, we consider website design as an essential part of the overall online existence. We’re a website design company that focuses on creating gorgeous web user interfaces. We focus on creating website design services that are affordable and attractive. We’re a group of web designers and developers that value top quality design solutions. From Ecommerce website design to corporate web design, there’s nothing our professional website designers can’t handle. As a matter of fact, we constantly train our team of professional website designers for such corporate solutions. Need Ecommerce designers and developers that work dedicatedly on the same project? No problem. Our ecommerce designers and developers are just what you’re looking for.'
 	        
 	    ];
 	    $list = [
@@ -90,7 +83,7 @@ class Subservices extends Controller
 
 	    $process = [
 	     	'Your web’s interface is perhaps the most essential and most important part of your website. Our web design engineers pay immense importance in creating a conceptual web interface.',
-	     	'A brilliant design is essential for the brand but without beautifully embedded functions, it may not impress your customer. Our development team makes sure your website is well-developed.',
+	     	'A brilliant design is essential for the brand but without beautifully embedded functions, it may not impress your customer. Our development team makes sure your website is well developed.',
 	     	'Quality assurance is a key factor that we focus on before we launch the website. Our team of QA experts make sure each bug is removed and your website is in perfect working shape.'
 	     ];
 
@@ -124,7 +117,7 @@ class Subservices extends Controller
 	    ];	
 
 	    $headings = [
-	        'Application Design and Development Services' ,'Assisting corporations from every region globally with application design and development solutions. We aim to give unique ideas the shape that they deserve with top notch application design and development solutions being provided globally to entrepreneurs, startups and multinationals. We love working with organizations of all shapes and sizes.'
+	        'Application Design and Development Services' ,'Assisting corporations from every region globally with application design and development solutions. We aim to give unique ideas the shape that they deserve with top notch application design and development solutions being provided globally to entrepreneurs, start-ups and multinationals. We love working with organizations of all shapes and sizes.'
 	    ];
 
 	    $list = [
@@ -184,7 +177,7 @@ class Subservices extends Controller
 
 	  
 	    $process = [
-	     	'Our back-end development experts analyze your data requirements and provide you with a proper break-out plan divided into several different phases for your project.',
+	     	'Our back-end development experts analyse your data requirements and provide you with a proper break-out plan divided into several different phases for your project.',
 	     	'The back-end development process that we follow is perhaps the best in class and this is mainly why we focus on creating something that is solely made for your brand.',
 	     	'Testing your newly developed back-end is perhaps the most important step of the process. Our back-end development professionals make sure you get nothing but the best.'
 	     ];
@@ -220,7 +213,7 @@ class Subservices extends Controller
 	        'Our team of social media and digital marketers are globally recognized for the amazing services that they provide.'
 	    ];	
     	    $headings = [
-	        'Digital Marketing Services','Having an online existence for any brand is extremely essential. However, no matter how big the corporation is and no matter how great its web presence is, if it can’t connect to its customers worldwide then its facing an issue. This is where our proven digital marketing professionals help you out giving you nothing but the best strategically thought-out marketing campaigns. Discuss your marketing goals with our digital marketing professionals today!'
+	        'Digital Marketing Services','Having an online existence for any brand is extremely essential. However, no matter how big the corporation is and no matter how great its web presence is, if it can’t connect to its customers worldwide then it’s facing an issue. This is where our proven digital marketing professionals help you out giving you nothing but the best strategically thought-out marketing campaigns. Discuss your marketing goals with our digital marketing professionals today!'
 	        ];    
 	    $list = [
 
@@ -234,7 +227,7 @@ class Subservices extends Controller
 
 	    $process = [
 	     	'Planning out the perfect digital marketing strategy is the first step to many for your brand. Creating a proper marketing plan is where we start from.',
-	     	'Measuring and analyzing statistics is what helps our digital marketing experts understand the nature of your brand. Another essential part of our process.',
+	     	'Measuring and analysing statistics is what helps our digital marketing experts understand the nature of your brand. Another essential part of our process.',
 	     	'Discovering new trends, new audience networks and new potential customers is an effective cycle that always keeps moving.'
 	     ];
 
@@ -269,15 +262,9 @@ class Subservices extends Controller
 	    ];	
     	    $headings = [
 	        'Logo Design Solutions',
-	        'Making a great impression on the first glance is a sign of excellent customer communication. Looking for logo designers to design logo online? Well,
-	        look no further. We’re a logo design company that focuses on the perfect first impression. We’re global, we design logo online and stay connected to
-	        clients all over the globe. If you’re seeking a custom logo design, the team at Design Proficient is just what you need. Our team of professional
-	        logo designers make your logo and website an identity that makes a mark on the customer’s mind.',
+	        'Making a great impression on the first glance is a sign of excellent customer communication. Looking for logo designers to design logo online? Well, look no further. We’re a logo design company that focuses on the perfect first impression. We’re global, we design logo online and stay connected to clients all over the globe. If you’re seeking a custom logo design, the team at Logo Cottage is just what you need. Our team of professional logo designers make your logo and website an identity that makes a mark on the customer’s mind.',
 	        
-	        'Our team of logo designers and design architects have been working in the field for over a decade. Your logo is a core asset of your identity.
-	        This is one of the many reasons why our professional logo designers focus on creating custom logo designs that not only make an immediately amazing
-	        first impression, but additionally leave an everlasting stamp on the minds of your targeted audience. We’re a logo design agency that focuses on results
-	        that matter which is one of the many reasons why from logo brief collection to final logo design submission, we aim to provide you exceptional logo design services.',
+	        'Our team of logo designers and design architects have been working in the field for over a decade. Your logo is a core asset of your identity. This is one of the many reasons why our professional logo designers focus on creating custom logo designs that not only make an immediately amazing first impression, but additionally leave an everlasting stamp on the minds of your targeted audience. We’re a logo design agency that focuses on results that matter which is one of the many reasons why from logo brief collection to final logo design submission, we aim to provide you exceptional logo design services.',
 
 	        
 	        ];    
@@ -302,7 +289,7 @@ class Subservices extends Controller
 	     $process = [
 	     	'Conceptualization is the strongest pillar to a beautifully constructed logo which is why our creative thinkers make sure the concepts are always unique and out-of-the-box.',
 	     	'Regardless of your project’s size, we make sure the best team of creative designers work on your project for a brand identity that is incomparable in terms of design.',
-	     	'Our team of designers provides you with several unique concepts and at the end provides you with apt results that impress your targeted audience at the very first glance.'
+	     	'Our team of designers provide you with several unique concepts and at the same end provide you with apt results that impress your targeted audiences at the very first glance.'
 	     ];
 
 	     $processHeadings = [
@@ -335,7 +322,7 @@ class Subservices extends Controller
 	        'Our creative designers provide you with extremely classy marketing collateral that impresses the customer'
 	    ];	
     	    $headings = [
-	        'Marketing Collateral','Marketing Collateral is an important part of the overall existence of a business. From startups that are on the verge of taking their first step to established organizations, the marketing collateral of the company sets things apart. The perfect marketing collateral allows your company to create an immediate positive impact on your customer. Reach us today to discuss your project one on one with our marketing experts and design masterminds.'
+	        'Marketing Collateral','Marketing Collateral is an important part of the overall existence of a business. From start-ups that are on the verge of taking their first step to established organizations, the marketing collateral of the company sets things apart. The perfect marketing collateral allows your company to create an immediate positive impact on your customer. Reach us today to discuss your project one on one with our marketing experts and design masterminds.'
 	        ];    
 	    $list = [
 
@@ -349,7 +336,7 @@ class Subservices extends Controller
 	    
 	    $process = [
 	     	'We believe the marketing collateral carries the essence of the company which is solely why we discuss the brief of the document with the client.',
-	     	'The design concept is the most important part of the process as however the unique the design gets, the better its results start displaying on ROI.',
+	     	'The design concept is the most important part of the process as however unique the design gets, the better its results start displaying on ROI.',
 	     	'Gorgeously crafted designs are what help us stand apart from our indefinite competition. We believe in results that matter and it has always been that way.'
 	     ];
 
@@ -441,7 +428,7 @@ class Subservices extends Controller
 	    ];
 
 	    $process = [
-	     	'We initially plan out everything that there is for your website that needs to be managed. Our experts analyze everything you need help with on the web.',
+	     	'We initially plan out everything that there is for your website that needs to be managed. Our experts analyse everything you need help with on the web.',
 	     	'Our website management professionals provide you with the best breakdown of uptime and downtime during management hours to assist your business.',
 	     	'Our reporting methods are made for companies that aim for immediate success. Our management officers keep you in the loop of everything that we do.'
 	     ];
@@ -476,7 +463,7 @@ class Subservices extends Controller
 	        'We help you get known over the world wide web with the help of top class domain registration'
 	    ];	
     	    $headings = [
-	        'Domain Registration','No matter how great your web existence is over the world wide web, if your domain name doesn’t compliment your business enough. A great domain name is easily the biggest investment that you can make to your business and we, at design proficient can help you with that. Register the best domain names in the industry easily in just a few clicks. Reach us today and discover the best domain names that you can possibly get.'
+	        'Domain Registration','No matter how great your web existence is over the World Wide Web, if your domain name doesn’t compliment your business enough. A great domain name is easily the biggest investment that you can make to your business and we, at Logo Cottage can help you with that. Register the best domain names in the industry easily in just a few clicks. Reach us today and discover the best domain names that you can possibly get.'
 	        ];    
 	    $list = [
 			'Country based domain names',
@@ -540,7 +527,7 @@ class Subservices extends Controller
 	    $process = [
 	     	'Copywriting is an art that can’t be properly implemented if research isn’t involved. Our team of copywriting professionals make sure enough marketing research is part of the plan.',
 	     	'Our content creation experts don’t rest until the perfect copy makes it to your desk. We make sure the copy written is perfectly placed to create results that are fairly spectacular.',
-	     	'After our content curation experts are done with the copy, we focus on delivering nothing but the best laid out copies that you need for your business’s online or offline existence.'
+	     	'After our content cu ration experts are done with the copy, we focus on delivering nothing but the best laid out copies that you need for your business’s online or offline existence.'
 	     ];
 
 	     $processIcon = [
@@ -584,9 +571,9 @@ class Subservices extends Controller
 	    ];
 	    
 	    $process = [
-	     	'We first sketch out the rough 2D and or 3D illustration that the client needs. This is perhaps one of the many reasons why keep the client in loop of everything as well.',
+	     	'We first sketch out the rough 2D and/or 3D illustration that the client needs. This is perhaps one of the many reasons why we keep the client in the loop of everything as well.',
 	     	'After the final sketches are approved, we provide the customers with the final illustrations. In case of any revisions, we keep the client in touch to make sure the changes are made properly.',
-	     	'After the final file is approved by the client, deliver the final file and provide them with excellent results that leave an excellent impression.'
+	     	'After the final file is approved by the client, we deliver the final file and provide them with excellent results that leave an excellent impression.'
 	     ];
 
 	     $processIcon = [

@@ -4,7 +4,9 @@
 			<div class="col-md-12">
 				
 		        <h3 class="text-center wow fadeInDown" data-wow-delay="0.2s">Numbers That Move Mountains</h3>
-		        <p class="text-center wow fadeInDown" data-wow-delay="0.4s">When we say we aim for the best, we definitely mean we set it as our goal to make a change and move mountains <br> with the projects we do. Reach us today with your project goals and join hands to design excellence.
+		        <p class="text-center wow fadeInDown" data-wow-delay="0.4s">When we say we aim for the best, we definitely mean we set it as our goal to make a change and move mountains 
+with the projects we do. <br>Reach us today with your project goals and join hands to design excellence.
+
 </p>
 			</div>
 		</div>

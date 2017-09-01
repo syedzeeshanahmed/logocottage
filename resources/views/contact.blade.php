@@ -72,16 +72,16 @@ header #header-sroll .nav-toggle span, header #header-sroll .nav-toggle span:bef
           <h4 class="text-left">Get in touch.</h4>
           <p>Say hello! Or maybe just grab a coffee with one of our business analysts so we can get to know you and your project better.</p>
           <div class="actions"> <a href="#"> <i class="fa fa-phone-square"></i>+1-866-976-8874</a> <br>
-            <a href="mailto:share@designproficient.com"> <i class="fa fa-envelope"></i>share@designproficient.com</a> </div>
+            <a href="mailto:share@logocottage.uk"> <i class="fa fa-envelope"></i>share@logocottage.uk</a> </div>
         </div>
         <div class="col-lg-offset-4 col-md-offset-4 col-sm-offset-4  col-lg-4 col-md-4 col-sm-4 col-xs-12">
           <h4 class="text-left">Additional Inquiries.</h4>
           <div class="actions">
             <p>Got a question? You can find your answer either on the homepage or you can send us an email at: </p>
-            <a href="mailto:idea@designproficient.com"> <i class="fa fa-envelope"></i>idea@designproficient.com</a> </div>
+            <a href="mailto:idea@logocottage.uk"> <i class="fa fa-envelope"></i>idea@logocottage.uk</a> </div>
           <div class="actions">
             <p>For placement enquiries contact us at:</p>
-            <a href="mailto:query@designproficient.com"> <i class="fa fa-envelope"></i>query@designproficient.com</a> </div>
+            <a href="mailto:query@logocottage.uk"> <i class="fa fa-envelope"></i>query@logocottage.uk</a> </div>
         </div>
       </div>
     </div>
@@ -99,7 +99,7 @@ header #header-sroll .nav-toggle span, header #header-sroll .nav-toggle span:bef
               <h3 class="text-left">Head Office</h3>
               <p class="text-left">Mid-Market, 1390 Market Street, Suite 200, San Francisco, 94102, USA</p>
               <div class="actions"> <a href="#"> <i class="fa fa-phone-square"></i>+1-866-976-8874</a> 
-              <a href="mailto:us@designproficient.com"> <i class="fa fa-envelope"></i>us@designproficient.com</a> <a href="mailto:us@designproficient.com" class="btn-fill">Send Query</a> </div>
+              <a href="mailto:us@logocottage.uk"> <i class="fa fa-envelope"></i>us@logocottage.uk</a> <a href="mailto:us@logocottage.uk" class="btn-fill">Send Query</a> </div>
             </div>
           </div>
         </div>
@@ -116,7 +116,7 @@ header #header-sroll .nav-toggle span, header #header-sroll .nav-toggle span:bef
               <h3 class="text-left">Executive Office</h3>
               <p class="text-left">Liberty House, Liberty House, 222 Regent Street, London, W1B 5TR, UK</p>
               <div class="actions"> <a href="#"> <i class="fa fa-phone-square"></i>+44-800-0418105</a> 
-              <a href="mailto:uk@designproficient.com"> <i class="fa fa-envelope"></i>uk@designproficient.com</a> <a href="mailto:uk@designproficient.com" class="btn-fill">Send Query</a> </div>
+              <a href="mailto:uk@logocottage.uk"> <i class="fa fa-envelope"></i>uk@logocottage.uk</a> <a href="mailto:uk@logocottage.uk" class="btn-fill">Send Query</a> </div>
             </div>
           </div>
         </div>
@@ -131,7 +131,7 @@ header #header-sroll .nav-toggle span, header #header-sroll .nav-toggle span:bef
               <h4 class="text-left">United Arab Emirates</h4>
               <h3 class="text-left">Executive Office</h3>
               <p class="text-left">The Bridge Building, Levels 2, 3, 4 & 5, Dubai Sports City, Dubai, UAE</p>
-              <div class="actions"> <a href="#"> <i class="fa fa-phone-square"></i>+1-866-976-8874</a> <a href="#"> <i class="fa fa-envelope"></i>uae@designproficient.com</a> <a href="mailto:uae@designproficient.com" class="btn-fill">Send Query</a> </div>
+              <div class="actions"> <a href="#"> <i class="fa fa-phone-square"></i>+1-866-976-8874</a> <a href="#"> <i class="fa fa-envelope"></i>uae@logocottage.uk</a> <a href="mailto:uae@logocottage.uk" class="btn-fill">Send Query</a> </div>
             </div>
           </div>
         </div>

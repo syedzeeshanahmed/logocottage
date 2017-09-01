@@ -6,7 +6,10 @@
                     
 		            <h3  class="wow fadeInDown" data-wow-delay="0.2s">We’ve Got a Proven Formula <br>for Success to Guarantee Results for Our Clients</h3>
 
-		            <p class="wow fadeInDown text-center main" data-wow-delay="0.4s">If it isn’t a 100% then it isn’t enough for us. To ensure each project is <br>getting nothing but the best, we make sure we follow a set of rules that<br> keep us on track in terms of results.</p>
+		            <p class="wow fadeInDown text-center main" data-wow-delay="0.4s">If it isn’t a 100% then it isn’t enough for us. To ensure each project is 
+getting nothing but the best, we<br> make sure we follow a set of rules that
+keep us on track in terms of results.
+</p>
 
 		       
 				</div>
@@ -16,7 +19,7 @@
       <div class="col-md-4 col-lg-4 col-sm-4 col-xs-12 text-center cust-slider">
         <div class="process-img"><i class="fa icon-strategy-b"></i></div>
 	                <h4>Strategy</h4>
-	                <p>Our business analysts and design gurus analyze your project and plan out a complete strategy for proper implementation to make sure the results meet the requirements.</p>
+	                <p>Our business analysts and design gurus analyse your project and plan out a complete strategy for proper implementation to make sure the results meet the requirements.</p>
       </div>
       <div class="col-md-4 col-lg-4 col-sm-4 col-xs-12 text-center cust-slider">
         <div class="process-img"><i class="fa icon-design"></i></div>

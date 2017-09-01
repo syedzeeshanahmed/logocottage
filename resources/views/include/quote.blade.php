@@ -7,9 +7,7 @@
 
         
 
-        <p class="text-center grey">If you are interested in speaking with Design Proficient about an upcoming project, there are a number of ways we can make that happen.
-
-        Filling out the form would help us get the right person in touch with you, or you could give us a call.</p>
+        <p class="text-center grey">If you are interested in speaking with Logo Cottage about an upcoming project, there are a number of ways we can make that happen. Filling out the form would help us get the right person in touch with you, or you could give us a call.</p>
         <form method="POST" action="{{ route('quote.save') }}" id="quoteFormBottom" autocomplete="off">
 
           <div class="row">

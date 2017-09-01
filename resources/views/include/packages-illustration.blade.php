@@ -4,7 +4,9 @@
   <div class="row">
     <div class="col-md-12">
       <h3>Crafting Perfect Logo Packages<br> for Corporations Globally</h3>
-      <p class="text-center">At Design Proficient, our main agenda is to provide you with budget friendly<br> solutions along with an exceptional brand identity guaranteed to set you apart from your competition.</p>
+      <p class="text-center">At Logo Cottage, our main agenda is to provide you with budget friendly<br>
+solutions along with an exceptional brand identity guaranteed to set you apart from your competition.
+</p>
     </div>
   </div>
 </div>

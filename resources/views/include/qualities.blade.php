@@ -4,7 +4,9 @@
 			<div class="col-md-12">
 				
 	            <h3  class="wow fadeInDown" data-wow-delay="0.2s">Solutions That Make The World Revolve</h3>
-	              <p class="text-center wow fadeInDown" data-wow-delay="0.4s">Our team of experts focus on client and customer satisfaction as the ultimate goal for our projects. <br>This is one of the many reasons why our work is globally acclaimed and recognized.</p>
+	              <p class="text-center wow fadeInDown" data-wow-delay="0.4s">Our team of experts focus on client and customer satisfaction as the ultimate goal for our projects.<br>
+This is one of the many reasons why our work is globally acclaimed and recognized.
+</p>
 			</div>
 		</div>
         <div class="row margin-bottom-20 margin-top-20 quick-contact-slider wow fadeInDown" data-wow-delay="0.6s">
@@ -49,7 +51,7 @@
                     
                        <div class="quality-img-edit"><i class="fa icon-renowned-recognized-experts"></i></div>
                 <h4>05. Renowned and Recognized Experts</h4>
-                 <p>Our team of experts has made its mark all over the industry and has worked with some of the biggest corporations worldwide.</p>
+                 <p>Our team of experts have made its mark all over the industry and has worked with some of the biggest corporations worldwide.</p>
                 </div>
             </div>
             

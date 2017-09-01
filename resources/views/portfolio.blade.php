@@ -59,7 +59,8 @@ header #header-sroll .nav-toggle span, header #header-sroll .nav-toggle span:bef
   <div class="container">
     <h3 class="wow fadeInDown" data-wow-delay="0.2s">Serving Over 4000 Clients Worldwide</h3>
     <p class="text-center wow fadeInDown" data-wow-delay="0.4s">Design excellence can’t really be achieved without working side <br>
-      by side with extraordinary clients from around the world.</p>
+by side with extraordinary clients from around the world.
+</p>
   </div>
   <div class="clearfix portfolio">
     <div class="row">

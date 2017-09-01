@@ -88,14 +88,20 @@ header #header-sroll .nav-toggle span, header #header-sroll .nav-toggle span:bef
 
               <div class="about-list clearfix">
                 <ul class="wow fadeInDown pull-left">
-<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Strategic Design Approach</li>
-<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Brand Architecture Buildup</li>
-<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Web Identity Development</li>
-<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Experience Sketching Solutions</li>
-<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Interactive Interface Design</li>
-<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Brand Positioning Solutions</li>
-<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Brand Identity Sketching</li>
-<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Engagement and Analytics</li>
+
+<li><i class="fa fa-check-circle-o" aria-hidden="true"></i>Strategic Design Approach</li>
+<li><i class="fa fa-check-circle-o" aria-hidden="true"></i>Brand Architecture Build-up</li>
+<li><i class="fa fa-check-circle-o" aria-hidden="true"></i>Web Identity Development</li>
+<li><i class="fa fa-check-circle-o" aria-hidden="true"></i>Experience Sketching Solutions</li>
+<li><i class="fa fa-check-circle-o" aria-hidden="true"></i>Interactive Interface Design</li>
+<li><i class="fa fa-check-circle-o" aria-hidden="true"></i>Brand Positioning Solutions</li>
+<li><i class="fa fa-check-circle-o" aria-hidden="true"></i>Brand Identity Sketching</li>
+<li><i class="fa fa-check-circle-o" aria-hidden="true"></i>Engagement and Analytics</li>
+
+
+
+
+
                 </ul>
             </div>
         </div>
@@ -112,7 +118,7 @@ header #header-sroll .nav-toggle span, header #header-sroll .nav-toggle span:bef
           <div class="about-client">
             <div class="about-client-inner">
               <h3 class="text-left wow fadeInDown breakdown-before-left" data-wow-delay="0.2s">Clients</h3>
-              <p class="text-left wow fadeInDown" data-wow-delay="0.6s">We’ve partnered with corporations and rising startups all over the world. We’ve worked hand in hand with these companies to provide them with excellent digital and design solutions.</p>
+              <p class="text-left wow fadeInDown" data-wow-delay="0.6s">We’ve partnered with corporations and rising start-ups all over the world. We’ve worked hand in hand with these companies to provide them with excellent digital and design solutions.</p>
               
             </div>
           </div>
@@ -200,7 +206,7 @@ header #header-sroll .nav-toggle span, header #header-sroll .nav-toggle span:bef
               <img src="{{asset('img/clients/clients07.png')}}">
               </div>
                <h4 class="wow fadeInDown">Telecommunication</h4>
-                 <p class="wow fadeInDown">Assisting telcom in connecting with one another</p>
+                 <p class="wow fadeInDown">Assisting telecom in connecting with one another</p>
                 </div>
               
             </div>

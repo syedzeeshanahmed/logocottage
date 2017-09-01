@@ -119,9 +119,9 @@
                     <li class="feature-menu"><a href="{{ route('ComboPackages') }}">Combo Packages</a></li>
 
                     <!-- <li class="feature-menu"><a href="{{ route('membershipplans') }}">Membership</a></li> -->
-                    <li class="feature-menu"><a href="{{ route('custom-packages') }}">Custom Package</a></li>
+                    <!-- <li class="feature-menu"><a href="{{ route('custom-packages') }}">Custom Package</a></li> -->
                     <li class="feature-menu"><a href="{{ route('portfolio') }}">Showcase</a></li>
-                    <li class="feature-menu"><a href="https://designproficient.com/blog/">Blog</a></li> 
+                    <!-- <li class="feature-menu"><a href="https://designproficient.com/blog/">Blog</a></li>  -->
                     <li class="feature-menu"><a href="{{ route('contact') }}">Contact</a></li>
                     
                    
@@ -307,7 +307,7 @@
                       <li><a href="{{ route('services') }}">Services</a></li>
                       <li><a href="{{ route('portfolio') }}">Showcase</a></li>
                       <li><a href="{{ route('contact') }}">Contact</a></li>
-                     <li><a href="https://designproficient.com/blog/">Blog</a></li> 
+                     <!-- <li><a href="https://designproficient.com/blog/">Blog</a></li>  -->
                     </ul>
                 </div>
                </div>

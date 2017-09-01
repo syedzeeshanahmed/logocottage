@@ -78,8 +78,9 @@
    <div class="container">
      
       <h3 class="text-center wow fadeInDown" data-wow-delay="0.2s">Compelling Design for Global Corporations</h3>
-      <p class="text-center wow fadeInDown" data-wow-delay="0.4s">Brands are a subject of construction and re-construction and that’s what we do best.<br>
+      <p class="text-center wow fadeInDown" data-wow-delay="0.4s">Brands are a subject of construction and re-construction and that’s what we do best. <br>
 Our design maestros’ are constantly working on unique perceptions to create compelling stories.
+
 </p>
    </div>
    <div class="container-wrap">
@@ -122,7 +123,7 @@ Our design maestros’ are constantly working on unique perceptions to create co
       <div class="row">
          <div class="col-lg-8 col-md-6 col-sm-6 col-xs-12 sec-combo">
             <h3 class="wow fadeInDown" data-wow-delay="0.2s">The Perfect Start <br>to Complete Branding <br>Solutions</h3>
-            <p class="margin-bottom-40 wow fadeInDown" data-wow-delay="0.4s">For brands seeking revamps or brand development from scratch, <br>the startup combo is the perfect match. Our team of brand <br>analysts made sure that the startup combo package perfectly<br>caters to all your needs.</p>
+            <p class="margin-bottom-40 wow fadeInDown" data-wow-delay="0.4s">For brands seeking revamps or brand development from scratch, <br>the start-up combo is the perfect match. Our team of brand analysts made sure<br> that the start-up combo package perfectly caters to all your needs.</p>
             <div class="actions text-center margin-top-20 wow fadeInDown" data-wow-delay="0.6s"><a onclick="$zopim.livechat.window.toggle()" style="cursor: pointer;" class="btn-fill-white pull-left">Let's Get Started</a></div>
          </div>
          <div class="col-lg-4 col-md-6 col-sm-6 sec-combo-two wow fadeInDown" data-wow-delay="0.2s">
@@ -179,7 +180,9 @@ Our design maestros’ are constantly working on unique perceptions to create co
 <div class="section-padding portfolio_fold">
    <div class="container wow">
       <h3 class="wow fadeInDown" data-wow-delay="0.2s">Serving Over 4000 Clients Worldwide</h3>
-      <p class="text-center wow fadeInDown" data-wow-delay="0.4s">Design excellence can’t really be achieved without working side <br>by side with extraordinary clients from around the world.</p>
+      <p class="text-center wow fadeInDown" data-wow-delay="0.4s">Design excellence can’t really be achieved without working side <br>
+by side with extraordinary clients from around the world.
+</p>
    </div>
    <div class="clearfix portfolio wow">
       <div class="row">
@@ -902,7 +905,11 @@ Our design maestros’ are constantly working on unique perceptions to create co
       </div>
    </div>
 </div>
-@include('include.subscribe_fold') @include('include.count') 
+
+
+@include('include.subscribe_fold') 
+
+@include('include.count') 
 
 
 <div class="add_border"> @include('include.progress') </div>

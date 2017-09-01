@@ -3,7 +3,10 @@
 		<div class="row">
 			<div class="col-md-12">
 			    <h3  class="wow fadeInDown" data-wow-delay="0.4s">Our Valued Clients <br>Are Our Greatest Asset</h3>
-	              <p class="text-center wow fadeInDown" data-wow-delay="0.6s">Our performances are directly proportional to the satisfaction of our clients <br>which is why we focus on going new lengths to make sure we engrave our name in gold. <br>Here are some of the awards that we are recognized worldwide for.</p>
+	              <p class="text-center wow fadeInDown" data-wow-delay="0.6s">Our performances are directly proportional to the satisfaction of our clients  <br>
+which is why we focus on going new lengths to make sure we engrave our name in gold. <br>
+Here are some of the awards that we are recognized worldwide for.
+</p>
 			</div>
 		</div>
         <div class="row wow fadeInDown" data-wow-delay="0.6s">

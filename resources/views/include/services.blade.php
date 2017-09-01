@@ -6,7 +6,8 @@
       </div>
       <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12"> </div>
       <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-        <p>At Design Proficient, we’re a team of interdisciplinary skilled professionals that loves to produce results that drive business for companies of all shapes and sizes. Established in 2007, we started from the bottom with our focus set on outcomes derived from hard work and creativity.</p>
+        <p>At Logo Cottage, we’re a team of interdisciplinary skilled professionals that loves to produce results that drive business for companies of all shapes and sizes. Established in 2007, we started from the bottom with our focus set on outcomes derived from hard work and creativity.
+</p>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
         <p>Over the past decade, we’ve created extraordinary results for clients by working hard to build even better experiences. We’re a group outcast professionals that loves to think differently to create a user-centric design and digital strategies that achieve objectives and outcomes for the better.</p>
@@ -32,7 +33,7 @@
         <div class="row set-height">
           <div class="col-md-12 col-xs-12">
             <h3>Logo Design Solutions</h3>
-            <p>Making a great impression on the first glance is a sign of excellent customer communication. This is why we make sure you make the perfect first impact with top notch logo design solutions by Design Proficient.</p>
+            <p>Making a great impression on the first glance is a sign of excellent customer communication. Looking for logo designers to design logo online? Well, look no further. </p>
             <a href="{{ route('service.logodesign') }}">LEARN MORE <i class="fa fa-arrow-right"></i> </a> </div>
         </div>
 
@@ -44,7 +45,7 @@
           <div class="row set-height">
             <div class="col-md-12 col-xs-12">
               <h3>Motion Graphics</h3>
-              <p>Our animation experts help you tell your story through moving pictures and videos. We help you entertain the attention span of your customer and convert better for an excellent ROI.</p>
+              <p>Have you ever caught yourself paying more attention on a video documentary over a text thesis? Well, obviously you have. The attention span of a normal human being is less than a goldfish.</p>
               <a href="{{ route('service.motiongraphics') }}">LEARN MORE <i class="fa fa-arrow-right"></i> </a> </div>
           </div>
         </div>
@@ -62,7 +63,7 @@
           <div class="row set-height">
           <div class="col-md-12 col-xs-12">
             <h3>Brand Development</h3>
-            <p>Our brand identity development team loves to create waves with memorable brand marks. Our design architects aim to create logos that are timeless and grow with your corporation itself.</p>
+            <p>Our team of brand development professionals, analysts and design enthusiasts love to tell your brand’s story with the help of impressive brand identity development solutions.</p>
             <a href="{{ route('service.brand') }}">LEARN MORE <i class="fa fa-arrow-right"></i> </a> </div>
         </div>
 
@@ -78,7 +79,7 @@
           <div class="row set-height">
             <div class="col-md-12 col-xs-12">
               <h3>Creative Copywriting</h3>
-              <p>Our team of professionals know just how to captivate the customer with the help of creative and catchy written content. Our creative copywriters help you hook your targeted customers with ease.</p>
+              <p>Making compelling copies that convert viewers into customers is what our creative copywriters do best. Great content indulges users but a great copy converts users into customers.</p>
               <a href="{{ route('service.copywriting') }}">LEARN MORE <i class="fa fa-arrow-right"></i> </a> </div>
           </div>
         </div>
@@ -89,7 +90,7 @@
           <div class="row set-height">
             <div class="col-md-12 col-xs-12">
               <h3>Marketing Collateral</h3>
-              <p>From an attractive brochure to an impressive company profile, our brand development team with its expertise provides you with unique marketing collateral for your business.</p>
+              <p>Marketing Collateral is an important part of the overall existence of a business. From start-ups that are on the verge of taking their first step to established organizations, the marketing collateral of the company sets things apart. </p>
               <a href="{{ route('service.collateral') }}">LEARN MORE <i class="fa fa-arrow-right"></i> </a> </div>
           </div>
         </div>
@@ -98,7 +99,7 @@
           <div class="row set-height">
             <div class="col-md-12 col-xs-12">
               <h3>Digital Marketing</h3>
-              <p>What good is a beautiful and strong online existence if your targeted audience doesn’t know about it? Our digital marketing professionals help you reach your targeted followers from around the world.</p>
+              <p>Having an online existence for any brand is extremely essential. However, no matter how big the corporation is and no matter how great its web presence is, if it can’t connect to its customers worldwide then it’s facing an issue. </p>
               <a href="{{ route('service.marketing') }}">LEARN MORE <i class="fa fa-arrow-right"></i> </a> </div>
           </div>
         </div>
@@ -107,7 +108,7 @@
           <div class="row set-height">
             <div class="col-md-12 col-xs-12">
               <h3>Web Design and Development</h3>
-              <p>With our web design and development solutions we help you strengthen your existence online. Our creative masterminds love to sketch out beautiful user interfaces and unique functionalities.</p>
+              <p>Web aesthetics are perhaps one of the most important things that we focus on at our website design company when creating a brand that aims to conquer the market.</p>
               <a href="{{ route('service.web') }}">LEARN MORE <i class="fa fa-arrow-right"></i> </a> </div>
           </div>
         </div>
@@ -119,7 +120,7 @@
           <div class="row set-height">
             <div class="col-md-12 col-xs-12">
               <h3>Back-End Development</h3>
-              <p>Our team of backend development professionals assists you in managing valuable data easily with precisely constructed management systems, regardless of the size and shape of your business.</p>
+              <p>Gone are the days when money was the most important asset to any organization. Today, the most important asset of any business is the data that it has gathered. </p>
               <a href="{{ route('service.backend') }}">LEARN MORE <i class="fa fa-arrow-right"></i> </a> </div>
           </div>
         </div>
@@ -134,7 +135,7 @@
           <div class="row set-height">
           <div class="col-md-12 col-xs-12">
             <h3>App Design and Development</h3>
-            <p>Assisting corporations from every region globally with application design and development solutions. We aim to give unique ideas the shape that they deserve with top notch application design and development solutions being provided globally to entrepreneurs.</p>
+            <p>Assisting corporations from every region globally with application design and development solutions. We aim to give unique ideas the shape that they deserve with top notch...</p>
             <a href="{{ route('service.app') }}">LEARN MORE <i class="fa fa-arrow-right"></i> </a> </div>
         </div>
 
@@ -148,7 +149,7 @@
           <div class="row set-height">
             <div class="col-md-12 col-xs-12">
               <h3>Website Management</h3>
-              <p>Having a strong web existence is very important but so is maintaining and managing that web existence. Our website management solutions allow our clients to breath with ease as we handle all operations.</p>
+              <p>For each corporation connected to its revenue via the World Wide Web, online existence is very important. But hey, what’s the one thing more important? It’s proper management of that very existence. </p>
               <a href="{{ route('service.management') }}">LEARN MORE <i class="fa fa-arrow-right"></i> </a> </div>
           </div>
         </div>
@@ -161,7 +162,7 @@
           <div class="row set-height">
             <div class="col-md-12 col-xs-12">
               <h3>2D & 3D Illustration</h3>
-              <p>We create excellent 2D & 3D illustrations for companies looking to transform into brands with the help of compelling 2D/3D design work. Be the first to discuss your project with us today.</p>
+              <p>Our team of creative professionals specializes in 2D & 3D Illustration for companies that are born to stand out in competition against hundreds and thousands of businesses in the industry.</p>
               <a href="{{ route('service.illustration') }}">LEARN MORE <i class="fa fa-arrow-right"></i> </a> </div>
           </div>
         </div>
@@ -173,7 +174,7 @@
           <div class="row set-height">
             <div class="col-md-12 col-xs-12">
               <h3>Domain Registration</h3>
-              <p>What good is a beautiful website if it doesn’t make an impact on your customers? Exactly! Our domain registration service allows you to register a domain name of your choice for the perfect first impression.</p>
+              <p>No matter how great your web existence is over the World Wide Web, if your domain name doesn’t compliment your business enough. A great domain name is easily the biggest investment that you...</p>
               <a href="{{ route('service.domain') }}">LEARN MORE <i class="fa fa-arrow-right"></i> </a> </div>
           </div>
         </div>

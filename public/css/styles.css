@@ -1673,7 +1673,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#145db1', end
 	border-style: none;
 	font-family: 'Roboto', sans-serif;
 	font-weight: bold;
-	width: 630px;
+	width: 600px;
 }
 .tp-caption.medium_bg_asbestos {
 	font-size: 20px;
@@ -1699,7 +1699,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#145db1', end
 	border-style: none;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 500;
-	width: 680px;
+	width: 600px;
 }
 .tp-caption.large_bold_black {
 	font-size: 58px;
@@ -9534,7 +9534,7 @@ div.sec-combo-two div.single span.price {
 }
 .mult-contact-form .fa{
     text-align: left;
-    color: #74276f;
+    color: #145db1;
     font-size: 55px;
 }
 .mult-contact-form span a{
@@ -10907,7 +10907,6 @@ footer .panel-heading h3 {
     padding: 14px;
     text-decoration: none;
     text-align: left;
-    font-weight: normal;
     font-size: 15px;
     color: #636b6f;
     display: block;
