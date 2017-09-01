@@ -9603,7 +9603,18 @@ span.icon-SyaEi1ACV0, span.icon-J4mGRRK4yD, span.icon-th0oWHEu0{font-size: 40px;
 }
 
 
-
+/*   New icomoon Start   */
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon-2.eot?elv7st');
+  src:  url('../fonts/icomoon-2.eot?elv7st#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon-2.ttf?elv7st') format('truetype'),
+    url('../fonts/icomoon-2.woff?elv7st') format('woff'),
+    url('../fonts/icomoon-2.svg?elv7st#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/*   New icomoon End  */
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
@@ -9619,24 +9630,252 @@ span.icon-SyaEi1ACV0, span.icon-J4mGRRK4yD, span.icon-th0oWHEu0{font-size: 40px;
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-phone-call:before {
-  content: "\e903";
+/*  New Icomoon Start  */
+
+.icon-appdesign-deliver:before {
+  content: "\e906";
 }
-.icon-mail:before {
-  content: "\e904";
+.icon-appdesign-develop:before {
+  content: "\e907";
 }
-.icon-placeholder:before {
-  content: "\e905";
+.icon-appdesign-idea:before {
+  content: "\e908";
 }
-.icon-chat:before {
-    content: "\e902";
+.icon-backend-analysis:before {
+  content: "\e909";
 }
-.icon-packages:before {
+.icon-backend-develop:before {
+  content: "\e90a";
+}
+.icon-backend-testing:before {
+  content: "\e90b";
+}
+.icon-barnd-development-discovery:before {
+  content: "\e90c";
+}
+.icon-barnd-development-measurement:before {
+  content: "\e90d";
+}
+.icon-barnd-development-targeting:before {
+  content: "\e90e";
+}
+.icon-client-coordination:before {
+  content: "\e90f";
+}
+.icon-contect-a:before {
+  content: "\e910";
+}
+.icon-contect-b:before {
+  content: "\e911";
+}
+.icon-creative-copywriting-copy:before {
+  content: "\e912";
+}
+.icon-creative-copywriting-delivery:before {
+  content: "\e913";
+}
+.icon-creative-copywriting-research:before {
+  content: "\e914";
+}
+.icon-delivery-2d-3d:before {
+  content: "\e915";
+}
+.icon-design:before {
+  content: "\e916";
+}
+.icon-digital-marketing-discover:before {
+  content: "\e917";
+}
+.icon-digital-marketing-measur:before {
+  content: "\e918";
+}
+.icon-digital-marketing-plan:before {
+  content: "\e919";
+}
+.icon-domain-book:before {
+  content: "\e91a";
+}
+.icon-domain-brief:before {
+  content: "\e91b";
+}
+.icon-domain-transfer:before {
+  content: "\e91c";
+}
+.icon-email:before {
+  content: "\e91d";
+}
+.icon-global-clientele-map:before {
+  content: "\e91e";
+}
+.icon-goal-oriented-projects:before {
+  content: "\e91f";
+}
+.icon-illustrat-2d-3d:before {
+  content: "\e920";
+}
+.icon-live-chat-now:before {
+  content: "\e921";
+}
+.icon-logo-packages-conceptualization:before {
+  content: "\e922";
+}
+.icon-logo-packages-delivery:before {
+  content: "\e923";
+}
+.icon-logo-packages-design:before {
+  content: "\e924";
+}
+.icon-marketing-collateral-brief:before {
+  content: "\e925";
+}
+.icon-marketing-collateral-concept:before {
+  content: "\e926";
+}
+.icon-marketing-collateral-results:before {
+  content: "\e927";
+}
+.icon-motion-graphics-brief .path1:before {
+  content: "\e928";
+  color: rgb(0, 0, 0);
+}
+.icon-motion-graphics-brief .path2:before {
+  content: "\e929";
+  margin-left: -0.806640625em;
+  color: rgb(255, 255, 255);
+}
+.icon-motion-graphics-brief .path3:before {
+  content: "\e92a";
+  margin-left: -0.806640625em;
+  color: rgb(0, 0, 0);
+}
+.icon-motion-graphics-brief .path4:before {
+  content: "\e92b";
+  margin-left: -0.806640625em;
+  color: rgb(0, 0, 0);
+}
+.icon-motion-graphics-brief .path5:before {
+  content: "\e92c";
+  margin-left: -0.806640625em;
+  color: rgb(0, 0, 0);
+}
+.icon-motion-graphics-brief .path6:before {
+  content: "\e92d";
+  margin-left: -0.806640625em;
+  color: rgb(0, 0, 0);
+}
+.icon-motion-graphics-brief .path7:before {
+  content: "\e92e";
+  margin-left: -0.806640625em;
+  color: rgb(0, 0, 0);
+}
+.icon-motion-graphics-brief .path8:before {
+  content: "\e92f";
+  margin-left: -0.806640625em;
+  color: rgb(0, 0, 0);
+}
+.icon-motion-graphics-motion:before {
+  content: "\e930";
+}
+.icon-motion-graphics-story:before {
+  content: "\e931";
+}
+.icon-ownership-rights:before {
+  content: "\e932";
+}
+.icon-ownership-rights-b:before {
+  content: "\e933";
+}
+.icon-phone:before {
+  content: "\e934";
+}
+.icon-renowned-recognized-experts:before {
+  content: "\e935";
+}
+.icon-results:before {
+  content: "\e936";
+}
+.icon-results-b:before {
+  content: "\e937";
+}
+.icon-secure-money-back-guarantee:before {
+  content: "\e938";
+}
+.icon-shear-your-idea:before {
+  content: "\e939";
+}
+.icon-sketch-2d-3d:before {
+  content: "\e93a";
+}
+.icon-strategy:before {
+  content: "\e93b";
+}
+.icon-strategy-b:before {
+  content: "\e93c";
+}
+.icon-web-design-design:before {
+  content: "\e93d";
+}
+.icon-web-design-development:before {
+  content: "\e93e";
+}
+.icon-web-design-quality-assurance:before {
+  content: "\e93f";
+}
+.icon-website-plan:before {
+  content: "\e940";
+}
+.icon-website-reports:before {
+  content: "\e941";
+}
+.icon-website-schedule:before {
+  content: "\e942";
+}
+.icon-ios-offering-01:before {
+  content: "\e900";
+}
+.icon-ios-offering-02:before {
   content: "\e901";
 }
-.icon-support:before {
-    content: "\e900";
+.icon-ios-offering-03:before {
+  content: "\e902";
 }
+.icon-ios-process-analysis:before {
+  content: "\e903";
+}
+.icon-ios-process-deployment:before {
+  content: "\e904";
+}
+.icon-ios-process-design:before {
+  content: "\e905";
+}
+
+.quality .fa{color: #244d9a;font-size: 60px;}
+
+.single .n-pakage-call {
+	color: #fff;
+    font-size: 28px;
+    position: relative;
+    top: 10px;
+}
+
+.single .n-idea {color: #fff;font-size: 24px;position: relative;top: 12px;}
+
+.process-img .fa{color: #244d9a;font-size: 70px;}
+.icon-chat .n-l-call {color: #aeaeae;font-size: 24px;position: relative; top: 12px;}
+
+.icon-support .n-idea {color: #aeaeae;font-size: 24px;position: relative; top: 12px;}
+
+.icon-support .n-idea:hover,.icon-chat .n-l-call:hover {color: #145db1;}
+
+.fotr {font-size: 30px !important;}
+
+/*  New Icomoon End  */
+
+
+
+
+
+
 
 
 .bottom-space{

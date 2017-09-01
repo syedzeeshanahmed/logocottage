@@ -14,17 +14,17 @@
 
 			<div class="row methodolgy-slider slider main-cust-slider wow fadeInDown" data-wow-delay="0.6s">
       <div class="col-md-4 col-lg-4 col-sm-4 col-xs-12 text-center cust-slider">
-        <div class="process-img"><img src="{{ asset('img/strategy.png')  }}" alt="100% icon" ></div>
+        <div class="process-img"><i class="fa icon-strategy-b"></i></div>
 	                <h4>Strategy</h4>
 	                <p>Our business analysts and design gurus analyze your project and plan out a complete strategy for proper implementation to make sure the results meet the requirements.</p>
       </div>
       <div class="col-md-4 col-lg-4 col-sm-4 col-xs-12 text-center cust-slider">
-        <div class="process-img"><img src="{{ asset('img/app-design.png')  }}" alt="100% icon" ></div>
+        <div class="process-img"><i class="fa icon-design"></i></div>
 	                <h4>Design</h4>
 	                <p>After the proper strategy is laid out for implementation, our design experts start illustrating concepts to create a creative masterpiece for maximum client satisfaction.</p>
       </div>
       <div class="col-md-4 col-lg-4 col-sm-4 col-xs-12 text-center cust-slider">
-        <div class="process-img"><img src="{{ asset('img/result.png')  }}" alt="100% icon" ></div>
+        <div class="process-img"><i class="fa icon-results"></i></div>
 	                <h4>Results</h4>
 	                <p>We don’t rest till you get the absolute best from your design. This is mainly why we keep a close eye on how your design is providing you the results that you need.</p>
       </div>
