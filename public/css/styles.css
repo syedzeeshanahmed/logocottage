@@ -3908,7 +3908,7 @@ ul#navigation li a {
 	text-transform: uppercase;
     font-size: 12px;
    font-family: 'Roboto', sans-serif;
-   font-weight: 900;
+   font-weight: 500;
     z-index: 1000000000;
     position: relative;
 }
@@ -7550,7 +7550,7 @@ background-color: #10519c;
 	-o-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 }
-p{ font-size: 16px; color: #4f4f4f; line-height: 24px; font-weight: 500; font-family: 'Roboto', sans-serif; }
+p{ font-size: 16px; color: #4f4f4f; line-height: 24px; font-weight: 400; font-family: 'Roboto', sans-serif; }
 
 .field-mergedright{ padding-right: 10px; }
 
@@ -8645,7 +8645,6 @@ padding: 10px 0px;
 #header-sroll.small .nav-toggle.active span, #header-sroll.small .nav-toggle.active span:before, #header-sroll.small .nav-toggle.active span:after{ background-color: #fff; }
 
 
-#header-sroll:hover .nav-toggle span, #header-sroll:hover .nav-toggle span:before, #header-sroll:hover .nav-toggle span:after{ background-color: #000; }
 
 #header-sroll.small:hover .nav-toggle span, #header-sroll.small:hover .nav-toggle span:before, #header-sroll.small:hover .nav-toggle span:after{ background-color: #000; }
 
@@ -10054,7 +10053,7 @@ input#quoteSubmit {
     font-size: 14px;
     color: #4f4f4f;
     line-height: 22px;
-    font-weight: 500;
+    font-weight: 400;
 	
 }
 .clients-answer h4.text-left {

@@ -30,7 +30,7 @@
          <div class="d_c">
             <h4 class=" wow fadeInDown" data-wow-delay="0.2s">We Build Brands</h4>
             <h3 class=" wow fadeInDown" data-wow-delay="0.4s">Crafting Brands with Design Discipline</h3>
-            <p class=" wow fadeInDown" data-wow-delay="0.6s">We’re a design company based in the UK that loves to create useful and design-friendly experience over the web and mobile platforms.</p>
+            <p class=" wow fadeInDown" data-wow-delay="0.6s">We’re a design company based in the UK that loves to create useful and design-friendly<br> experience over the web and mobile platforms.</p>
             <div class="actions wow fadeInDown" data-wow-delay="0.8s"> <a onclick="$zopim.livechat.window.toggle()" style="cursor: pointer;" class="btn-fill"> Let's Get Started </a></div>
          </div>
       </div>

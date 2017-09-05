@@ -164,13 +164,15 @@
                       <p>
                       <div style="display: none;"> <a href="#">English</a> <a href="#" class="active-lang">Arabic</a> </div>
                       <span class="copyright">© 2017 Logo Cottage | All rights reserved.</span> <span class="pull-right"> 
-                      <a target="_blank" href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a> 
-                      <a target="_blank" href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a> 
-                      <a target="_blank" href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a> 
-                      <a target="_blank" href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a> 
-                      <a target="_blank" href="#"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a> 
-                      <a target="_blank" href="#"><i class="fa fa-vimeo" aria-hidden="true"></i></a> 
-                      <a target="_blank" href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a> </span>
+                      
+                      <a target="_blank" href="https://twitter.com/logocottage"><i class="fa fa-twitter" aria-hidden="true"></i></a> 
+                      <a target="_blank" href="https://linkedin.com/company/logocottage"><i class="fa fa-linkedin" aria-hidden="true"></i></a> 
+                      <a target="_blank" href="https://www.instagram.com/logocottage/"><i class="fa fa-instagram" aria-hidden="true"></i></a> 
+                      <a target="_blank" href="https://www.pinterest.com/logocottage/"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a> 
+                      <a target="_blank" href="https://vimeo.com/logocottage"><i class="fa fa-vimeo" aria-hidden="true"></i></a> 
+                      <a target="_blank" href="https://dribbble.com/logocottage"><i class="fa fa-dribbble" aria-hidden="true"></i></a>
+
+                      </span>
                       </p>
                     </div>
                     <div class="col-md-8" style="display: none;">
@@ -347,13 +349,12 @@
         </ul>
         
         <ul class="footer-group">
-        <li><a target="_blank" href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-        <li><a target="_blank" href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-        <li><a target="_blank" href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-        <li><a target="_blank" href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-        <li><a target="_blank" href="#"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li>
-        <li><a target="_blank" href="#"><i class="fa fa-vimeo" aria-hidden="true"></i></a></li>
-        <li><a target="_blank" href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a> </li>
+<li><a target="_blank" href="https://twitter.com/logocottage"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+<li><a target="_blank" href="https://linkedin.com/company/logocottage"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+<li><a target="_blank" href="https://www.instagram.com/logocottage/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+<li><a target="_blank" href="https://www.pinterest.com/logocottage/"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li>
+<li><a target="_blank" href="https://vimeo.com/logocottage"><i class="fa fa-vimeo" aria-hidden="true"></i></a></li>
+<li><a target="_blank" href="https://dribbble.com/logocottage"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
       </ul>
                 </div>
                </div>
