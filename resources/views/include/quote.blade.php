@@ -137,7 +137,7 @@
             <span>
          
           <small class="phone-number"><a href="mailto:idea@designproficient.com" target="_top">idea@designproficient.com </a></small>
-        <small class="phone-number"><a href="mailto:share@designproficient.com" target="_top">share@designproficient.com </a></small>
+          <small class="phone-number"><a href="mailto:share@designproficient.com" target="_top">share@designproficient.com </a></small>
 
        </span>
         
@@ -176,8 +176,7 @@
 
        <span>
          
-          <small class="phone-number">+1-866-976-8874 - US</small>
-        <small class="phone-number">+44-800-0418105 - UK</small>
+          <small class="phone-number">+44-016-1884-0966</small>
 
        </span>
 

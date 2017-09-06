@@ -71,7 +71,7 @@ header #header-sroll .nav-toggle span, header #header-sroll .nav-toggle span:bef
         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
           <h4 class="text-left">Get in touch.</h4>
           <p>Say hello! Or maybe just grab a coffee with one of our business analysts so we can get to know you and your project better.</p>
-          <div class="actions"> <a href="#"> <i class="fa fa-phone-square"></i>+1-866-976-8874</a> <br>
+          <div class="actions"> <a href="#"> <i class="fa fa-phone-square"></i>+44-016-1884-0966</a> <br>
             <a href="mailto:share@logocottage.uk"> <i class="fa fa-envelope"></i>share@logocottage.uk</a> </div>
         </div>
         <div class="col-lg-offset-4 col-md-offset-4 col-sm-offset-4  col-lg-4 col-md-4 col-sm-4 col-xs-12">
@@ -98,7 +98,7 @@ header #header-sroll .nav-toggle span, header #header-sroll .nav-toggle span:bef
               <h4 class="text-left">United States</h4>
               <h3 class="text-left">Head Office</h3>
               <p class="text-left">Mid-Market, 1390 Market Street, Suite 200, San Francisco, 94102, USA</p>
-              <div class="actions"> <a href="#"> <i class="fa fa-phone-square"></i>+1-866-976-8874</a> 
+              <div class="actions"> <a href="#"> <i class="fa fa-phone-square"></i>+44-016-1884-0966</a> 
               <a href="mailto:us@logocottage.uk"> <i class="fa fa-envelope"></i>us@logocottage.uk</a> <a href="mailto:us@logocottage.uk" class="btn-fill">Send Query</a> </div>
             </div>
           </div>
@@ -131,7 +131,7 @@ header #header-sroll .nav-toggle span, header #header-sroll .nav-toggle span:bef
               <h4 class="text-left">United Arab Emirates</h4>
               <h3 class="text-left">Executive Office</h3>
               <p class="text-left">The Bridge Building, Levels 2, 3, 4 & 5, Dubai Sports City, Dubai, UAE</p>
-              <div class="actions"> <a href="#"> <i class="fa fa-phone-square"></i>+1-866-976-8874</a> <a href="#"> <i class="fa fa-envelope"></i>uae@logocottage.uk</a> <a href="mailto:uae@logocottage.uk" class="btn-fill">Send Query</a> </div>
+              <div class="actions"> <a href="#"> <i class="fa fa-phone-square"></i>+44-016-1884-0966</a> <a href="#"> <i class="fa fa-envelope"></i>uae@logocottage.uk</a> <a href="mailto:uae@logocottage.uk" class="btn-fill">Send Query</a> </div>
             </div>
           </div>
         </div>

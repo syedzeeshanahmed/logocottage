@@ -40,7 +40,7 @@
             <div class="header-content">
               <div class="call-action"> 
               <span style="display: none;" onclick="window.location.href=' {{ route("user.book") }} '" ><small><i class="fa fa-calendar" aria-hidden="true"></i></small>Book a Call</span> 
-              <span><small><i class="fa fa-phone-square" aria-hidden="true"></i></small>+1-866-976-8874</span>
+              <span><small><i class="fa fa-phone-square" aria-hidden="true"></i></small>+44-016-1884-0966</span>
               <span class="login_now" style="display: none;">
                 @if(session('is_logged') != 1 )
                   <a href=" {{route('login')}} "><small><i class="fa fa-unlock-alt" aria-hidden="true"></i></small>Login</a>

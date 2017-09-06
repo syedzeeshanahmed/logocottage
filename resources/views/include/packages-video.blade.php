@@ -39,7 +39,7 @@
               </div>
               <span class="inclusive-black"><a href="{{ route('package.vs') }}">VIEW DETAILS</a> </span>
               <div class="actions row">
-                                <div class="col-md-6 col-xs-6"><a class="action-no gre clearfix"> <span><small>Share your idea?</small>+1-866-976-8874</span></a></div>
+                                <div class="col-md-6 col-xs-6"><a class="action-no gre clearfix"> <span><small>Share your idea?</small>+44-016-1884-0966</span></a></div>
                                 <div class="col-md-6 col-xs-6"><a onclick="$zopim.livechat.window.toggle()" class="action-chat ali clearfix pull-right" tabindex="0"> <span><small>Want to discuss?</small> Live Chat Now</span></a></div>
                             </div>
             </div>
@@ -66,7 +66,7 @@
               </div>
               <span class="inclusive-black"><a href="{{ route('package.vc') }}">VIEW DETAILS</a> </span>
               <div class="actions row">
-                                <div class="col-md-6 col-xs-6"><a class="action-no gre clearfix"> <span><small>Share your idea?</small>+1-866-976-8874</span></a></div>
+                                <div class="col-md-6 col-xs-6"><a class="action-no gre clearfix"> <span><small>Share your idea?</small>+44-016-1884-0966</span></a></div>
                                 <div class="col-md-6 col-xs-6"><a onclick="$zopim.livechat.window.toggle()" class="action-chat ali clearfix pull-right" tabindex="0"> <span><small>Want to discuss?</small> Live Chat Now</span></a></div>
                             </div>
             </div>
@@ -94,7 +94,7 @@
               </div>
               <span class="inclusive-black"><a href="{{ route('package.vp') }}">VIEW DETAILS</a> </span>
               <div class="actions row">
-                                <div class="col-md-6 col-xs-6"><a class="action-no gre clearfix"> <span><small>Share your idea?</small>+1-866-976-8874</span></a></div>
+                                <div class="col-md-6 col-xs-6"><a class="action-no gre clearfix"> <span><small>Share your idea?</small>+44-016-1884-0966</span></a></div>
                                 <div class="col-md-6 col-xs-6"><a onclick="$zopim.livechat.window.toggle()" class="action-chat ali clearfix pull-right" tabindex="0"> <span><small>Want to discuss?</small> Live Chat Now</span></a></div>
                             </div>
             </div>
@@ -124,7 +124,7 @@
 
               
               <div class="actions row">
-                                <div class="col-md-6 col-xs-6"><a class="action-no gre clearfix"> <span><small>Share your idea?</small>+1-866-976-8874</span></a></div>
+                                <div class="col-md-6 col-xs-6"><a class="action-no gre clearfix"> <span><small>Share your idea?</small>+44-016-1884-0966</span></a></div>
                                 <div class="col-md-6 col-xs-6"><a onclick="$zopim.livechat.window.toggle()" class="action-chat ali clearfix pull-right" tabindex="0"> <span><small>Want to discuss?</small> Live Chat Now</span></a></div>
                             </div>
             </div>

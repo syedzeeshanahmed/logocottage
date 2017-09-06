@@ -121,12 +121,12 @@ Our design maestros’ are constantly working on unique perceptions to create co
 <div class="section-padding branding-package branding-cust multiply">
    <div class="container wow">
       <div class="row">
-         <div class="col-lg-8 col-md-6 col-sm-6 col-xs-12 sec-combo">
+         <div class="col-lg-7 col-md-6 col-sm-6 col-xs-12 sec-combo">
             <h3 class="wow fadeInDown" data-wow-delay="0.2s">The Perfect Start <br>to Complete Branding <br>Solutions</h3>
             <p class="margin-bottom-40 wow fadeInDown" data-wow-delay="0.4s">For brands seeking revamps or brand development from scratch, <br>the start-up combo is the perfect match. Our team of brand analysts made sure<br> that the start-up combo package perfectly caters to all your needs.</p>
             <div class="actions text-center margin-top-20 wow fadeInDown" data-wow-delay="0.6s"><a onclick="$zopim.livechat.window.toggle()" style="cursor: pointer;" class="btn-fill-white pull-left">Let's Get Started</a></div>
          </div>
-         <div class="col-lg-4 col-md-6 col-sm-6 sec-combo-two wow fadeInDown" data-wow-delay="0.2s">
+         <div class="col-lg-5 col-md-6 col-sm-6 sec-combo-two wow fadeInDown" data-wow-delay="0.2s">
             <div class="single ">
                <h4>Branding Package</h4>
                <h3>Start Up Combo</h3>
@@ -154,7 +154,7 @@ Our design maestros’ are constantly working on unique perceptions to create co
                <div class="clearfix order-action"> <input class="btn-fill-white" onclick="window.location.href='{{route('order.branding', [ 'Start Up Combo', 994])}}'" type="submit" value="ORDER NOW" tabindex="0"> </div>
                <p class="text-center">Add on: <span class="sea">$50</span> for 24 Hours Rush Delivery</p>
                <span class="inclusive-black"><a href="{{route('package.suc')}}">VIEW DETAILS</a> </span> 
-               <div class="actions clearfix"> <a class="action-no gre clearfix"> <span class="icon-support"><i class="n-pakage-call icon-shear-your-idea"></i></span> <span><small>Share your idea?</small>1.866.978.6636 <small class="border-right"></small></span> </a> <a onclick="$zopim.livechat.window.toggle()" class="action-chat ali clearfix pull-right" tabindex="0"> <span class="icon-chat"><i class="n-pakage-call icon-live-chat-now"></i></span> <span><small>Want to discuss?</small> Live Chat Now</span></a> </div>
+               <div class="actions clearfix"> <a class="action-no gre clearfix"> <span class="icon-support"><i class="n-pakage-call icon-shear-your-idea"></i></span> <span><small>Share your idea?</small>+44-016-1884-0966 <small class="border-right"></small></span> </a> <a onclick="$zopim.livechat.window.toggle()" class="action-chat ali clearfix pull-right" tabindex="0"> <span class="icon-chat"><i class="n-pakage-call icon-live-chat-now"></i></span> <span><small>Want to discuss?</small> Live Chat Now</span></a> </div>
             </div>
          </div>
       </div>
@@ -219,7 +219,7 @@ by side with extraordinary clients from around the world.
                <div class="no">
                   <div class="cta-block">
                      <span class="icon-support"><i class="n-idea icon-shear-your-idea"></i></span> 
-                     <div class="info"> <small>Share your idea? </small> <span>1 866 976 8874</span> </div>
+                     <div class="info"> <small>Share your idea? </small> <span>+44-016-1884-0966</span> </div>
                   </div>
                </div>
                <div class="chat">

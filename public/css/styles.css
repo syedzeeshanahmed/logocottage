@@ -3403,7 +3403,7 @@ position:relative
 	-webkit-box-direction: normal;
 	-ms-flex-direction: column;
 	flex-direction: column;
-	max-width: 320px;
+	max-width: 340px;
 	min-height: 520px;
 	margin: 15px 15px 20px;
 	padding: 0px;
